@@ -119,39 +119,46 @@ He who alone is great?'
 <p> He rose to go. He was due farther west to see his people. Before leaving, he laid a hand on Kwamankra’s shoulder, and looking gravely into his face, he said: “It is a pity, Kwamankra, I did not meet you a little earlier in my career. But even now, it may not be too late. Good-bye! Mind you meet me at Liverpool Street Station before the hour for the night train up. Goodbye!”</p>
 
 
-  <section id="chapter2">
-            <h3>Chapter 2: [Title]</h3>
-            <p>
-                [Text of Chapter 2]
+ 
             </p>
         </section>
-
-
-CHAPTER II.
-Sowing the Wind.
- SILENCE prevailed in the room, except for the stitch, stitch, stitch, of a woman past the early bloom of womanhood who, at first stitching merely to pass away the time, now thrust, the needle j' viciously into the embroidery, as if bent upon ' drawing some secret from the heart of the silken cords of life.	
- Presently she began to cry—hot burning tears  which flowed from the passion of a heart which nought for rest and found none. 
-The curtains were down, and, save a glowing lire which a young student kept poking for no reason at all, the atmosphere of the room, as far ns these two souls were concerned, was in strange keeping with the fog outside. They were man and wife, these two, at least before God. Of his own free will he had made love to her in far away Africa, and she had responded. But that was years ago. She, then, a buxom, lively lass, he an intelligent youth of the National University. She, now in England, only a nurse-maid; he a successful student, equipped and ready to carry all the world before him. Yes, they were man and wife, these two; yet were they both ill at ease, and the young man would have willingly trusted himself to the tender mercies of—the London fog. Yet he could not go. It was the law of compensation. He was fairly caught in his own meshes, and fate called upon him to face the music.
- To do Tandor-Kuma justice, for that was the youth’s name, he had always intended to remain steadfast in his promise to Ekuba. But now the circumstances were changed, and he was doing his best to grapple with a most difficult situation. How could he, a. professional man, used to all the luxuries of English life and habit, take back with him to start a career in Africa a nurse-maid ? And what would he do, if asked to Government house? Thoughts such as these passed through his mind and-made him obdurate to the pleading of the woman a his feet.	
- “If you cry again, Ekuba, I shall leave you.  You know it is-too bad when I am doing all my best to amuse you in this horribly depressing weather.” “Oh, you needn’t trouble about that, Tandor- Kuma. I know you will leave me in any event. You don’t think I have lived all these years without knowing what you men are. You press weak women into your service, and when you have won their sympathy, for a dream you toss them away like this,” viciously kicking at the rug before the fire. 
-“Now, Ekuba, try and be reasonable. You mustn’t think I am going to desert you. Bad as we men are, we have our ideals, and we never rest until we realise them.”
- “ Good! That beats all the cant I have ever heard! What is the next, pray? And women have no ideals, of course! Uncultured women do not feel, do not think! They are just like clay in the hands of you men to mould—to make or mar.”
- " Now you are getting angry. Let us discuss this matter dispassionately.”
- Instead of that, Ekuba burst into a paroxysm of grief which Tandor-Kuma found it hard to control. By degrees, she grew calmer, and, sticking a pin or two in her head-gear, she snatched up her wraps and stood ready to depart. " 
-Tandor-Kuma,” she said, " you have your ideals, and I have mine. Let us part like friends.  I shall not give you the opportunity of dismissing me like a cur. Good-bye, of the present! It may be we shall meet again.” And before the young student could frame a suitable answer, Ekuba was gone. 
-
 
  <section id="chapter2">
-            <h3>Chapter 2: [Title]</h3>
-            <p>
-                [Text of Chapter 2]
-            </p>
-        </section>
-Chapter III.
-Love and Life.
+            <h3>Chapter II: Sowing the Wind.</h3>
+            
+
+<p> SILENCE prevailed in the room, except for the stitch, stitch, stitch, of a woman past the early bloom of womanhood who, at first stitching merely to pass away the time, now thrust, the needle j' viciously into the embroidery, as if bent upon ' drawing some secret from the heart of the silken cords of life.</p>
+
+<p>Presently she began to cry—hot burning tears  which flowed from the passion of a heart which nought for rest and found none. </p>
+
+<p>The curtains were down, and, save a glowing lire which a young student kept poking for no reason at all, the atmosphere of the room, as far ns these two souls were concerned, was in strange keeping with the fog outside. They were man and wife, these two, at least before God. Of his own free will he had made love to her in far away Africa, and she had responded. But that was years ago. She, then, a buxom, lively lass, he an intelligent youth of the National University. She, now in England, only a nurse-maid; he a successful student, equipped and ready to carry all the world before him. Yes, they were man and wife, these two; yet were they both ill at ease, and the young man would have willingly trusted himself to the tender mercies of—the London fog. Yet he could not go. It was the law of compensation. He was fairly caught in his own meshes, and fate called upon him to face the music.</p>
+
+<p>To do Tandor-Kuma justice, for that was the youth’s name, he had always intended to remain steadfast in his promise to Ekuba. But now the circumstances were changed, and he was doing his best to grapple with a most difficult situation. How could he, a. professional man, used to all the luxuries of English life and habit, take back with him to start a career in Africa a nurse-maid ? And what would he do, if asked to Government house? Thoughts such as these passed through his mind and-made him obdurate to the pleading of the woman a his feet.</p>
+
+ <p>“If you cry again, Ekuba, I shall leave you.  You know it is-too bad when I am doing all my best to amuse you in this horribly depressing weather.” “Oh, you needn’t trouble about that, Tandor- Kuma. I know you will leave me in any event. You don’t think I have lived all these years without knowing what you men are. You press weak women into your service, and when you have won their sympathy, for a dream you toss them away like this,” viciously kicking at the rug before the fire. 
+“Now, Ekuba, try and be reasonable. You mustn’t think I am going to desert you. Bad as we men are, we have our ideals, and we never rest until we realise them.”
+ “ Good! That beats all the cant I have ever heard! What is the next, pray? And women have no ideals, of course! Uncultured women do not feel, do not think! They are just like clay in the hands of you men to mould—to make or mar.”</p>
+ 
+ <p>" Now you are getting angry. Let us discuss this matter dispassionately.”</p>
+ 
+<p> Instead of that, Ekuba burst into a paroxysm of grief which Tandor-Kuma found it hard to control. By degrees, she grew calmer, and, sticking a pin or two in her head-gear, she snatched up her wraps and stood ready to depart. " </p>
+
+<p>Tandor-Kuma,” she said, " you have your ideals, and I have mine. Let us part like friends.  I shall not give you the opportunity of dismissing me like a cur. Good-bye, of the present! It may be we shall meet again.” And before the young student could frame a suitable answer, Ekuba was gone. </p>
+
+  </section>
+
+  
+ <section id="chapter2">
+            <h3>Chapter III: Love and Life.</h3>
+            
+      
+
+
 1.
- The Mfantsipim National University had, about the time that these studies open, been already doing good work- in Fanti-land. It had its origin in the national movement which swept over the . country in the stormy- days of 1897, when the p Unpeople, as if moved by a sudden impulse, rallied round the Aborigines Society and successfully established the principle of land tenure under which the country has since thriven. 
-It had been felt for a long time by men of light and leading in Fanti-land that the Salvation of the people, depended upon education that to educate the youths of the country properly depended upon trained teachers; and that it was the work of a university to provide such training ground. 
+ <p>The Mfantsipim National University had, about the time that these studies open, been already doing good work- in Fanti-land. It had its origin in the national movement which swept over the . country in the stormy- days of 1897, when the p Unpeople, as if moved by a sudden impulse, rallied round the Aborigines Society and successfully established the principle of land tenure under which the country has since thriven. </p>
+ 
+<p>It had been felt for a long time by men of light and leading in Fanti-land that the Salvation of the people, depended upon education that to educate the youths of the country properly depended upon trained teachers; and that it was the work of a university to provide such training ground. </p>
+
 The people did not wait for endowments from the, rich and the philanthropic, or for money-making syndicates to start the work; but quickly collecting a few enthusiastic young men, these went about from province to province and from village to village trying to instil into the commonalty what the country lost by the neglect of education. The people began to understand and to talk about the matter in the wayside places. So that when Jubilee Day came round, and from province to province throughout all the states of Fanti-land the gong-gong of the Amanhin went round for contribution by the people to the National Educational Fund, great was the enthusiasm of high and low, and there was not a hamlet throughout the land which did not send its fair share of contribution. Even the children threw into the Kruba in the market places their three- penny-bits. 
 Among the enthusiastic band who canvassed the educational question was Kwamankra, and none more ardently than he. He was a man of remarkable intelligence, who, receiving the best education the schools of those days could afford, had, by hard work and natural taste for book- learning, so impressed the community with his ability that at the age of nineteen, he had been entrusted with the editorship of the national newspaper, and had already come to be regarded as one of the coming leaders of the people. 
 Upon the opening of the National University, Kwamankra gave up newspaper work and joined the University staff. He was foremost in bringing forward schemes to prevent the work of the University becoming a mere foreign imitation. He kept constantly before the Committee from the first the fact that no people could despise its own language, customs, and institutions and hope, to avoid national death. For that reason the distinctive garb Of students, male and female, was national with an. adaptability suggestive of the advanced state of society. It was recognised that the best part, of the teaching must be done in the people’s own language, and soon several text- books of known authority had, with the kind per- mission of authors and publishers, been translated into Fantl. thereby making the progress of the student rapid and sound. 
