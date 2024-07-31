@@ -62,25 +62,37 @@
 
 <p>Whitely appeared confused, but soon regaining composure, he said to his companion, " Let us move on.”</p>
 
-As they sauntered along, Whitely began: “You know, Kwamankra, I can talk better walking, and I will now answer the question you put to me a while ago. At one time I thought of taking Orders, and even now I may do so. But a little evil thing in the shape of an unanswerable doubt haunts me by day and night and it is even the self-same question I put to you at the book shop.” “Well, I hardly know what to say, Whitely. In these matters, I, of course, regard myself as an outsider. You see we pagans come all the way here to sit at the feet of Gamaliel,” he said with a little mischievous Laugh, and it is uncommonly hard upon us for you to entertain doubts upon the broad questions upon which we seek comparison and light. But I can conceive of no such difficulty as you experience in our system; Jesus Christ man or God? " he repeated slowly and musingly unto himself—then turning somewhat suddenly to his friend, he said, " You know, Whitely, since I learnt your language, not as a vehicle of thought, but as a means of—more intimately studying your philosophy, I have been trying to get at the root idea of the word ‘ God '; and so far as my researches have-gone, it is an Anglo-Saxon word, the Teutonic form being Gutha, which is said to be quite distinct from ‘ good.’ Whence then, one may ask, come your ideas, as associated with the fountain of all good, of omnipresence, omniscience, omnipotence? Of course they are borrowed from the Romans, who were pagans like ourselves, and who, indeed, had much to learn from the Ethiopians through the Greeks.”
- A turn or two took the young men to Russell Square, and soon they found themselves at Bedford Place. The darker man of the two produced a latch-key, and invited his companion to come in. There was nothing remarkable about the rooms except that they were furnished in the Oriental style. Here and there, at convenient corners, were divans with rich cushions, embroidered in silk, and carpets of leopard skins into which the feet sank as one walked. On the walls were trophies, consisting principally of African weapons. There were to be seen a collection of musical instruments of all descriptions, some so simple as to make one ' wonder how any symphony could be got out of them. A well-filled shelf, with a plain oak desk, littered with written matter, with some flowers here and there, about completed the outward circumstance of the room into which our visitor was ushered. Pushing well forward the only easy chair in the room, and placing his friend in it with a smile of welcome, he threw himself upon a low seat beside him, touched a bell on a side table, and ordered some refreshment.
- “I hope you don’t mind my old-world ways,” remarked Kwamankra. “You know, though I have lived in this country fairly long, off and on, I like to sniff a bit of the African air somehow where’er I go.” 
- “That is perfectly natural, at least with a well-balanced mind,” correcting himself, said Whitely; “but what I can’t understand is that you don’t seem a bit Eastern in your methods of work. To judge from that pile yonder,” eyeing the notes mischievously, “one wouldn’t think you were over here for a holiday.” 
-“Oh, that is only a bit of derivative work.
-You have no idea how interesting it is. Would you like to see what -I am-doing ? ”
- “How good of you! I should be delighted.” “I shall soon be finishing now,” said Kwamankra excitedly. “You see I am at the letter ‘ Y.’ And that reminds me: you remember a while ago my taking you to task over the feebleness of the idear-of ‘ God’ in “the Anglo-Saxon language. -1 have just got the corresponding word here in Fanti. It is a big word, so big that you can hardly manage it :— 
-Nyiakropon.
-Does it convey any meaning to you? How can it ? And yet, I can assure you, my friend, it is no mere barbarous jargon. It is the combination of distinct root ideas in one word. It relates back to the beginning of all things visible and links the intelligent part of man with the great Intelligence of the universe. Breaking up the word into its component parts, as I have done, we have:— 
-Nyia nu/ku ara oye, pon. That is, 
+<p>As they sauntered along, Whitely began: “You know, Kwamankra, I can talk better walking, and I will now answer the question you put to me a while ago. At one time I thought of taking Orders, and even now I may do so. But a little evil thing in the shape of an unanswerable doubt haunts me by day and night and it is even the self-same question I put to you at the book shop.” “Well, I hardly know what to say, Whitely. In these matters, I, of course, regard myself as an outsider. You see we pagans come all the way here to sit at the feet of Gamaliel,” he said with a little mischievous Laugh, and it is uncommonly hard upon us for you to entertain doubts upon the broad questions upon which we seek comparison and light. But I can conceive of no such difficulty as you experience in our system; Jesus Christ man or God? " he repeated slowly and musingly unto himself—then turning somewhat suddenly to his friend, he said, " You know, Whitely, since I learnt your language, not as a vehicle of thought, but as a means of—more intimately studying your philosophy, I have been trying to get at the root idea of the word ‘ God '; and so far as my researches have-gone, it is an Anglo-Saxon word, the Teutonic form being Gutha, which is said to be quite distinct from ‘ good.’ Whence then, one may ask, come your ideas, as associated with the fountain of all good, of omnipresence, omniscience, omnipotence? Of course they are borrowed from the Romans, who were pagans like ourselves, and who, indeed, had much to learn from the Ethiopians through the Greeks.”</p>
+
+ <p>A turn or two took the young men to Russell Square, and soon they found themselves at Bedford Place. The darker man of the two produced a latch-key, and invited his companion to come in. There was nothing remarkable about the rooms except that they were furnished in the Oriental style. Here and there, at convenient corners, were divans with rich cushions, embroidered in silk, and carpets of leopard skins into which the feet sank as one walked. On the walls were trophies, consisting principally of African weapons. There were to be seen a collection of musical instruments of all descriptions, some so simple as to make one ' wonder how any symphony could be got out of them. A well-filled shelf, with a plain oak desk, littered with written matter, with some flowers here and there, about completed the outward circumstance of the room into which our visitor was ushered. Pushing well forward the only easy chair in the room, and placing his friend in it with a smile of welcome, he threw himself upon a low seat beside him, touched a bell on a side table, and ordered some refreshment.</p>
+ 
+<p> “I hope you don’t mind my old-world ways,” remarked Kwamankra. “You know, though I have lived in this country fairly long, off and on, I like to sniff a bit of the African air somehow where’er I go.” </p>
+
+<p> “That is perfectly natural, at least with a well-balanced mind,” correcting himself, said Whitely; “but what I can’t understand is that you don’t seem a bit Eastern in your methods of work. To judge from that pile yonder,” eyeing the notes mischievously, “one wouldn’t think you were over here for a holiday.” 
+“Oh, that is only a bit of derivative work.</p>
+
+<p>You have no idea how interesting it is. Would you like to see what -I am-doing ? ”</p>
+
+<p> “How good of you! I should be delighted.” “I shall soon be finishing now,” said Kwamankra excitedly. “You see I am at the letter ‘ Y.’ And that reminds me: you remember a while ago my taking you to task over the feebleness of the idear-of ‘ God’ in “the Anglo-Saxon language. -1 have just got the corresponding word here in Fanti. It is a big word, so big that you can hardly manage it :— </p>
+
+<p>Nyiakropon.</p>
+
+<p>Does it convey any meaning to you? How can it ? And yet, I can assure you, my friend, it is no mere barbarous jargon. It is the combination of distinct root ideas in one word. It relates back to the beginning of all things visible and links the intelligent part of man with the great Intelligence of the universe. Breaking up the word into its component parts, as I have done, we have:— </p>
+
+<p>Nyia nu/ku ara oye, pon. That is, </p>
 He who alone is great?'
- “How very suggestive. Who should have thought it?” observed Whitely, enthusiastically. " Well, let us take the next word, then,
- Nyami, 
-which is still more suggestive, and analyse it. Broken up, it stands in bold relief thus :— 
-Nyia oye emi. That is, 
-He who is lam. 
-Now compare the Hebrew lam hath sent me, and you have it. Nor is this a fanciful play upon roots, for our people sing unto this day:
- ‘Wana si onyi Nyami se?
- 			Dasayi wo ho inde, okina na onyi, 
+ <p>“How very suggestive. Who should have thought it?” observed Whitely, enthusiastically. " Well, let us take the next word, then,</p>
+ 
+ <p>Nyami, </p>
+ 
+<p>which is still more suggestive, and analyse it. Broken up, it stands in bold relief thus :— </p>
+
+<p>Nyia oye emi. That is, </p>
+
+<p>He who is lam. </p>
+<p>Now compare the Hebrew lam hath sent me, and you have it. Nor is this a fanciful play upon roots, for our people sing unto this day:</p>
+<p>‘Wana si onyi Nyami se?</p>
+<p>Dasayi wo ho inde, okina na onyi, </p>
 Nyami firi tsitsi kaisi odumankuma.’ 
 meaning: 
 ‘Who says he is equal with God?
