@@ -1,44 +1,65 @@
-# Ethiopia-Unbound.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ethiopia Unbound</title>
-     <title>Place Names</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Ethiopia Unbound by Joseph Casely Hayford</title>
     <style>
-         <title>Justified Paragraphs</title>
-       p {
-            text align: justify;
-        }
-       
         body {
             font-family: Arial, sans-serif;
-            margin: 40px;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
         }
-        h1 {
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+        footer {
             text-align: center;
-            
+            padding: 10px;
+            background: #333;
+            color: white;
+            margin-top: 20px;
         }
-        .metadata {
-            margin-bottom: 20px;
-        }
-        .metadata p {
-            margin: 5px 0;
-        }
-        
     </style>
 </head>
 <body>
-    <h1>Ethiopia Unbound</h1>
-    <div class="metadata">
-        <div class="paragraph"><div class="paragraph"><strong>Author:</strong> Joseph Casely Hayford</div></div>
-        <div class="paragraph"><div class="paragraph"><strong>Publisher:</strong> The Western Echo</div></div>
-        <div class="paragraph"><div class="paragraph"><strong>Publication Date:</strong> 1911</div></div>
-    </div>
+    <div class="container">
+        <h1>Ethiopia Unbound</h1>
+        <h2>by Joseph Casely Hayford</h2>
+        
+        <section id="chapter1">
+            <h3>Chapter 1: [Title]</h3>
+            <p>
+                [Text of Chapter 1]
+            </p>
+        </section>
 
-    </body>
+        <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
+
+        <!-- Add more chapters as needed -->
+
+    </div>
+    <footer>
+        <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+    </footer>
+</body>
 </html>
 
-    
