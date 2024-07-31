@@ -93,21 +93,31 @@ He who alone is great?'
 <p>Now compare the Hebrew lam hath sent me, and you have it. Nor is this a fanciful play upon roots, for our people sing unto this day:</p>
 <p>‘Wana si onyi Nyami se?</p>
 <p>Dasayi wo ho inde, okina na onyi, </p>
-Nyami firi tsitsi kaisi odumankuma.’ 
-meaning: 
-‘Who says he is equal with God?
- 			Man is to-day, to-morrow he is not,
- 			lam is from eternity to eternity.’ 
-“You can now understand,” continued Kwamankra in a low, sad tone, " why your difficulty surprised me. But now that I come to think of it, it may be due to the limitations of your language.' 	 " After what you have just shown me, I must confess there is a deal in what you say; and somehow you Orientals manage to keep your hold on the eternal verities, where we flounder and are lost.” 
-“Pardon me, my good friend, not quite that. As yet you are only drifting, drifting, drifting away from the ancient moorings that you Westerners built in sand. Jesus Christ came from the East. In Bethlehem he was born, and in Egypt was he nurtured; and, yet, you seek to teach Him us. We have caught His Spirit and live; you follow the letter and are tossed hither and thither by every wind. Forgive me when I say that the future of „ the world is with the East. The nation that can, Ji in the next century, show the greatest output of spiritual strength, that is the nation that shall lead the world, and as Buddha from Africa taught Asia, so may Africa again lead the way.” 
-“I am not prepared to dispute the matter with you, Kwamankra, and there seems to be a good deal of truth in-what you say; but how about the doubt deep down in my own heart? That is a personal affair you know. In a word, what think you of the Christ ? ”
- “What a clever dialectician you are, Whitely, l to be sure? If_I_did not know you so well,  I would hardly think you were serious. You throw back to me the question I put to you a while ago, and you lay upon me the burden of solving my own riddle.” 
-Whitely’s voice was low and sad with a suspicion of emotion in his whole manner, as he said: “Forgive me, Kwamankra if I have seemed flippant; I was never more serious in my life. I have arrived at a crisis in my career which may mean disaster at any moment; and, what is more, until this day I have never had the courage to' speak it out to any of my friends for fear they would mock at my doubts.”
- Kwamankra turned upon his friend a look full of penetration and sympathy; and, for the moment, Whitely felt uneasy under the searching glance of the Eastern student. It seemed to him as if in that instant Kwamankra had probed his inner nature and found it shallow. 
-According to our ideas, Whitely, one broad (divinity runs through humanity, and whether we are gods, or we are men, depends upon how far we (nave given way to the divine influence operating upon our humanity; and, comparing one system with another, I must confess there was in the man Christ Jesus a greater share of divinity than in any teacher before or after Him, and that was in .my mind when I was wondering what Marcus ^Aurelius had in common with Jesus Christ.” 
- “But tell me, Whitely, supposing Jesus Christ had been born of an Ethiopian woman instead of Mary of the line of David, do you think it would have made any difference in the way he influenced mankind? ” “What a strange question,” returned Whitely; “our Lord born of an Ethiopian woman?”forgetting his doubts for the moment—“ Whatever put such an idea into your head? I am sure you are the first man who has given expression to such a thought.
-“Yes, it is strange ”—and there was "a vibration of the intensest pathos in Kwamankra’s voice  —“ that an African should venture to think that the Holy One of God might have been born of his I race. I can easily interpret your thoughts; but, I tell me, what is there extraordinary in the idea? " I " Oh, I don’t know. Habits of thought, convention, and all 'that sort of thing, I suppose. And yet I am hardly qualified to speak upon these things,” said Whitely, softening.
- He rose to go. He was due farther west to see his people. Before leaving, he laid a hand on Kwamankra’s shoulder, and looking gravely into his face, he said: “It is a pity, Kwamankra, I did not meet you a little earlier in my career. But even now, it may not be too late. Good-bye! Mind you meet me at Liverpool Street Station before the hour for the night train up. Goodbye!”
+<p>Nyami firi tsitsi kaisi odumankuma.’</p> 
+<p>meaning: </p>
+<p>‘Who says he is equal with God?</p>
+ 			<p>Man is to-day, to-morrow he is not,</p>
+ 			<p>lam is from eternity to eternity.’ </p>
+<p>“You can now understand,” continued Kwamankra in a low, sad tone, " why your difficulty surprised me. But now that I come to think of it, it may be due to the limitations of your language.' 	 " After what you have just shown me, I must confess there is a deal in what you say; and somehow you Orientals manage to keep your hold on the eternal verities, where we flounder and are lost.” </p>
+
+<p>“Pardon me, my good friend, not quite that. As yet you are only drifting, drifting, drifting away from the ancient moorings that you Westerners built in sand. Jesus Christ came from the East. In Bethlehem he was born, and in Egypt was he nurtured; and, yet, you seek to teach Him us. We have caught His Spirit and live; you follow the letter and are tossed hither and thither by every wind. Forgive me when I say that the future of „ the world is with the East. The nation that can, Ji in the next century, show the greatest output of spiritual strength, that is the nation that shall lead the world, and as Buddha from Africa taught Asia, so may Africa again lead the way.” </p>
+
+<p>“I am not prepared to dispute the matter with you, Kwamankra, and there seems to be a good deal of truth in-what you say; but how about the doubt deep down in my own heart? That is a personal affair you know. In a word, what think you of the Christ ? ”</p>
+
+<p> “What a clever dialectician you are, Whitely, l to be sure? If_I_did not know you so well,  I would hardly think you were serious. You throw back to me the question I put to you a while ago, and you lay upon me the burden of solving my own riddle.” </p>
+
+<p>Whitely’s voice was low and sad with a suspicion of emotion in his whole manner, as he said: “Forgive me, Kwamankra if I have seemed flippant; I was never more serious in my life. I have arrived at a crisis in my career which may mean disaster at any moment; and, what is more, until this day I have never had the courage to' speak it out to any of my friends for fear they would mock at my doubts.”</p>
+
+ <p>Kwamankra turned upon his friend a look full of penetration and sympathy; and, for the moment, Whitely felt uneasy under the searching glance of the Eastern student. It seemed to him as if in that instant Kwamankra had probed his inner nature and found it shallow. </p>
+ 
+<p>According to our ideas, Whitely, one broad (divinity runs through humanity, and whether we are gods, or we are men, depends upon how far we (nave given way to the divine influence operating upon our humanity; and, comparing one system with another, I must confess there was in the man Christ Jesus a greater share of divinity than in any teacher before or after Him, and that was in .my mind when I was wondering what Marcus ^Aurelius had in common with Jesus Christ.” </p>
+
+<p> “But tell me, Whitely, supposing Jesus Christ had been born of an Ethiopian woman instead of Mary of the line of David, do you think it would have made any difference in the way he influenced mankind? ” “What a strange question,” returned Whitely; “our Lord born of an Ethiopian woman?”forgetting his doubts for the moment—“ Whatever put such an idea into your head? I am sure you are the first man who has given expression to such a thought.</p>
+
+<p>“Yes, it is strange ”—and there was "a vibration of the intensest pathos in Kwamankra’s voice  —“ that an African should venture to think that the Holy One of God might have been born of his I race. I can easily interpret your thoughts; but, I tell me, what is there extraordinary in the idea? " I " Oh, I don’t know. Habits of thought, convention, and all 'that sort of thing, I suppose. And yet I am hardly qualified to speak upon these things,” said Whitely, softening.</p>
+
+<p> He rose to go. He was due farther west to see his people. Before leaving, he laid a hand on Kwamankra’s shoulder, and looking gravely into his face, he said: “It is a pity, Kwamankra, I did not meet you a little earlier in my career. But even now, it may not be too late. Good-bye! Mind you meet me at Liverpool Street Station before the hour for the night train up. Goodbye!”</p>
+
 
   <section id="chapter2">
             <h3>Chapter 2: [Title]</h3>
