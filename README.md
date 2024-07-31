@@ -92,7 +92,14 @@ Whitely’s voice was low and sad with a suspicion of emotion in his whole manne
 According to our ideas, Whitely, one broad (divinity runs through humanity, and whether we are gods, or we are men, depends upon how far we (nave given way to the divine influence operating upon our humanity; and, comparing one system with another, I must confess there was in the man Christ Jesus a greater share of divinity than in any teacher before or after Him, and that was in .my mind when I was wondering what Marcus ^Aurelius had in common with Jesus Christ.” 
  “But tell me, Whitely, supposing Jesus Christ had been born of an Ethiopian woman instead of Mary of the line of David, do you think it would have made any difference in the way he influenced mankind? ” “What a strange question,” returned Whitely; “our Lord born of an Ethiopian woman?”forgetting his doubts for the moment—“ Whatever put such an idea into your head? I am sure you are the first man who has given expression to such a thought.
 “Yes, it is strange ”—and there was "a vibration of the intensest pathos in Kwamankra’s voice  —“ that an African should venture to think that the Holy One of God might have been born of his I race. I can easily interpret your thoughts; but, I tell me, what is there extraordinary in the idea? " I " Oh, I don’t know. Habits of thought, convention, and all 'that sort of thing, I suppose. And yet I am hardly qualified to speak upon these things,” said Whitely, softening.
- He rose to go. He was due farther west to see his people. Before leaving, he laid a hand on Kwamankra’s shoulder, and looking gravely into his face, he said: “It is a pity, Kwamankra, I did not meet you a little earlier in my career. But even now, it may not be too late. Good-bye! Mind you meet me at Liverpool Street Station before the hour for the night train up. Goodbye!”	
+ He rose to go. He was due farther west to see his people. Before leaving, he laid a hand on Kwamankra’s shoulder, and looking gravely into his face, he said: “It is a pity, Kwamankra, I did not meet you a little earlier in my career. But even now, it may not be too late. Good-bye! Mind you meet me at Liverpool Street Station before the hour for the night train up. Goodbye!”
+
+  <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 
 
 CHAPTER II.
@@ -108,6 +115,13 @@ The curtains were down, and, save a glowing lire which a young student kept poki
  Instead of that, Ekuba burst into a paroxysm of grief which Tandor-Kuma found it hard to control. By degrees, she grew calmer, and, sticking a pin or two in her head-gear, she snatched up her wraps and stood ready to depart. " 
 Tandor-Kuma,” she said, " you have your ideals, and I have mine. Let us part like friends.  I shall not give you the opportunity of dismissing me like a cur. Good-bye, of the present! It may be we shall meet again.” And before the young student could frame a suitable answer, Ekuba was gone. 
 
+
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 Chapter III.
 Love and Life.
 1.
@@ -180,7 +194,12 @@ For answer, Kwamankra caressingly drew her nearer to his side.
 Summer was waning into autumn, and the chrysanthemum and the sweet mignonette were in bloom, when the lovers decided upon marriage before returning to Africa, where Kwamankra was to start a practice. It was to be a simple affair, at which there were to be no bride’s-maids or groom’s-men, and only the nearest friends were to be asked. Mansa appeared in church on the wedding-day in a simple African costume of her own design, tastefully got up, and when someone asked her the reason for her choice, she said she knew it would please her husband, and, besides, it answered best to her own conception of what was proper. And, “so, these were wed,’’ to employ Tennyson’s words.
  	Kwamankra was not long in taking up the duties of life in grim earnest with his dear little , wife to cheer and to comfort him. From the first success smiled upon them, either as the result of honest, strenuous effort, coupled with natural ability, or as a mark of the favour of the gods, or both. Gradually they built up a big practice, and by the time their little boy was able to toddle from room to room, and call “Fadder! Mudder!" they had a sweet little home of their own, with plenty of flowers, and sunshine, and love, and God’s blessing. Five short, very short, happy years of mutual love and association, and then there came; a cloud which, for the moment, seemed to Kwamankra’s breaking heart and tearful eyes without the silver lining; for, with the advent of their 8 second born, a sweet baby girl, Mansa, poor wife L and mother, paid with her life for that of her child, who, as though she could not stand the gloom she had brought to this once bright home, soon joined her mother, and made the former gloom twice gloomier, and father and son were alone with a twice two-fold bond of love between their souls and the souls of those that had gone before.  
 And when his little boy of three asked Kwamankra: “Where is ‘Mudder?” or “Where is Sissie?” he would say : “ ‘ Mudder' is gone to God, or Sissie is gone to God,” as the case might be, and would turn aside his face, lest his little one might know the full extent of their woe.
-
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 CHAPTER IV.
 LOVE AND DEATH.
 
@@ -277,6 +296,12 @@ When Kwamankra awoke, the work-a-day world was going on in its accustomed way, a
 ******************************************** 
 The new-born child opened her eyes upon a mysterious world. In her face was a puzzled look—a look of half doubt and half knowledge. After a few playful years she flitted away. Men talked of a ripe soul. There was one who understood, but said nothing, and that was the father of the child. 
 
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 CHAPTER V.
 IN THE METROPOLIS OF THE GOLD COAST 
 
@@ -356,6 +381,13 @@ Later in the day he came across Essi Maynu, the selfsame laundry maid of old day
 "What’s the matter,” said Kwamankra. “Does your new religion teach you to be shy of old friends ? Now, to show you that I, at least, am not changed, I shall come round this evening with some of my Sankofu, and shan’t we have a nice time with music and with dance? ” She raised her eyes in holy horror as much as to say : “Get thee behind me Satan.”
  Kwamankra retreated like a beaten man; but the lesson was not lost on him. Henceforth he was resolved to devote the rest of his life in bringing back his people to their primitive simplicity and faith. And, in that resolve, he mused upon the words “Bushido-(Shintoism) offers us the ideal instead of wealth, humility in place of ostentation, reserve instead of reclame, self-sacrifice in place of selfishness,, the care of the interest of the State rather than that of the individual. It inspires-ardent courage and the refusal to turn back upon the enemy. It looks death calmly in the facer and prefers it to ignominy of any kind. It preaches submission to authority and the sacrifice of all private interests, whether of self or of family, to the common weal. It requires its disciples to submit to a strict physical and mental discipline, develops a martial spirit, and by lauding the virtues of courage, constancy, fortitude, faithfulness, daring, self-restraint, offers an exalted code of moral principles, not only for the man and the warrior but for men and women in times both of peace and war.” “ 
 That is it; that is it; I have it,” said Kwamankra. “If my people are to be saved from national and racial death, they must be proved as if by fire—by the practice of a virile religion, not by following emasculated -sentimentalities which men shamelessly and slanderously identify with the holy One of God, His son, Jesus Christ.” 
+
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 CHAPTER VI. 
 THE WORLD, THE FLESH AND THE DEVIL.
 1.
@@ -403,6 +435,13 @@ One day as he returned from the house of prayer he met an errand boy, who handed
 The old woman dried a tear or two, and said very slowly and deliberately:
  “Chaplain, you asked me when I had done telling my story what I meant by it. I have prayed to God night and day for some time to be able to answer that self-same question when it came, and now, God helping me, I will. Know thou, then, that thou art the Akarbah ----- hath exalted you above thy fellows that thou mightest be a guide unto us his forlorn little ones, and show us the way of love and t' vav to heaven. But surely thou hast not dealt in love with thy brother, Kwaw Baidu, who is now out of work, with wife and children depending upon him, whose story is known to all the parishioners for miles and miles around. And oh ! if the heaven you have so often preached about hath two ways leading to it, one for us black folk and one for you our masters, what an undesirable place it must be for us after all the I weariness here below. But do tell me—you who have raised the hope in me—where is now my husband, and where my child? " ejaculated the poor woman, wringing her hands. “Tell me, for thou hast helped to raise false hopes in me. Oh, God ! What shall I do?” And the poor woman swooned away dead faint. Every effort was made to revive her, without success, and when the doctor arrived he pronounced life extinct. 
 
+  <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
+
 SIGNS OF EMPIRE: LOYAL HEARTS.
 CHAPTER VII.
 SIGNS OF EMPIRE: LOYAL HEARTS.
@@ -427,6 +466,13 @@ When the servant had placed the drinks on the table and departed, Whitely said: 
 “Mind you don’t miss the Chief Magistrate’s dinner, or he’ll never forgive you; the hour is 8 p.m.,” said Whitely, as he slowly descended the stairs. 
 As for Macan, he could not help turning over in his mind the strange medley which was labelled the Gold Coast Diplomatic Service, He remembered reading somewhere before coming out- the following: “it must strike the careful observer that the position of a man in the public service of the Gold Coast is often a difficult one. If such a man is honest and intelligent, he cannot fail soon to discover the peculiar conditions under which he is called upon to discharge his duties. The first thing that will occur to him will be the dog- in-the-manger.. policy of the Administration, ''whose servant he is. He will find that, theoretically, the people are free, having their I own laws and institutions. He will see that the Government, apparently, recognise this fact; but that in practice, he, the public servant, is expected to interfere with the institutions of the people as far as he dares. Neither is he told to allow the natural development of the institutions of the people, nor is he directed, in so many words, to attempt to mould them. What he does to-day, which is considered wrong by his superiors, may be done tomorrow by another and applauded.” As he put two and two together, trying to fathom the real cause of his superior officer’s annoyance, the truth gradually dawned upon him. He had acted bv the natives as an honest man should do. During the time he had acted as the head of the Diplomatic Service he had given the chiefs every encouragement to unite with one another and to consolidate their authority and jurisdiction over their people. He had encouraged national schools throughout the district, and supported the Chiefs to make bye-laws, requiring every child to attend the schools until the age of fourteen. All these were in the line of normal and healthy growth of the people in enlightened progressive ways, and he had worked with a will and a great deal of intelligence and tact. It had never dawned upon him that there was a theoretical policy and a practical one, the latter having as its aim such a shaping of circumstances as would forever make the Ethiopian in his own country a hewer of wood and a drawer of water unto his Caucasian protector and so-called friend. This then was what he was expected to do. Was it right, could he conscientiously do it? 
 
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
+
 CHAPTER VIII. 
 MAGISTERIAL FUNCTION. 
  A SPLENDID repast, in the course of which good spirits and good 'cheer had flowed freely. The talk had varied from Oxford dons to Japanese admirals and Russian generals; and when it came down to liqueur and coffee everyone was merry, but truly the merriest was the genial host, and a right down good sort he was. 
@@ -448,7 +494,14 @@ The Chief Magistrate was known for his frank expression of opinion, no matter wk
 “And what has reciprocity to do with this matter? ” angrily demanded the Political Officer. “Only this, sir,” began Kwamankra calmly, “that if you took mankind in the aggregate, 
 irrespective of race, and shook them up together, as you would the slips of paper in a jury panel box, you would find after the exercise that the cultured would shake themselves free and come together, and so would the uncouth, the vulgar, and the ignorant; but, of course, you would ignore this law of nature, and, with a wave of the hand, confine the races in separate air-tight compartments. Wherefore I preach reciprocity.” 
 “I say, you fellows, we must be going; it is getting late ”—this said the senior member of the legal fraternity as he rose, turban in hand, to take leave of the genial host, who was fuming at Bil- cox’s rudeness. “Good-night, sir, we thank you so much for kind entertainment,” he continued, addressing the Chief Magistrate. 
-“Good-night, gentlemen.” 
+“Good-night, gentlemen.”
+
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 
 CHAPTER IX. 
  THE YELLOW PERIL.	
@@ -480,6 +533,13 @@ And now, he was left alone to help realise that prayer in the youthful enquirer.
  “But it is high time you were in bed. Another time, if you are good, I will tell you all about the Political Officer, and my experiences with him, if you remind me how far we have come to-day.” “Good-night, dad!” 
 “Good-night, my boy,” and, in a minute, he bad disappeared behind the curtains, leaving Kwamankra to his thoughts and to his pipe. 
 
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
+
 CHAPTER X THE BLACK Peril. 
 HERE, on the. Gold Coast, the people have shown that they do not mean to go under, but in a different way— ” this, as the precocious you! produced a sheet-of paper with the words neatly written down “ I meant not to forfeit the rest of the story you see, dad, and now for your promise please," drawing a low seat close to the paternal chair.
  “I see you have forgotten the illustration but not the text, and as other illustrations are easy to find," said Kwamankra, “I shall redeem my promise. They are scattered over the pages of history. In your historical lessons you have undoubtedly heard of what is called the ‘ Eastern Question?’"	
@@ -490,6 +550,13 @@ HERE, on the. Gold Coast, the people have shown that they do not mean to go unde
  “How does it ?—good ! I like to think you are following so closely what the learned books call the argument, that is, the immediate subject under discussion. Well, I will tell you in one word. The Political Officer represents the self-assertive-ness of the English in extending power and authority at every nook and corner wherever the thin end of the wedge can be introduced. The sagacious black man offers a point of resistance when he pleads his peculiar customs and institutions, and presto! the cry of the ‘educated native peril’ is raised, as if forsooth, the ‘native’ ceases to be a ‘ native ’ the moment he is educated. The genuine cry might be ‘the black peril,’ but that won’t do at present. The wolf and the lamb story again, you see.” 
 “But why don’t you expose these things, dad? You can write, you can talk, why don’t you let the whole world know of them,” said the lad with some degree of beat.
 “Not so fast, my boy,” said Kwamani laying his hand on the child’s head, and speak slowly and deliberately, as was his wont w about to give vent to some utterance from the v recesses of his soul. “I wish you to understand my dear child, that it is neither the anger of powerful, nor the hope of favour from the gr that has hitherto sealed my lips. I have taut you from your infancy to regard truth as highest of all virtues, as the apex of character and he who falls in declaring the truth in his d and generation, is but a humble follower of Socrates, or if you prefer it, of the Nazarene. try to follow his example, prepared to suffer needs be in the cause of country, race, ai humanity,” and drawing the child nearer, added in suppressed tones—“only the hour is not yet come. Pray for thy father, that when it do come, he may be found strong and faithful.”
+
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 
  CHAPTER XI 
 ON “THE GREAT NORTH WESTERN” 
@@ -518,6 +585,13 @@ The Inspector made as if he would knock the collector down, but thought better o
 Try again, Sir,” suggested Kwamankra dryly. “There may be a drop of water in the oil.” Puff! went out the light the second time. “Try again! try again!” came from all sides. “Shall I get out and buy you some paraffin, Mr. Inspector? You know this is perfectly disgraceful. Thirteen shillings for thirty-nine miles and no oil,” said Tandor-Kuma.
  “Try again! try again! knock him down, teach him a lesson,” shouted some roughs. It was getting a bit exciting. The Inspector beat a hasty retreat. “They call dis di Govmont railway. It is di dirtiest hole I-have been in. South Africa, East Africa, North Africa, they be countries. Dis country is disgraceful to the British Govmont,” put in a Frenchman at the corner. Pu! pu! pu ! piyu ! ! Pu ! pu ! piyu'!! came the heartbreaking snort from the nostrils of the iron horse. It reminded one of an overworked omnibus horse at midnight in Oxford Street. First back- wards, then downwards, up the incline, and down the gradient, toyed the iron horse, and as Tandor- 
 Kuma thought of his wife and children waiting dinner in the cosy little room across the bridge, he could not help inwardly bestowing a blessing upon the devil and all his works. It was not until 9.30 p.m. that the terminus was made, the party having left on their 39 miles run at 2.30 p.m. As the trio walked the lonely streets, where black men are scarcely seen after sunset, the Professor, as a parting reminder, said to Kwamankra, “ On principle I never pay for a ticket on this line until I have made the terminus, and if you are a wise man, you will take my tip.”
+
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
   CHAPTER- XII. 
 A LEADER OF SOCIETY. 
 TOM PALMER, the son of Jonathan Palmer, of Horse Road, Ussher Town, Accra, was a goodly youth of many fine qualities. The Palmers originally hailed from Sierra Leone, settling on the Gold Coast early in the fifties of the last century. By dint of great energy, combined with uncommon business tact, the first Palmer had gradually won for himself a competence which the second Palmer, with equal tact, had gone on improving, so that when it came to the turn of Jonathan Palmer, he was looked up to as a man of wealth, position, and influence in the community of Accra.
@@ -537,6 +611,13 @@ Kwamankra eyed the young man for a second or two, and then said with a slight tr
  ************************************************ 
 “Now putting philosophy aside for the moment, I daresay you have flirted a little in your time,” said Kwamankra, good-humouredly, then, with a mischievous twinkle, “ and you may have a child, a poor nameless one, in some out-of-the-way corner of the world. You needn’t be shy about it. All of us do do it, though not all of us are men enough to own it. Now, believe me, my friend, any child of Eve, who has deliberately become their mother of your child is worthy of your love, and  to treat her as an outcast is to be unworthy of the ' name of a man. In this wise, we pagans are more Christ-like than so-called Christians. ' He-'- that is without sin among you, let him first cast a stone at her. And again, He stooped down and wrote on the ground,’ ” he quoted somewhat irrelevantly, then continued: “ In Africa, she is protected; she is a wife. Call it polygamy, if you like. In so-called Christian countries she is despised, a prostitute, a leper.”  
 In the fullness of time, Tom Palmer got married. None of his wives sought to be a leader of society, and he was well content. He himself did not seem likely, now that he had come to his heritage, that he would fulfil the promise of his early ambition. In due course the little ones came —so gladsome their little black faces wherever they appeared, the fulfilment of the radiant love which gave them birth. And as the years rolled by, it was sure that his girls were growing up to be useful members of the community, for Tom Palmer had made up his mind that he would have no Parisian skirts or Regent Street high-heeled nonsense, as he bluntly put it, nor would he ever condescend to explain himself. 
+
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 
 CHAPTER XIII. 
 REAPING THE WHIRLWIND.
@@ -569,6 +650,13 @@ Tandor-Kuma would have liked a little time to reflect. But suddenly Ekuba swept 
 The next morning, a gentle tap was heard at the door of Tandor-Kuma, and a voice from within said, “come in.” Ekuba boldly entered, and placing down some clean linen, flung herself at Tandor-Kuma’s feet, who was already dressed and reclining in a low chair by the open window. Tandor-Kuma got up and faced her. 
 “What is this you have done,” he said under his breath, -perceiving the awkwardness of the situation. For answer Ekuba got up and deliberately locked the door upon the outside world. Then facing the man, she said, “Tandor- Kuma, these many years my heart has hungered for your sympathy, and now that the gods have brought you back to me, surely, you will not deny me one kind word. Just say you care for me a little. That is all I want.”
  Tandor-Kuma made a move as if he would unbolt the door. In that instant Ekuba held him spell-bound with a look so pitiful, so imploring, so passionate that he quailed before her gaze. He The next moment he Erring love had con- hesitated, then wavered, completely broke down, quered, that was all. 
+
+  <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 THE BLACK MAN’S BURDEN. 
  CHAPTER XIV.
  
@@ -598,6 +686,13 @@ On this auspicious occasion, he was full of the big things he had done up countr
  ***** *******************************
 As the Professor and Kwamankra shook hands at the station, the former said to his friend: “Those were brave words. But you may be sure this kind of thing will get you into trouble one of these days. But here’s ray hand on it, whenever you need help I am your man.” Kwamankra spoke low: ‘‘I have counted the cost, and, it may be, I shall need thy help when the hour comes.” 
 
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
+
 CHAPTER XV. 
 AS IN A GLASS DARKLY.  
 
@@ -612,6 +707,13 @@ It came to pass upon the third year after the meeting of the Nations 'that a mig
 By this time the unthinking crowd were beside themselves in emulation of the white man’s ways, and when they bowed the knee in the House of Mammon, they thought they worshipped the true God, and seemed to forget that once they were Ethiopians. 
 * * * 
 The gods met in the ethereal heights of Mount Atlas to undo the work of mortals. Said they, “The Nations are as a dream before us, and they know not what they do. Are not the Ethiopians a peculiar people, destined for a peculiar part in the world’s work ? An end to the machinations of men! 	 In the self-same era a god descended upon earth to teach the Ethiopians anew the way of life. He came not in thunder, or with great sound, V but in the garb of a humble teacher, a John the ' , Baptist among his brethren, preaching racial and national salvation. From land to land and from shore to shore, his message was the self-same one, which, interpreted in the language of the Christ, was : What shall it profit a race if it shall gain the whole world and lose its own soul?
+
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 
 
 CHAPTER XVI.
@@ -630,6 +732,13 @@ The claim of Edward Wilmot Blyden to the esteem and regard of all thinking Afric
  “Edward Wilmot Bly den is a leader among leaders of African aboriginal thought; and, lest a prophet should be without honour among his own kindred, I am happy on this occasion also to have, among others, the privilege and the opportunity of giving him the recognition that is his due.” 
 For days and days the students of Hampton talked of little else besides the new conception of national aims presented in the address; and, in after years, it was noted that it gave a new colour and meaning to the good racial work done at Hampton. 
 
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
+
 CHAPTER XVII
 RACE EMANCIPATION—PARTICULAR 
 CONSIDERATIONS: AFRICAN NATIONALITY.
@@ -646,6 +755,13 @@ Someone may say, but, surely, you don’t mean to suggest that questions of dres
 Here, then, is work for cultured West Africans to start a reform which will be world-wide in its effects among Ethiopians, remembering as a basis that we, as a people, have our own statutes, the customs and institutions of our fore-fathers, which we cannot neglect and live. We on the Gold Coast are making a huge effort in this direction, and though European habits will die hard with some of our people, the effort worth making; and, if we don’t succeed quite with this generation, we shall succeed with the next. That the movement is gaining ground may well be gathered from the following extract from the Gold Coast Leader of 24th February, 1907, reporting the coronation of Ababio IV., Mantse, that is King, of “British Accra.” Says the correspondent: “For the first time I realised that the Gold Coast would be more exhilarating and enjoyable indeed if the educated inhabitants in it would hark back V	to the times of old and take a few lessons in the art and grace of the sartorial simplicity and elegance of their forebears. The scholars ’ looked quite noble and full of dignity in the native dress. There was not one ignoble or mean person among them, and so for the matter of that did the ladies.” 
  Then I should like to see Ethiopian Leagues formed throughout the United State's much in the same way as the Gaelic League in Ireland for the purpose of studying and employing Fanti, Yoruba, Hausa, or other standard African language, in daily use. The idea may seem extraordinary on the first view, but if you are inclined to regard it thus, I can only point to the examples of Ireland and Denmark, who have found the vehicle of a national language much the safest and most natural way of national conservancy and evolution. If the Dane and Irish find it expedient in Europe, surely the matter is worthy of consideration by the Ethiopian in the United States, in Sierra Leone, in the West Indies, and in Liberia. 
 A distinguished writer, dwelling upon the advantages of culture in a people’s own language said: “These are important considerations of a highly practical kind. Ten years ago, we had in Ireland a people divorced, by half a century of education conducted along alien lines, from their own proper language and culture. We had also in Ireland a people seemingly incapable of rational action, sunk in hopeless poverty, apparently doomed to disappear. We have in Ireland to-day the beginnings of a system of education in the national language and along national lines; and we have at the same time, and in the places where this kind of education has been operative, an unmistakable advance in intellectual capacity and material prosperity.” Now, if the soul that is in the Ethiopian, even in the United States, remains Ethiopian, which it does, to judge from the coon songs which have enriched the sentiment of mankind by their pathos, then, I say, the foregoing words, true as everyone must admit they are, point distinctly to the impossibility of departing from nature's way with any hope of lasting good to African nationality. I do sincerely trust these thoughts will catch the eye of such distinguished educationists as Mr. Booker T. Washington and others of the United States and in the West Indies as also the attention of similar, workers in West Africa who have the materials ready at hand. It is a great work, but I do believe that my countrymen have the heart and the intelligence to grapple with it successfully.
+
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
 
  CHAPTER XVIII. 
 RACE EMANCIPATION: THE CRUX OF THE MATTER. 
@@ -706,6 +822,13 @@ As a precautionary measure, I would take care to place the educational seminary 
 “Now, it is easy to see that the graduates that such a school will turn out will be men—no effete, mongrel, product of foreign systems. “When three or four years back I. had the pleasure of accompanying Dr. Illy den to the Royal Academy, he drew my particular attention to a famous picture, representing the wolf and the lamb as dwelling together, etc. After we had both drunk in the beauty of portraiture for a while, he gravely remarked: And a little child shall lead them—that is Africa.' I was struck by the allusion, and I still think there is a deal in the reflection. But it has since struck me also, that it is not the spoilt educated African that may be expected to help in the regenerative work of the world. The unspoilt son of the tropics, nursed in a tropical atmosphere, favourable to the growth of national life, he it is who may show us the way. 
 “The voice of the ancient universal God goes forth once more, who will go for us, who will show us any good? May there be a full, free, and hearty response from the sons of Ethiopia in the four quarters of the globe.” 
 
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
+
 CHAPTER XIX. 
 A SIMILITUDE: THE GREEK AND THE FANTI. 
 By this time the precocious youth was well on in his teens, and was already grappling with the intricacies of Greek roots and Latin suffixes. But often would his father warn him to be mindful more of the things which matter, as he quaintly put it. Now and again he would induce the youth to draw comparisons between the mode of thought and the practice of the ancients; and he would insist that there was no better intellectual, moral, and national training for a young Fanti than such exercise involved. By way of encouragement, when the youth had done particularly well,, he would take him upon new ground and delight him with stories from Homer’s great masterpiece, which; in a curious way, reflected the every-day life of their own people.
@@ -760,6 +883,13 @@ A humble and. a contrite heart.
  Lord God of Hosts, be with us yet, 
 Lest we forget—lest we forget!—Kipling. 
 
+ <section id="chapter2">
+            <h3>Chapter 2: [Title]</h3>
+            <p>
+                [Text of Chapter 2]
+            </p>
+        </section>
+
 CHAPTER XX
 AND A LITTLE CHILD SHALL LEAD THEM: CHAPTER XX. 
 By the year 1925 a mighty change had come over the thought of the nations, and it was due to some extent to the work of the Gold Coast Nation and Ethiopian Review, promoted by Kwamankra just before the close of the first ten years of the century in the interests of Gold Coast national con- servancy; but as time went on it had broadened out in sympathy to embrace the needs of the entire race. During the preceding fifteen years the Nation had freely circulated throughout the Ethiopian world, and the promoter and the Editors were in constant communication with the leading thinkers of the race throughout the world.
@@ -790,16 +920,7 @@ with a patience that marks for leadership in the spiritual realm.
 
 
             </p>
-        </section>
-
-        <section id="chapter2">
-            <h3>Chapter 2: [Title]</h3>
-            <p>
-                [Text of Chapter 2]
-            </p>
-        </section>
-
-        <!-- Add more chapters as needed -->
+        
 
     </div>
     <footer>
