@@ -94,6 +94,17 @@ span.personal-name-gamaliel:hover {
     color: crimson;
     text-decoration: underline;
 }
+/* Bedford place name styling */
+span.place-name-bedford {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-bedford:hover {
+    color: orange;
+    text-decoration: underline;
+}
 
 /* Anglo-Saxon place name styling */
 span.place-name-anglo-saxon {
