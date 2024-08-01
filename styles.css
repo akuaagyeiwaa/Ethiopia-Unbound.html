@@ -41,6 +41,18 @@ footer {
     color: #2c3e50; /* Dark blue */
     font-weight: bold;
 }
+/* Nazarene personal name styling */
+span.personal-name-nazarene {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-nazarene:hover {
+    color: deepskyblue;
+    text-decoration: underline;
+}
+
 /* Jesus Christ personal name styling */
 span.personal-name-jesus-christ {
     color: darkorange;
