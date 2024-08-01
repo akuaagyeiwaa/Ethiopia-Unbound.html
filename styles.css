@@ -93,6 +93,18 @@ span.personal-name-gamaliel:hover {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Tottenham Court Road place name styling */
+span.place-name-tottenham-court-road {
+    color: darkcyan;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-tottenham-court-road:hover {
+    color: teal;
+    text-decoration: underline;
+}
+
 /* Ethiopia place name styling */
 span.place-name-ethiopia {
     color: darkgreen;
