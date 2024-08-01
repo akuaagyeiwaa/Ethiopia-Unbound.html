@@ -47,6 +47,18 @@ footer {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Ethiopians place name styling */
+span.place-name-ethiopians {
+    color: darkolivegreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-ethiopians:hover {
+    color: olive;
+    text-decoration: underline;
+}
+
 /* Russell Square place name styling */
 span.place-name-russell-square {
     color: darkslategray;
