@@ -93,6 +93,18 @@ span.personal-name-gamaliel:hover {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* London place name styling */
+span.place-name-london {
+    color: blue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-london:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
+
 /* Tottenham Court Road place name styling */
 span.place-name-tottenham-court-road {
     color: darkcyan;
