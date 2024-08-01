@@ -319,4 +319,15 @@ span.place-name-asia:hover {
     color: orange;
     text-decoration: underline;
 }
+/* Liverpool Street Station place name styling */
+span.place-name-liverpool-street-station {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-liverpool-street-station:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
 
