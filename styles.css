@@ -1,4 +1,8 @@
 /* General styling */
+<title>Justified Paragraphs</title>
+       p {
+            text align: justify;
+        }
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
