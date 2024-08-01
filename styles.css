@@ -286,4 +286,15 @@ span.place-name-egypt:hover {
     text-decoration: underline;
 }
 
+/* Africa place name styling */
+span.place-name-africa {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-africa:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
 
