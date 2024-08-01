@@ -297,4 +297,26 @@ span.place-name-africa:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* Asia place name styling */
+span.place-name-asia {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-asia:hover {
+    color: orange;
+    text-decoration: underline;
+}
+/* Asia place name styling */
+span.place-name-asia {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-asia:hover {
+    color: orange;
+    text-decoration: underline;
+}
 
