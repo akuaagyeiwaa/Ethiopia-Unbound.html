@@ -47,6 +47,18 @@ footer {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Gamaliel personal name styling */
+span.personal-name-gamaliel {
+    color: mediumvioletred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-gamaliel:hover {
+    color: crimson;
+    text-decoration: underline;
+}
+
 /* Anglo-Saxon place name styling */
 span.place-name-anglo-saxon {
     color: darkslategray;
