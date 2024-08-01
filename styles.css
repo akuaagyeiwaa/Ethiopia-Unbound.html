@@ -87,6 +87,18 @@ span.personal-name-gamaliel:hover {
     color: crimson;
     text-decoration: underline;
 }
+/* Buddha personal name styling */
+span.personal-name-buddha {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-buddha:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
 
 /* Styling for place names */
 .place-name {
