@@ -93,6 +93,18 @@ span.personal-name-gamaliel:hover {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Ethiopia place name styling */
+span.place-name-ethiopia {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-ethiopia:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
+
 
 /* Bedford place name styling */
 span.place-name-bedford {
