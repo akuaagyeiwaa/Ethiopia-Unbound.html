@@ -111,7 +111,8 @@ He who alone is great?'
 <p>Nyia oye emi. That is, </p>
 
 <p>He who is lam. </p>
-<p>Now compare the Hebrew lam hath sent me, and you have it. Nor is this a fanciful play upon roots, for our people sing unto this day:</p>
+<p>Now compare the <span class="place-name-hebrew"><a href="https://en.wikipedia.org/wiki/Hebrew" target="_blank">Hebrew</a></span>
+ lam hath sent me, and you have it. Nor is this a fanciful play upon roots, for our people sing unto this day:</p>
 <p>‘Wana si onyi Nyami se?</p>
 <p>Dasayi wo ho inde, okina na onyi, </p>
 <p>Nyami firi tsitsi kaisi odumankuma.’</p> 
