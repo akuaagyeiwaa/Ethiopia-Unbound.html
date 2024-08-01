@@ -76,13 +76,6 @@ span.personal-name-jesus-christ:hover {
     color: orangered;
     text-decoration: underline;
 }
-
-
-/* Styling for place names */
-.place-name {
-    color: #16a085; /* Teal */
-    font-style: italic;
-}
 /* Gamaliel personal name styling */
 span.personal-name-gamaliel {
     color: mediumvioletred;
@@ -94,6 +87,13 @@ span.personal-name-gamaliel:hover {
     color: crimson;
     text-decoration: underline;
 }
+
+/* Styling for place names */
+.place-name {
+    color: #16a085; /* Teal */
+    font-style: italic;
+}
+
 /* Bedford place name styling */
 span.place-name-bedford {
     color: darkorange;
