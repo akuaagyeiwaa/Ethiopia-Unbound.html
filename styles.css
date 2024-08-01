@@ -47,4 +47,16 @@ footer {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Egypt place name styling */
+span.place-name-egypt {
+    color: darkkhaki;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-egypt:hover {
+    color: khaki;
+    text-decoration: underline;
+}
+
 
