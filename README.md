@@ -126,7 +126,8 @@ He who alone is great?'
   he was born, and in <span class="place-name-egypt"><a href="https://en.wikipedia.org/wiki/Egypt" target="_blank">Egypt</a></span>
  was he nurtured; and, yet, you seek to teach Him us. We have caught His Spirit and live; you follow the letter and are tossed hither and thither by every wind. Forgive me when I say that the future of „ the world is with the East. The nation that can, Ji in the next century, show the greatest output of spiritual strength, that is the nation that shall lead the world, and as <span class="personal-name-buddha"><a href="https://en.wikipedia.org/wiki/Buddha" target="_blank">Buddha</a></span>
  from <span class="place-name-africa"><a href="https://en.wikipedia.org/wiki/Africa" target="_blank">Africa</a></span>
- taught Asia, so may Africa again lead the way.” </p>
+ taught <span class="place-name-asia"><a href="https://en.wikipedia.org/wiki/Asia" target="_blank">Asia</a></span>
+, so may Africa again lead the way.” </p>
 
 <p>“I am not prepared to dispute the matter with you, <span class="personal-name-1">Kwamankra</span>, and there seems to be a good deal of truth in-what you say; but how about the doubt deep down in my own heart? That is a personal affair you know. In a word, what think you of the Christ ? ”</p>
 
