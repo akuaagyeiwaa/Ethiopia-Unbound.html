@@ -41,6 +41,18 @@ footer {
     color: #2c3e50; /* Dark blue */
     font-weight: bold;
 }
+/* Marcus Aurelius personal name styling */
+span.personal-name-marcus-aurelius {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-marcus-aurelius:hover {
+    color: crimson;
+    text-decoration: underline;
+}
+
 /* Nazarene personal name styling */
 span.personal-name-nazarene {
     color: darkblue;
