@@ -47,6 +47,18 @@ footer {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Russell Square place name styling */
+span.place-name-russell-square {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-russell-square:hover {
+    color: slategray;
+    text-decoration: underline;
+}
+
 /* Hebrew place name styling */
 span.place-name-hebrew {
     color: indigo;
