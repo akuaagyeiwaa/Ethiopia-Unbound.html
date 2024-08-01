@@ -47,6 +47,18 @@ footer {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Teutonic place name styling */
+span.place-name-teutonic {
+    color: steelblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-teutonic:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
+
 /* Gutha place name styling */
 span.place-name-gutha {
     color: darkslateblue;
