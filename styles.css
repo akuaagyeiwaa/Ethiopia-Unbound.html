@@ -47,6 +47,18 @@ footer {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Pagans place name styling */
+span.place-name-pagans {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-pagans:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
+
 /* The Greeks place name styling */
 span.place-name-greeks {
     color: mediumseagreen;
