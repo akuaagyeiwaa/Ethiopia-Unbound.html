@@ -47,6 +47,18 @@ footer {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* The Romans place name styling */
+span.place-name-romans {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-romans:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
+
 /* Pagans place name styling */
 span.place-name-pagans {
     color: darkgreen;
