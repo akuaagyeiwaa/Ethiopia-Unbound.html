@@ -47,6 +47,18 @@ footer {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Gutha place name styling */
+span.place-name-gutha {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-gutha:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
+
 /* The Romans place name styling */
 span.place-name-romans {
     color: darkred;
