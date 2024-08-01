@@ -47,6 +47,18 @@ footer {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Hebrew place name styling */
+span.place-name-hebrew {
+    color: indigo;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-hebrew:hover {
+    color: mediumslateblue;
+    text-decoration: underline;
+}
+
 /* Bethlehem place name styling */
 span.place-name-bethlehem {
     color: darkgoldenrod;
