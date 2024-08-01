@@ -47,6 +47,18 @@ footer {
     color: #16a085; /* Teal */
     font-style: italic;
 }
+/* Anglo-Saxon place name styling */
+span.place-name-anglo-saxon {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-anglo-saxon:hover {
+    color: slategray;
+    text-decoration: underline;
+}
+
 /* Teutonic place name styling */
 span.place-name-teutonic {
     color: steelblue;
