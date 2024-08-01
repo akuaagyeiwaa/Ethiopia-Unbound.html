@@ -6,6 +6,10 @@
     <title>Ethiopia Unbound by Joseph Casely Hayford</title>
     <link rel="stylesheet" href="css/styles.css">
     <style>
+	    <title>Justified Paragraphs</title>
+       p {
+            text align: justify;
+        }
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
