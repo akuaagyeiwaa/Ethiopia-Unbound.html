@@ -367,7 +367,7 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 
 <p> But he had also prayed for light, for he knew, according to the teaching of Nanamu, the priests and prophets of his tribe, that Love and Light dwelt together in the highest heaven. </p>
 2.
-<p>To him who saw this vision, the idea of death was familiar. Among his people, at break of day, as men passed one another in the market-places, they would greet one another and say, “Akioo,” meaning, hail friend, thou yet livest. And if a man slept and woke no more, they would say he is gone to Nanamu-Krome, and, if he had been a good man, his friends would make <span class="place-name-libation"><a href="https://en.wikipedia.org/wiki/Libation" target="_blank">libation</a></span>
+<p>To him who saw this vision, the idea of death was familiar. Among his people, at break of day, as men passed one another in the market-places, they would greet one another and say, “Akioo,” meaning, hail friend, thou yet livest. And if a man slept and woke no more, they would say he is gone to Nanamu-Krome, and, if he had been a good man, his friends would make <span class="place-name-libation"><a href="https://en.wikipedia.org/wiki/libation" target="_blank">libation</a></span>
  to him, claiming his protection and guardianship in the ordinary affairs of life.</p>
 
 <p>He had been a father once before—the happy husband of a happy wife in a home where love dwelt; and when death first took the wife and then the new-born babe, he left darkness behind where first was light. It all looked so strange. He only half realised it in the first flush of his sorrow. But as the days wore on, and the old familiar chair by the hearth remained vacant, the darkness in his heart seemed to deepen. </p>
