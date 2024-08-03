@@ -375,5 +375,16 @@ span.place-name-england:hover {
     text-decoration: underline;
 }
 
+/* America place name styling */
+span.place-name-america {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-america:hover {
+    color: blue;
+    text-decoration: underline;
+}
 
 
