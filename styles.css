@@ -907,4 +907,15 @@ span.place-name-guardian-angel:hover {
     color: lightseagreen;
     text-decoration: underline;
 }
+/* Mammon place name styling */
+span.place-name-mammon {
+    color: darkgoldenrod;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-mammon:hover {
+    color: goldenrod;
+    text-decoration: underline;
+}
 
