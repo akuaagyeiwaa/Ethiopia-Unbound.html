@@ -619,5 +619,16 @@ span.place-name-ancient-greeks:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Barbarians place name styling */
+span.place-name-barbarians {
+    color: firebrick;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-barbarians:hover {
+    color: darkred;
+    text-decoration: underline;
+}
 
 
