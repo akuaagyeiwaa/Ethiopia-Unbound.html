@@ -863,4 +863,15 @@ span.place-name-libation:hover {
     color: goldenrod;
     text-decoration: underline;
 }
+/* Jacob personal name styling */
+span.personal-name-jacob {
+    color: darkorchid;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-jacob:hover {
+    color: mediumorchid;
+    text-decoration: underline;
+}
 
