@@ -608,5 +608,16 @@ span.personal-name-heathen:hover {
     color: olive;
     text-decoration: underline;
 }
+/* Ancient Greeks place name styling */
+span.place-name-ancient-greeks {
+    color: mediumslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-ancient-greeks:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
 
 
