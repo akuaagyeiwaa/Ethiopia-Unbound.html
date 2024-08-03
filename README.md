@@ -307,7 +307,7 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 
  <p>“Mind you call before I leave for Africa,” said the old gentleman, as <span class="personal-name-1">Kwamankra</span> and Whitely said good-night.</p>
  
-<p> The friends talked little on their way back to the Temple, and Whitely, divining what was passing in his friend’s mind, respected his silence.! ' Before separating for the night, however, Whitely said, “Allow me, <span class="personal-name-1">Kwamankra</span>, to thank you for giving me such an agreeable evening in such a [Cultured company. Your friends, by Jove, are a credit to Africa, and it makes me feel inclined to lead a crusade against narrowness and prejudice.” </p>
+<p> The friends talked little on their way back to the Temple, and Whitely, divining what was passing in his friend’s mind, respected his silence.! ' Before separating for the night, however, Whitely said, “Allow me, <span class="personal-name-1">Kwamankra</span>, to thank you for giving me such an agreeable evening in such a Cultured company. Your friends, by Jove, are a credit to Africa, and it makes me feel inclined to lead a crusade against narrowness and prejudice.” </p>
 
 <p> “Thank you so much. I am glad you think so well of my friends. I hope you will sleep well after all the day’s dissipation.” This, as <span class="personal-name-1">Kwamankra</span> showed his friend to his room. </p>
 
