@@ -224,7 +224,8 @@ and wandered aimlessly down <span class="place-name-oxford-street"><a href="http
  <p>"Do you include in your observations that of humanity in general ?” dryly put in the Professor. “Yes,” replied <span class="personal-name-1">Kwamankra</span>. “To me it is the most interesting study, and the best theatre I find to be these very pavements, the performers being the moving throng of men and women. To study humanity in this guise is to me the acme of intellectual pastime, and much as I would like a chat with you another time, I am really sorry you disturbed me.” " Your case,” said the Professor, “is a simple one of cerebral contraction of the sympathies come with me, old boy, to the <span class="place-name-argyle-rooms"><a href="https://en.wikipedia.org/wiki/Argyle_Rooms" target="_blank">Argyle Rooms</a></span>
  to night, and I warrant you the finest study of humanity anywhere in London. You may notice without being noticed, and if you should fee inclined to thaw, by Jove you will have your world cut out. Some of the latest arrivals are rare bits and they-are-the rage of all the young hounds misnamed-mem Do come with me.” </p>
  
-<p>“I thank you for the kind invitation, but I am afraid I cannot come to the Argyle Rooms with you to-night, as I must catch the night train to Cambridge with a friend.”</p>
+<p>“I thank you for the kind invitation, but I am afraid I cannot come to the Argyle Rooms with you to-night, as I must catch the night train to <span class="place-name-cambridge"><a href="https://en.wikipedia.org/wiki/Cambridge" target="_blank">Cambridge</a></span>
+ with a friend.”</p>
 
 <p>"Well, then, come with me to the York Hotel instead. It may be I shall be able to interest you, and, if you please, you may stand me a treat after. I hear some of you ’varsity chaps are very good that way. Your average rusty London student does not understand champagne suppers and that kind of thing.” </p>
 
