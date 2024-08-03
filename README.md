@@ -505,7 +505,7 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 
 <p>“But ”—<span class="personal-name-1">Kwamankra</span> began.</p>
 
- <p>“I know what-thou would’st say,” put in the goddess. ‘ ‘ To obey is our present duty; and remember simple child-like trust is the apex of all—for thee as well as for me. It may be I shall come to thee, if need shall arise. So long as we trust, it will all come right. Go, and again, fare thee well I " And, as an anxious father, watching by the side of a dying wife, restrains the anguish of his heart, lest his little ones might know the full meaning of their woe, even so did Mansa restrain the anguish of her soul before her husband. </p>
+ <p>“I know what-thou would’st say,” put in the goddess. "To obey is our present duty; and remember simple child-like trust is the apex of all—for thee as well as for me. It may be I shall come to thee, if need shall arise. So long as we trust, it will all come right. Go, and again, fare thee well I " And, as an anxious father, watching by the side of a dying wife, restrains the anguish of his heart, lest his little ones might know the full meaning of their woe, even so did Mansa restrain the anguish of her soul before her husband. </p>
  
 ********************************************** 
 <p>“Father, mother says I am to come back to thee in the other world. I wonder if you will know me when I come ? " <span class="personal-name-1">Kwamankra</span>’s eyes filled with tears. </p>
