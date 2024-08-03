@@ -231,7 +231,7 @@ and wandered aimlessly down <span class="place-name-oxford-street"><a href="http
 
 <p>“If it comes to that, Professor, we needn’t go all the way to the York Hotel. We can just drop in at Slater’s round the corner, and I will warrant you as good-a-lunch as you ever tasted. Come along now I will take no refusal.” </p>
 
-<p>It did not take much to persuade the Professor, and together they were soon seated at a well- appointed table in a comfortable corner. After lunch the Professor said to <span class="personal-name-1">Kwamankra</span>, “One 0 good turn deserves another. I thought I would V' ' give you a bit of a surprise, but since the mountain would not come to Mahomet, I suppose he must go to it. The fact is, Mansa is in London, and is staying at the York Hotel with her father.”</p>
+<p>It did not take much to persuade the Professor, and together they were soon seated at a well- appointed table in a comfortable corner. After lunch the Professor said to <span class="personal-name-1">Kwamankra</span>, “One good turn deserves another. I thought I would give you a bit of a surprise, but since the mountain would not come to Mahomet, I suppose he must go to it. The fact is, Mansa is in London, and is staying at the York Hotel with her father.”</p>
 
 
  3.
