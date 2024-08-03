@@ -120,6 +120,17 @@ span.personal-name-osiris:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* Zoroaster personal name styling */
+span.personal-name-zoroaster {
+    color: darkviolet;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-zoroaster:hover {
+    color: mediumvioletred;
+    text-decoration: underline;
+}
 
 
 
