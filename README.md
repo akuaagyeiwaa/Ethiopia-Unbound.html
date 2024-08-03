@@ -472,7 +472,7 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 
  <p>‘‘It grieveth me to think, dear one, that the time for reunion is with me, and yet I command it not; but think not 'tis willingly done. Tell me, do you mean trust in little things as well as in great, in temporal matters as in matters of higher moment? " </p>
  
-<p> ‘‘Yes, my beloved, light beginneth to dawn upon thy soul. Simple trust, remember, honoureth Nyiakrapon. Listen 1 When thou returnest to earth, opportunity will be given thee of preparing in this school, and oh! may’st thou be apt to learn. </p>
+<p> ‘‘Yes, my beloved, light beginneth to dawn upon thy soul. Simple trust, remember, honoureth Nyiakrapon. Listen  When thou returnest to earth, opportunity will be given thee of preparing in this school, and oh! may’st thou be apt to learn. </p>
 
 <p>For our beings must be rounded off, and every phase of our development completed, before translation. And for this purpose are we given opportunity after opportunity until the work of pruning be accomplished. It is all but the finishing touches that are required to thy habitation. Each mortal buildeth for himself a habitation in this sacred place. Some build of stone; some of stubble; unhappy they who raise their hopes upon the shifting sand.” </p>
 
