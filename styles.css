@@ -819,4 +819,15 @@ span.place-name-stuttgart:hover {
     color: dodgerblue;
     text-decoration: underline;
 }
+/* Dover place name styling */
+span.place-name-dover {
+    color: mediumseagreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-dover:hover {
+    color: seagreen;
+    text-decoration: underline;
+}
 
