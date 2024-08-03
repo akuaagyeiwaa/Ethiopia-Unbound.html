@@ -513,7 +513,7 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 <p>The new-born child opened her eyes upon a mysterious world. In her face was a puzzled look—a look of half doubt and half knowledge. After a few playful years she flitted away. Men talked of a ripe soul. There was one who understood, but said nothing, and that was the father of the child. </p>
 
  
-        </section>
+        	</section>
 	
 	<section id="chapter V">
             <h3>Chapter V: IN THE METROPOLIS OF THE GOLD COAST</h3>
