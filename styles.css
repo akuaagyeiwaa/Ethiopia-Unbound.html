@@ -852,4 +852,15 @@ span.place-name-black-forest:hover {
     color: olivedrab;
     text-decoration: underline;
 }
+/* Libation place name styling */
+span.place-name-libation {
+    color: darkgoldenrod;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-libation:hover {
+    color: goldenrod;
+    text-decoration: underline;
+}
 
