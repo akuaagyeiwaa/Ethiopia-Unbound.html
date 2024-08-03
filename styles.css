@@ -497,6 +497,17 @@ span.place-name-cambridge:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* Harwich place name styling */
+span.place-name-harwich {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-harwich:hover {
+    color: slategray;
+    text-decoration: underline;
+}
 
 
 
