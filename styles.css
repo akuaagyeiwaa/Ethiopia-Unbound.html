@@ -463,6 +463,17 @@ span.place-name-charing-cross-hospital:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* Argyle Rooms place name styling */
+span.place-name-argyle-rooms {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-argyle-rooms:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
 
 
 
