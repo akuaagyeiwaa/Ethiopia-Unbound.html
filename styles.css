@@ -419,6 +419,17 @@ span.place-name-tottenham-court-road:hover {
     color: slategray;
     text-decoration: underline;
 }
+/* Holborn place name styling */
+span.place-name-holborn {
+    color: darkorchid;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-holborn:hover {
+    color: mediumorchid;
+    text-decoration: underline;
+}
 
 
 
