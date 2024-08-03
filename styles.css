@@ -408,6 +408,17 @@ span.place-name-inner-temple:hover {
     color: goldenrod;
     text-decoration: underline;
 }
+/* Tottenham Court Road place name styling */
+span.place-name-tottenham-court-road {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-tottenham-court-road:hover {
+    color: slategray;
+    text-decoration: underline;
+}
 
 
 
