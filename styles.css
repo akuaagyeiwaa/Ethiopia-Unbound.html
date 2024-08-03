@@ -575,5 +575,16 @@ span.place-name-greek-mysteries:hover {
     text-decoration: underline;
 }
 
+/* Stoic writings place name styling */
+span.place-name-stoic-writings {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-stoic-writings:hover {
+    color: slategray;
+    text-decoration: underline;
+}
 
 
