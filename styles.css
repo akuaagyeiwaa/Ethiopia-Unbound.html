@@ -808,4 +808,15 @@ span.place-name-chaperon:hover {
     color: slategray;
     text-decoration: underline;
 }
+/* Stuttgart place name styling */
+span.place-name-stuttgart {
+    color: steelblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-stuttgart:hover {
+    color: dodgerblue;
+    text-decoration: underline;
+}
 
