@@ -674,5 +674,16 @@ span.place-name-cradle-of-civilization:hover {
     color: darkcyan;
     text-decoration: underline;
 }
+/* Christian civilization place name styling */
+span.place-name-christian-civilization {
+    color: darkgoldenrod;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-christian-civilization:hover {
+    color: goldenrod;
+    text-decoration: underline;
+}
 
 
