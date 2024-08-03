@@ -457,11 +457,11 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 
  <p>“How silly of you,” said Mansa, “look at me, is there any difference between what I was and what I am, or can aught that may befall thee or me in time or eternity, save neglecting the will of the gods, make me less thy captive, thy bond maiden? ”</p>
  
- <p>“ Tis well said. But since thou inquirest, I must own that I sec in thee a grandeur of soul,  a depth of emotion, that mere mortals do not possess. Yet could I spot thee out among a thousand women. Tell me, art thou in very truth a goddess? ” </p>
+ <p>“Tis well said. But since thou inquirest, I must own that I sec in thee a grandeur of soul,  a depth of emotion, that mere mortals do not possess. Yet could I spot thee out among a thousand women. Tell me, art thou in very truth a goddess? ” </p>
  
-<p>" Yes, I am a goddess; for Love is of God, and God is Love. And so art thou a god, only thy warfare is not yet accomplished. a6 to this intent was thy prayer heard and leave ordered thee to visit this sacred about that thou --- carry hence a knowledge w 11 am e in thy work.” </p>
+<p>"Yes, I am a goddess; for Love is of God, and God is Love. And so art thou a god, only thy warfare is not yet accomplished. And to this intent was thy prayer heard and leave ordered thee to visit this sacred about that thou --- carry hence a knowledge w 11 am e in thy work.” </p>
 
-<p>" I can understand you being a goddess, but, surely, you mock me when you suggest that I am a god. Call me a thinker, a teacher, call me any-thing that is of the earth, but a god I cannot think that I am one, or can ever be.”</p>
+<p>"I can understand you being a goddess, but, surely, you mock me when you suggest that I am a god. Call me a thinker, a teacher, call me any-thing that is of the earth, but a god I cannot think that I am one, or can ever be.”</p>
 
 <p> A look of pain passed o’er the countenance of Mansa as in subdued tones she said : “ It is even as it was revealed unto me. Yet another aeon must pass over thy head before thou comest to thine own, before thou enablest me to add the finishing touches to thy habitation. All these years I have waited for the fruits of my suggestions, as thy guardian angel, and though thou hast learnt much, yet hast thou more to learn, even the lesson of simple trust. A little more doubting on thy part, and thou mightest have lost the chance of seeing my face this day. Yet how my woman’s heart hath longed for thee—for a full and a lasting reunion.” </p>
 
