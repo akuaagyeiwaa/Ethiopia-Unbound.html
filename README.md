@@ -281,7 +281,8 @@ in the part of Hamlet. As the curtain did not rise till 8.30, and the evening wa
  
 <p>When they arrived at the theatre the curtain was just up, and, for a moment, they were engrossed in the simple setting of the play for which Mr. Beerbohm Tree is so remarkable in his Shakespearean representations. In Scene III., where Polonius utters the precept: " Beware of entrance to a quarrel; but, being in, bear’t that the opposed may beware of thee,” <span class="personal-name-1">Kwamankra</span>, poking his t friend in the rib, whispered, “That is Christian sentiment with a vengeance.”</p>
 
-<p> When the curtain next went up, Whitely drew the attention of <span class="personal-name-1">Kwamankra</span> to a bevy of dark girls with an elderly man, who seemed to be playing the part of chaperon, and who were soon joined by a couple of young men. <span class="personal-name-1">Kwamankra</span> followed the direction indicated by Whitely, and nearly jumped out of his seat with excitement.
+<p> When the curtain next went up, Whitely drew the attention of <span class="personal-name-1">Kwamankra</span> to a bevy of dark girls with an elderly man, who seemed to be playing the part of <span class="place-name-chaperon"><a href="https://en.wikipedia.org/wiki/Chaperon" target="_blank">Chaperon</a></span>
+, and who were soon joined by a couple of young men. <span class="personal-name-1">Kwamankra</span> followed the direction indicated by Whitely, and nearly jumped out of his seat with excitement.
  "What is it, <span class="personal-name-1">Kwamankra</span>?” asked Whitely. " You generally are so cool.”</p>
  
  <p>“Pardon me, but the fact is, I must introduce you at once. Those are my friends the Abans. and I am very much mistaken if the young lady at the corner is not Miss Mansa. Come along!” And he literally dragged Whitely after him. </p>
