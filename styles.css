@@ -341,5 +341,17 @@ span.place-name-fanti:hover {
     color: teal;
     text-decoration: underline;
 }
+/* Japan place name styling */
+span.place-name-japan {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-japan:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
+
 
 
