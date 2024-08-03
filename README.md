@@ -148,7 +148,7 @@ He who alone is great?'
 
 
  
-            </p>
+        
         </section>
 
  <section id="chapter2">
