@@ -285,7 +285,7 @@ in the part of Hamlet. As the curtain did not rise till 8.30, and the evening wa
 , and who were soon joined by a couple of young men. <span class="personal-name-1">Kwamankra</span> followed the direction indicated by Whitely, and nearly jumped out of his seat with excitement.
  "What is it, <span class="personal-name-1">Kwamankra</span>?” asked Whitely. " You generally are so cool.”</p>
  
- <p>“Pardon me, but the fact is, I must introduce you at once. Those are my friends the Abans. and I am very much mistaken if the young lady at the corner is not Miss Mansa. Come along!” And he literally dragged Whitely after him. </p>
+ <p>“Pardon me, but the fact is, I must introduce you at once. Those are my friends the Abans and I am very much mistaken if the young lady at the corner is not Miss Mansa. Come along!” And he literally dragged Whitely after him. </p>
  
 <p>The old gentleman saw the twain coming in their direction, and beamed all over with delight. He was a good-hearted soul, and loved to see the sons of Ethiopia acquit themselves honourably in a strange land, and he had heard nothing but what was good of-<span class="personal-name-1">Kwamankra</span>. The enthusiasm with which <span class="personal-name-1">Kwamankra</span> was greeted by his friends struck Whitely forcibly, and he did not at all notice the few seconds that passed before he was introduced. </p>
 
