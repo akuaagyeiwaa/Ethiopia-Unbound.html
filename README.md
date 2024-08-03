@@ -210,7 +210,8 @@ He who alone is great?'
 
 
 2.	
- <p>In the far-away home in Africa, where <span class="personal-name-1">Kwamankra</span> was born and bred, he had known, a little orphan girl who attracted attention I wherever she went by her simple, unaffected ways. She must have been under the ministration of some guardian angel, for if ever a person grew in favour with the gods and men, it was she. Daily she was to be seen in the temples of Nanamu, and no one was more attentive, or worried the old priest afterwards with such knotty questions. She was born well, and, having passed through a course in the University, was now visiting Europe for the first time to put the finishing touches to her education. </p>
+ <p>In the far-away home in Africa, where <span class="personal-name-1">Kwamankra</span> was born and bred, he had known, a little orphan girl who attracted attention I wherever she went by her simple, unaffected ways. She must have been under the ministration of some <span class="place-name-guardian-angel"><a href="https://en.wikipedia.org/wiki/Guardian_angel" target="_blank">Guardian Angel</a></span>
+, for if ever a person grew in favour with the gods and men, it was she. Daily she was to be seen in the temples of Nanamu, and no one was more attentive, or worried the old priest afterwards with such knotty questions. She was born well, and, having passed through a course in the University, was now visiting Europe for the first time to put the finishing touches to her education. </p>
  
  <p>When Whitely parted with <span class="personal-name-1">Kwamankra</span>, the latter made his way to <span class="place-name-holborn"><a href="https://en.wikipedia.org/wiki/Holborn" target="_blank">Holborn</a></span>
 and wandered aimlessly down <span class="place-name-oxford-street"><a href="https://en.wikipedia.org/wiki/Oxford_Street" target="_blank">Oxford Street</a></span>
