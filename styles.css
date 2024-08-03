@@ -597,5 +597,16 @@ span.place-name-divine-light:hover {
     color: gold;
     text-decoration: underline;
 }
+/* Heathen personal name styling */
+span.personal-name-heathen {
+    color: darkolivegreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-heathen:hover {
+    color: olive;
+    text-decoration: underline;
+}
 
 
