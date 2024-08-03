@@ -176,6 +176,17 @@ span.personal-name-queen-elizabeth:hover {
     color: dodgerblue;
     text-decoration: underline;
 }
+/* Hamlet personal name styling */
+span.personal-name-hamlet {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-hamlet:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
 
 
 /* Styling for place names */
