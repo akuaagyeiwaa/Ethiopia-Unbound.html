@@ -397,6 +397,17 @@ span.place-name-university-of-cambridge:hover {
     color: mediumslateblue;
     text-decoration: underline;
 }
+/* Inner Temple place name styling */
+span.place-name-inner-temple {
+    color: darkgoldenrod;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-inner-temple:hover {
+    color: goldenrod;
+    text-decoration: underline;
+}
 
 
 
