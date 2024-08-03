@@ -775,4 +775,15 @@ span.place-name-law-of-gravitation:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* Almighty Sovereign place name styling */
+span.place-name-almighty-sovereign {
+    color: darkviolet;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-almighty-sovereign:hover {
+    color: mediumvioletred;
+    text-decoration: underline;
+}
 
