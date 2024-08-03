@@ -297,7 +297,8 @@ in the part of Hamlet. As the curtain did not rise till 8.30, and the evening wa
 <p> "You must have found <span class="place-name-stuttgart"><a href="https://en.wikipedia.org/wiki/Stuttgart" target="_blank">Stuttgart</a></span>
  congenial, to judge from the length of time you have been away. Your father has been telling me a little about it, and I hoped to hear more from you.”</p>
 
- <p>“Oh! that must be another time. See, the curtain is about to rise, and here come trooping in the Abans. You know we arrived only this afternoon by the Dover train, and met the Abans at the hotel; and as they were coming to see Hamlet, my father thought it would be nice for us to come with them.” </p>
+ <p>“Oh! that must be another time. See, the curtain is about to rise, and here come trooping in the Abans. You know we arrived only this afternoon by the <span class="place-name-dover"><a href="https://en.wikipedia.org/wiki/Dover" target="_blank">Dover</a></span>
+ train, and met the Abans at the hotel; and as they were coming to see Hamlet, my father thought it would be nice for us to come with them.” </p>
  
 <p>“Now, that reminds me, by a stroke of ill-luck, I arrived at your hotel the day you left for the Continent half an hour too late, to find the bird had flown.” 
 Mansa felt a little confused; and just then the curtain rose. </p>
