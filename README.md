@@ -263,7 +263,8 @@ At the time of <span class="personal-name-1">Kwamankra</span> being called to th
 
 <p>The speaker stopped somewhat abruptly and eyed the listener curiously. After a second, he continued:</p>
 
-<p>“You know perfectly well, my good friend, that I am not a Christian. If not, what am I?. Perhaps delicacy may forbid you saying what you think. But, believe me, I am not ashamed to be called pagan, or heathen, or by any other such pet word. With all due respect to St. Paul, we worship that we do know. The fact of the case is, that from the days of the great teachers of Christianity you Christians have not taken the trouble to understand any other system but your own.”</p>
+<p>“You know perfectly well, my good friend, that I am not a Christian. If not, what am I?. Perhaps delicacy may forbid you saying what you think. But, believe me, I am not ashamed to be called pagan, or heathen, or by any other such pet word. With all due respect to <span class="personal-name-st-paul"><a href="https://en.wikipedia.org/wiki/Saint_Paul" target="_blank">St. Paul</a></span>
+, we worship that we do know. The fact of the case is, that from the days of the great teachers of Christianity you Christians have not taken the trouble to understand any other system but your own.”</p>
 
 <p> "You know, <span class="personal-name-1">Kwamankra</span>, turning off the subject, I have taken my degree, and I am soon due for ordination,” said Whitely. " But all these years the reason and the faith within me have been in such deadly conflict as to leave my senses reeling. Yet the die is cast; I have given my name into the Bishop; I cannot look back for fear of breaking my mother’s heart.” '</p>
 
