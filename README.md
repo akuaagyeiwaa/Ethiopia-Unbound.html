@@ -287,7 +287,7 @@ in the part of Hamlet. As the curtain did not rise till 8.30, and the evening wa
  
  <p>“Pardon me, but the fact is, I must introduce you at once. Those are my friends the Abans and I am very much mistaken if the young lady at the corner is not Miss Mansa. Come along!” And he literally dragged Whitely after him. </p>
  
-<p>The old gentleman saw the twain coming in their direction, and beamed all over with delight. He was a good-hearted soul, and loved to see the sons of Ethiopia acquit themselves honourably in a strange land, and he had heard nothing but what was good of-<span class="personal-name-1">Kwamankra</span>. The enthusiasm with which <span class="personal-name-1">Kwamankra</span> was greeted by his friends struck Whitely forcibly, and he did not at all notice the few seconds that passed before he was introduced. </p>
+<p>The old gentleman saw the twain coming in their direction, and beamed all over with delight. He was a good-hearted soul, and loved to see the sons of Ethiopia acquit themselves honourably in a strange land, and he had heard nothing but what was good of<span class="personal-name-1">Kwamankra</span>. The enthusiasm with which <span class="personal-name-1">Kwamankra</span> was greeted by his friends struck Whitely forcibly, and he did not at all notice the few seconds that passed before he was introduced. </p>
 
 <p>During the interval, Mansa, who hated all crushes, preferred to remain where she was, so <span class="personal-name-1">Kwamankra</span> fetched her some refreshment, and stayed to talk to her. 
 “So you deserted us for the Continent without a moment’s notice. It was really bad of you, and I hope you have made up your mind now to make full amends.”</p>
@@ -296,7 +296,7 @@ in the part of Hamlet. As the curtain did not rise till 8.30, and the evening wa
  
 <p> "You must have found Stuttgart congenial, to judge from the length of time you have been away. Your father has been telling me a little about it, and I hoped to hear more from you.”</p>
 
- <p>“Oh! that must be another time. See, the curtain is about to rise, and here come trooping in the Abans. You know we arrived only this after- noon by the Dover train, and met the Abans at the hotel; and as they were coming to see Hamlet, my father thought it would be nice for us to come with them.” </p>
+ <p>“Oh! that must be another time. See, the curtain is about to rise, and here come trooping in the Abans. You know we arrived only this afternoon by the Dover train, and met the Abans at the hotel; and as they were coming to see Hamlet, my father thought it would be nice for us to come with them.” </p>
  
 <p>“Now, that reminds me, by a stroke of ill-luck, I arrived at your hotel the day you left for the Continent half an hour too late, to find the bird had flown.” 
 Mansa felt a little confused; and just then the curtain rose. </p>
