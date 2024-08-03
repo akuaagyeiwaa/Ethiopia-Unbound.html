@@ -154,6 +154,17 @@ span.personal-name-confucius:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* William Shakespeare personal name styling */
+span.personal-name-william-shakespeare {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-william-shakespeare:hover {
+    color: orange;
+    text-decoration: underline;
+}
 
 
 /* Styling for place names */
