@@ -109,6 +109,17 @@ span.personal-name-mahomet:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* Osiris personal name styling */
+span.personal-name-osiris {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-osiris:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
 
 
 
