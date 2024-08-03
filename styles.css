@@ -352,6 +352,17 @@ span.place-name-japan:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* Germany place name styling */
+span.place-name-germany {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-germany:hover {
+    color: seagreen;
+    text-decoration: underline;
+}
 
 
 
