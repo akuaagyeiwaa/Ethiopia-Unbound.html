@@ -386,5 +386,17 @@ span.place-name-america:hover {
     color: blue;
     text-decoration: underline;
 }
+/* University of Cambridge place name styling */
+span.place-name-university-of-cambridge {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-university-of-cambridge:hover {
+    color: mediumslateblue;
+    text-decoration: underline;
+}
+
 
 
