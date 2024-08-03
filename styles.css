@@ -165,6 +165,17 @@ span.personal-name-william-shakespeare:hover {
     color: orange;
     text-decoration: underline;
 }
+/* Queen Elizabeth personal name styling */
+span.personal-name-queen-elizabeth {
+    color: royalblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-queen-elizabeth:hover {
+    color: dodgerblue;
+    text-decoration: underline;
+}
 
 
 /* Styling for place names */
