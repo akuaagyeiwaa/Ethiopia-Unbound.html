@@ -764,4 +764,15 @@ span.place-name-divine-fatherhood:hover {
     text-decoration: underline;
 }
 
+/* Law of Gravitation place name styling */
+span.place-name-law-of-gravitation {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-law-of-gravitation:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
 
