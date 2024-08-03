@@ -874,4 +874,15 @@ span.personal-name-jacob:hover {
     color: mediumorchid;
     text-decoration: underline;
 }
+/* the Hebrews place name styling */
+span.place-name-hebrews {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-hebrews:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
 
