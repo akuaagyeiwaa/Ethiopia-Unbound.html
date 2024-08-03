@@ -441,6 +441,17 @@ span.place-name-oxford-street:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* Christian philosophy place name styling */
+span.place-name-christian-philosophy {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-christian-philosophy:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
 
 
 
