@@ -143,6 +143,17 @@ span.personal-name-buddha:hover {
     color: orange;
     text-decoration: underline;
 }
+/* Confucius personal name styling */
+span.personal-name-confucius {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-confucius:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
 
 
 /* Styling for place names */
