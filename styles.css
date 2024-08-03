@@ -187,6 +187,17 @@ span.personal-name-hamlet:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* St. Paul personal name styling */
+span.personal-name-st-paul {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-st-paul:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
 
 
 /* Styling for place names */
