@@ -752,4 +752,16 @@ span.place-name-gospel-of-st-john:hover {
     text-decoration: underline;
 }
 
+/* Divine Fatherhood place name styling */
+span.place-name-divine-fatherhood {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-divine-fatherhood:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
 
