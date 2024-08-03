@@ -209,6 +209,17 @@ span.personal-name-bishop:hover {
     color: mediumvioletred;
     text-decoration: underline;
 }
+/* Epictetus personal name styling */
+span.personal-name-epictetus {
+    color: darkcyan;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-epictetus:hover {
+    color: cyan;
+    text-decoration: underline;
+}
 
 
 /* Styling for place names */
