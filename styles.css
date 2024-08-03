@@ -586,5 +586,16 @@ span.place-name-stoic-writings:hover {
     color: slategray;
     text-decoration: underline;
 }
+/* Divine light place name styling */
+span.place-name-divine-light {
+    color: goldenrod;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-divine-light:hover {
+    color: gold;
+    text-decoration: underline;
+}
 
 
