@@ -430,6 +430,17 @@ span.place-name-holborn:hover {
     color: mediumorchid;
     text-decoration: underline;
 }
+/* Oxford Street place name styling */
+span.place-name-oxford-street {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-oxford-street:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
 
 
 
