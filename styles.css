@@ -221,6 +221,17 @@ span.personal-name-epictetus:hover {
     text-decoration: underline;
 }
 
+/* Cleanthes personal name styling */
+span.personal-name-cleanthes {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-cleanthes:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
 
 /* Styling for place names */
 .place-name {
