@@ -363,6 +363,17 @@ span.place-name-germany:hover {
     color: seagreen;
     text-decoration: underline;
 }
+/* England place name styling */
+span.place-name-england {
+    color: navy;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-england:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
 
 
 
