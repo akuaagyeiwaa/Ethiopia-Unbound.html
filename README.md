@@ -413,9 +413,9 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 <p>“Do you not know me, father?’’ said the damsel, half reproachfully. “Mother told me you were coming, and so I ran to meet thee; but how she knew you were here she did not tell me. But, you know, mother is a goddess, and she knows a good many things.’’ The saying surprised <span class="personal-name-1">Kwamankra</span>, and he turned it over in his mind what it might mean. Was it possible that the devotion and the trust and the love of his girl-wife had blossomed into a personality which was half god and half human even in the nether world? The case of his little girl was easy to understand, for he had caught the import of the words of the poet who wrote:</p>
 
 <p>“Day after day we think of what she is doing</p>
-<p>In those bright realms of air;</p>
+	<p>In those bright realms of air;</p>
 <p>Year after year, her tender steps pursuing,</p>
-<p>Behold her grown more fair.”</p>
+	<p>Behold her grown more fair.”</p>
 
 <p>Yes, she was fairer than the lilies, brighter than the sunbeams, purer than snow-flakes—his own little Katsina in this realm of light, and yet he had prayed for her return. For a moment he was lost in thought, then suddenly turning to his little girl, he embraced her with all the warmth of a father’s heart, and eager to learn all he might of his girl-wife, he said, “Tell me, dear, what may a goddess be like? "</p>
 
