@@ -339,7 +339,7 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 
  <p>She began to understand. She made an effort as if she would withdraw her hand. She hesitated, and the next moment she surrendered the other also.</p>
  
- <p>“You will be my teacher, then? "asked <span class="personal-name-1">Kwamankra</span>, half-persuasively, half-triumphantly. “Yes,” she simply answered. “So may the gods of our race help me”</p>
+ <p>“You will be my teacher, then? "asked <span class="personal-name-1">Kwamankra</span>, half-persuasively, half-triumphantly. “Yes,” she simply answered. “So may the gods of our race help me”.</p>
  
 <p>As the days passed, the twain grew in that mutual understanding, the true basis of all happy unions. Now and again he would tell her of his prospects, which he laughingly said were nil, having inherited little else beyond a clear head and a willing heart for work, with which he hoped they would be able to forge their way in life together; to which Mansa would sweetly say that she wished she had a fortune to make things easy, but since she had it not, she would bring him the next best, a loyal heart and true, at which <span class="personal-name-1">Kwamankra</span> would chide her, and say that was the best of all. </p>
 
