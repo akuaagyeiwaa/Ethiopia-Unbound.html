@@ -663,5 +663,16 @@ span.place-name-barbarians:hover {
     color: darkred;
     text-decoration: underline;
 }
+/* Cradle of Civilization place name styling */
+span.place-name-cradle-of-civilization {
+    color: teal;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-cradle-of-civilization:hover {
+    color: darkcyan;
+    text-decoration: underline;
+}
 
 
