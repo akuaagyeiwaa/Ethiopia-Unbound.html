@@ -519,6 +519,17 @@ span.place-name-harwich:hover {
     color: slategray;
     text-decoration: underline;
 }
+/* Akkadian place name styling */
+span.place-name-akkadian {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-akkadian:hover {
+    color: orange;
+    text-decoration: underline;
+}
 
 
 
