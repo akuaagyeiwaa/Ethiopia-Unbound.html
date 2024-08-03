@@ -797,4 +797,15 @@ span.place-name-almighty-sovereign:hover {
     color: mediumvioletred;
     text-decoration: underline;
 }
+/* Chaperon place name styling */
+span.place-name-chaperon {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-chaperon:hover {
+    color: slategray;
+    text-decoration: underline;
+}
 
