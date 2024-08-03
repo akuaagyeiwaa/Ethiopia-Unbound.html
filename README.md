@@ -449,7 +449,7 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 
 <p>He read and pondered, and the more he thought of them, the more he wondered why they were written over the portals of Mansa’s place. And while Katsina ever and anon impressed a point, bidding her father note this or that particular temple, even while she was yet warm in her account, they had arrived at the outer court of the mansion, and, saying, “There is mother come to meet us,” with a cry of joy and a run, she was in her mother’s arms.</p>
 
- <p>“Katsina mine, run into the inner court and quickly set fruit and wine for thy father, for he must be weary after a long journey.” So saying, ' She slipped past the child, and, in a moment, husband and wife were locked in a happy embrace; but even as the panting heart, after long waiting, v at last receiving that which it had yearned for, breaks down and cries aloud for joy, so did the twain sob on one another’s neck. </p>
+ <p>“Katsina mine, run into the inner court and quickly set fruit and wine for thy father, for he must be weary after a long journey.” So saying, ' She slipped past the child, and, in a moment, husband and wife were locked in a happy embrace; but even as the panting heart, after long waiting, at last receiving that which it had yearned for, breaks down and cries aloud for joy, so did the twain sob on one another’s neck. </p>
  
 <p>“Come, ’tis not seemly for us to give way like this when the gods have been so kind to us, nor must a goddess show weakness in many tears.” </p>
 
