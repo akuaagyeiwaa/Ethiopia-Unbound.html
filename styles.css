@@ -98,6 +98,18 @@ span.personal-name-buddha:hover {
     color: orange;
     text-decoration: underline;
 }
+/* Mahomet personal name styling */
+span.personal-name-mahomet {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-mahomet:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
+
 
 
 /* Styling for place names */
