@@ -516,7 +516,8 @@ Mansa felt a little confused; and just then the curtain rose. </p>
         	</section>
 	
 	<section id="chapter V">
-            <h3>Chapter V: IN THE METROPOLIS OF THE GOLD COAST</h3>
+            <h3>Chapter V:</h3>
+	    <h4>IN THE METROPOLIS OF THE GOLD COAST</h4>
          
 
 <p>In the year of grace, 1904, there was no such thing as a water supply in the town of Sekondi, the pet little preserve of His Majesty’s Gold Coast Government. Nor was this in any way strange. The Government and the people of the Gold Coast had always depended upon Providence for such a common necessary of life as waters So, it happened, that when the Metropolis was “being laid out into “ High Streets ” and open spaces, it had not dawned upon the authorities that man was a thirsty animal, and this notwithstanding gentle reminders -on the part of experienced men in the past. If you search the Colonial archives, (you will find that in the eighties of the old century Dr. Lamprey of the Army Medical Service proposed a simple scheme for supplying the ancient town of Cape Coast with fresh water.  The Government went to sleep over the proposal, nor did it wake up over the suggestion to lead the waters of Homo to Accra, the headquarters of the Government. As matters stand, when Providence fails the Metropolis, men are known actually to resort to soda water for the daily ablution.</p>
