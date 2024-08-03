@@ -896,4 +896,15 @@ span.place-name-cedars-of-lebanon:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* Guardian Angel place name styling */
+span.place-name-guardian-angel {
+    color: darkcyan;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-guardian-angel:hover {
+    color: lightseagreen;
+    text-decoration: underline;
+}
 
