@@ -204,7 +204,8 @@ He who alone is great?'
 
 <p>By this time the outlook of <span class="personal-name-1">Kwamankra</span> upon life was broadening; and the young man was beginning to cast in his mind the most useful avenue by which his life’s work could be best accomplished. While he thought upon these things, that Divinity which shapes our ends, whether we understand or no, was shaping matters in a way for <span class="personal-name-1">Kwamankra</span> that he could hardly anticipate. By a resolution of the University authorities, while in London, an offer came to him to continue his-stay for a period of three years certain, for the purpose of superintending the publications of several standard works in the vernacular that the University had arranged to bring out. When the offer came, he at once closed with it, seeing therein a way to the fixing of his future career. And so the die was cast. Having private means of his own, he joined the <span class="place-name-university-of-cambridge"><a href="https://en.wikipedia.org/wiki/University_of_Cambridge" target="_blank">University of Cambridge</a></span>
  read jurisprudence for a year, and having then joined the <span class="place-name-inner-temple"><a href="https://en.wikipedia.org/wiki/Inner_Temple" target="_blank">Inner Temple</a></span>
-, had, at the time that we met him along Tottenham Court Road in the company of Whitely, settled down in London to read law_in grim earnest. </p>
+, had, at the time that we met him along <span class="place-name-tottenham-court-road"><a href="https://en.wikipedia.org/wiki/Tottenham_Court_Road" target="_blank">Tottenham Court Road</a></span>
+ in the company of Whitely, settled down in London to read law_in grim earnest. </p>
 
 
 2.	
