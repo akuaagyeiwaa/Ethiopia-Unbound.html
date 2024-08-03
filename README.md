@@ -499,7 +499,6 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 <p>Behold, you will stand before kings and princes and mighty ones of the earth to testify against ! corruption and wrong in high places in the name of truth. Thou hast courage, and the stars in their courses shall aid thee. And now take this message to the sons of men, and I give it thee as an emissary of the gods. Say unto the mighty that the cry of the afflicted and the. distressed among the sons of Ethiopia has come up to us, and we will visit the earth. For gold the oppressor will find tinsel, and for precious stone adamantine rock which will fall upon the tinsel and grind it to dust, and the wind will scatter that which is ground unto the four corners of the earth, and men shall see it and wonder at the work of the gods. Lo! Nyiakrapon will establish in Ethiopia a kingdom which is different from all other kingdoms. <span class="place-name-mammon"><a href="https://en.wikipedia.org/wiki/Mammon" target="_blank">Mammon</a></span>
  will have no place therein, and an angel of light, with a two-edged sword, shall guard the gates thereof.”</p>
 
- ********************************************
  
 <p>“And in order that thou mightest not falter by the way, when thou returnest to the earth, go to the city beautiful, the mother of the world, unto the part that faceth the setting sun, and thou shalt find a vestal virgin whose altar of love it hath been ordained should be lighted up by thee in incense to the God of Love.</p>
 <p>Go, she is true; thou hast my leave, and fare thee well!” </p>
