@@ -183,7 +183,7 @@ He who alone is great?'
 
 
 1.
- <p>The Mfantsipim National University had, about the time that these studies open, been already doing good work- in Fanti-land. It had its origin in the national movement which swept over the . country in the stormy- days of 1897, when the p Unpeople, as if moved by a sudden impulse, rallied round the Aborigines Society and successfully established the principle of land tenure under which the country has since thriven. </p>
+ <p>The Mfantsipim National University had, about the time that these studies open, been already doing good work- in Fanti-land. It had its origin in the national movement which swept over the country in the stormy- days of 1897, when the p Unpeople, as if moved by a sudden impulse, rallied round the Aborigines Society and successfully established the principle of land tenure under which the country has since thriven. </p>
  
 <p>It had been felt for a long time by men of light and leading in Fanti-land that the Salvation of the people, depended upon education that to educate the youths of the country properly depended upon trained teachers; and that it was the work of a university to provide such training ground. </p>
 
