@@ -254,6 +254,17 @@ span.personal-name-mr-beerbohm-tree:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* Tennyson personal name styling */
+span.personal-name-tennyson {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-tennyson:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
 
 /* Styling for place names */
 .place-name {
