@@ -474,6 +474,17 @@ span.place-name-argyle-rooms:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Cambridge place name styling */
+span.place-name-cambridge {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-cambridge:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
 
 
 
