@@ -830,4 +830,15 @@ span.place-name-dover:hover {
     color: seagreen;
     text-decoration: underline;
 }
+/* Black Forest place name styling */
+span.place-name-black-forest {
+    color: darkolivegreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-black-forest:hover {
+    color: olivedrab;
+    text-decoration: underline;
+}
 
