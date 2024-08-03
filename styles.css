@@ -563,6 +563,17 @@ span.place-name-akkadian:hover {
     color: orange;
     text-decoration: underline;
 }
+/* Greek mysteries place name styling */
+span.place-name-greek-mysteries {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-greek-mysteries:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
 
 
 
