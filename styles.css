@@ -740,5 +740,16 @@ span.place-name-christian-civilization:hover {
     color: goldenrod;
     text-decoration: underline;
 }
+/* Gospel of St. John place name styling */
+span.place-name-gospel-of-st-john {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-gospel-of-st-john:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
 
 
