@@ -810,7 +810,7 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
 
 <p>The Chief Magistrate was known for his frank expression of opinion, no matter what the subject matter of discussion was. Bilcox thought it was time he came to the rescue of the Government policy. </p>
 
-<p>“Bravo! Chief, I like your line speech,” addressing the Chief Magistrate. “ I never knew you were a champion of the non-segregation theory. At the next sitting of the Council I shall not fail to record the considered views of such a highly placed official as your Honour.” </p>
+<p>“Bravo! Chief, I like your fine speech,” addressing the Chief Magistrate. “ I never knew you were a champion of the non-segregation theory. At the next sitting of the Council I shall not fail to record the considered views of such a highly placed official as your Honour.” </p>
 
 <p>“I have never been able to understand the argument in favour of segregation,” put in the conscientious Macan unguardedly. “In the time of an epidemic, for instance, I can understand why the afflicted, without distinction, should be put away. But in normal times, to be sure, I don’t understand the philosophy of the matter.”</p>
 
