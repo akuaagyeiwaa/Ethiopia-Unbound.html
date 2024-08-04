@@ -918,4 +918,15 @@ span.place-name-mammon:hover {
     color: goldenrod;
     text-decoration: underline;
 }
+/* Sekondi place name styling */
+span.place-name-sekondi {
+    color: teal;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-sekondi:hover {
+    color: darkcyan;
+    text-decoration: underline;
+}
 
