@@ -974,3 +974,14 @@ span.place-name-dutch:hover {
     color: coral;
     text-decoration: underline;
 }
+/* the English place name styling */
+span.place-name-english {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-english:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
