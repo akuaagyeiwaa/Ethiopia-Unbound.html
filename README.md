@@ -653,7 +653,7 @@ The preacher was a white man, preaching to a black congregation; and outside on 
 
 <p>Why, they are a mere handful of white fools who are blind enough not to see where their bread is buttered, and who advocate equal rights for the native, and all that sort of tommy rot. Now, between ourselves,” breaking out into a low mischievous laugh, “the Lieutenant-Governor him-self had progressive leanings when he first came out among us, and would not take the advice of us, old coasters. He seemed then as if he could dine off niggers, pardon a bit of Coast slang, until he was bitten, and bitten pretty sharply too, I can tell you. Now he sings the 'progressive' tune no longer,” laying particular emphasis on the last sentiment.</p>
 
-<p>‘' But how was he bitten, and by whom? ” </p>
+<p>"But how was he bitten, and by whom?” </p>
 
 <p>“By the Fantis, of course. Didn’t you read c in the papers at the time how he was hooted by the Banti women in the central province? I was for bombarding their stronghold and sending the niggers flying all over the country, but the old bounder, the Permanent Secretary at the Colonial Office, who, by the way, is the one who really rules the roost, wouldn’t let-us. The thing is too bad, to think of niggers hooting a Lieutenant- Governor.” </p>
 
