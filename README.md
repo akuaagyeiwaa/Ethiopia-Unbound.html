@@ -612,7 +612,8 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 <p>How wearied are we this season! </p>
 <p>Morning star, sweetheart mine, beloved, come to my</p>
  <p>embrace! </p>
-<p>How simple, how natural, how spontaneous all this was compared with the refrain of “Dare to be a Daniel,” composed and sang by Ira D. Sankey, which the missionary boy, with so much effort, was trying to play in tune. Those were the days of healthy Fanti manhood. The nation has missed the promise of her prime, and is likely to bow her gray hairs in sorrow and shame to the grave. </p>
+<p>How simple, how natural, how spontaneous all this was compared with the refrain of “Dare to be a Daniel,” composed and sang by <span class="personal-name-ira-sankey"><a href="https://en.wikipedia.org/wiki/Ira_D._Sankey" target="_blank">Ira D. Sankey</a></span>
+, which the missionary boy, with so much effort, was trying to play in tune. Those were the days of healthy Fanti manhood. The nation has missed the promise of her prime, and is likely to bow her gray hairs in sorrow and shame to the grave. </p>
 
 <p>The congregation was composed for the most part of children, clad each in a few fathoms of Blanchester home-spuns. At the head of the choir was the schoolmaster whose attire certainly invited attention. In his elegantly cut-away black morning coat and beautifully-glazed cuffs and collar, not to speak of patent leather shoes, which he kept spotlessly bright by occasionally dusting them with his pocket handkerchief, tucked away in his shirt sleeves, he certainly looked a  veritable " swell,” but he also did look a veritable fool. </p>
 
