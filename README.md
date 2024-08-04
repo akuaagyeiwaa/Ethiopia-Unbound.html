@@ -643,7 +643,7 @@ The preacher was a white man, preaching to a black congregation; and outside on 
 
 <p>“And what is the screw like,” eagerly asked Whitely, when Bilcox first made the suggestion to him. </p>
 
-<p>“Oh, it is only a matter of some five hundred a year with an annual rise of twenty-five pounds, until you reach six hundred pounds, besides fees and allowances thrown in here and there, passages in and out free every twelve months, etcetera, etcetera, etcetera, with an assistant chaplain a black man of course, to save u unnecessary drudgery.” </p>
+<p>“Oh, it is only a matter of some five hundred a year with an annual rise of twenty-five pounds, until you reach six hundred pounds, besides fees and allowances thrown in here and there, passages in and out free every twelve months, etcetera, etcetera, etcetera, with an assistant chaplain a black man of course, to save you unnecessary drudgery.” </p>
 
 <p>“That is quite good enough for me, minus the etceteras, and I am sure I thank you from the bottom of my heart for giving an inkling of such a billet. By George! how spoilt you Colonials are; and to think I was going to immure myself in East London for the rest of my natural life !"</p>
 
