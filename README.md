@@ -681,7 +681,7 @@ The preacher was a white man, preaching to a black congregation; and outside on 
 .”</p>
 
 <p> "You may do what you like, Mr. Baidu, but you seem to forget that this is a <span class="place-name-british-colony"><a href="https://en.wikipedia.org/wiki/British_colony" target="_blank">British Colony</a></span>
-, and that the salaries of you and me are paid by the Colonial Government, and not by the Arch- bishop of Canterbury. Besides, I consider your opposition a piece of impertinence, and you must consider yourself suspended until I have recommended your dismissal to headquarters.”</p>
+, and that the salaries of you and me are paid by the Colonial Government, and not by the Archbishop of Canterbury. Besides, I consider your opposition a piece of impertinence, and you must consider yourself suspended until I have recommended your dismissal to headquarters.”</p>
 
  <p>In due course the Rev. Kwaw Baidu was compulsorily retired from the Colonial service, and a path, thirty-six feet wide, was marked between the European and native cemeteries, and the former beautifully fenced in with money mostly contributed by the black folk. But the matter got noised abroad, and there wasn’t a soul in the diocese of Sekondi that did not come to know of it.</p>
  
