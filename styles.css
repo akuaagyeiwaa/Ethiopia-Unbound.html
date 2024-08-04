@@ -1106,3 +1106,14 @@ span.place-name-british-colony:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* British throne place name styling */
+span.place-name-british-throne {
+    color: navy;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-british-throne:hover {
+    color: mediumblue;
+    text-decoration: underline;
+}
