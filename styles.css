@@ -1062,3 +1062,14 @@ span.place-name-east-london:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Tarkwa place name styling */
+span.place-name-tarkwa {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-tarkwa:hover {
+    color: orange;
+    text-decoration: underline;
+}
