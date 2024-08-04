@@ -808,7 +808,7 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
 
 <p> I say, Whitely,” continued the Chief Magistrate, “how did you get on with that cemetery  controversy of yours ? I hear you have given your assistant the sack. I say, it is really too bad of you. I am strong on so-called native jurisdiction, and that kind of thing, but when it conies to segregation of the dead, I tell you the thing beats me. Think of old Lawson, the pioneer of the gold industry, not receiving decent interment on the ground of colour. The thing is preposterous, and I am not in sympathy with it.” Whitely coloured up and appeared confused. The criticism was sharp and unexpected. </p>
 
-<p>The Chief Magistrate was known for his frank expression of opinion, no matter wk at the subject matter of discussion was. Bilcox thought it was time he came to the rescue of the Government policy. </p>
+<p>The Chief Magistrate was known for his frank expression of opinion, no matter what the subject matter of discussion was. Bilcox thought it was time he came to the rescue of the Government policy. </p>
 
 <p>“Bravo! Chief, I like your line speech,” addressing the Chief Magistrate. “ I never knew you were a champion of the non-segregation theory. At the next sitting of the Council I shall not fail to record the considered views of such a highly placed official as your Honour.” </p>
 
