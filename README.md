@@ -632,7 +632,8 @@ The preacher was a white man, preaching to a black congregation; and outside on 
 
         </section>
 	 <section id="chapter IV">
-            <h3>Chapter IV: THE WORLD, THE FLESH AND THE DEVIL.</h3>
+            <h3>Chapter IV:</h3>
+	    <h4>THE WORLD, THE FLESH AND THE DEVIL.</h4>
             
 
 
