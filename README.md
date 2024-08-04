@@ -701,7 +701,7 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
 
 <p>Nancy laid aside her crutches, took a low stool offered her by the Chaplain and cleared her throat of a troublesome cough or two “I have a nice story to tell you, sir, to add to your collection, and, as I was feeling a little stronger this evening than usual, I thought I would come in.”  </p>
 
-<p>Certainly, quite welcome,” said the Rev. Silas Whitely.  “Fire away, Nancy; I am all eagerness to hear you begin.” </p>
+<p>"Certainly, quite welcome,” said the Rev. Silas Whitely.  “Fire away, Nancy; I am all eagerness to hear you begin.” </p>
 
 <p>“Once upon a time,” Nancy began in a clear, sonorous voice, “there went into a far distant country two Mahomedan priests to work for Allah. After a time their paths lay in different districts, and they seldom "heard of one another. As was their wont, the missionaries worked in leather and other useful industries; but, as it happened, Akarbah succeeded and grew rich in worldly goods, while Adaku, his friend, merely lived from hand to mouth; yet did Allah bless his labours.  As is the way of the world, Akarbah’s society was now sought by the highest in the land; and when he counted his beads at the hour of prayer, he failed not to thank Allah for all the good He gave. “ </p>
 
