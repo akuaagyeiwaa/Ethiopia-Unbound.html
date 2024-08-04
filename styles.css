@@ -951,4 +951,15 @@ span.place-name-ablution:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Takoradi place name styling */
+span.place-name-takoradi {
+    color: mediumseagreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-takoradi:hover {
+    color: seagreen;
+    text-decoration: underline;
+}
 
