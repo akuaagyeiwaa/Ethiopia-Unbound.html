@@ -794,8 +794,13 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
 
 <p>Macan of the Diplomatic Service rashly came to the rescue of the youthful barrister. “ I " thought I had seen such a thing as a Native Jurisdiction Ordinance in the Corpus Juris of the Gold Coast.” </p>
 
-<p>The host growled and told him plainly, but politely, without much ado, that he knew next to nothing about the matter. Turning to <span class="personal-name-1">Kwamankra</span>, he pursued, “Now, what do you think— you go up country, and one day one of your puppet kings sends and arrests you and claps you in gaol --how would you feel over the matter, eh? ” 
-“At the best of times, I confess,” said <span class="personal-name-1">Kwamankra</span>, “it is not pleasant to find oneself in durance vile. But if the jurisdiction is there, what is there to do but to submit to it? ” “ That is exactly what you needn’t do. When one of your native authorities comes before me with their confounded jurisdiction notions I treat them as little children, and dismiss the whole thing with a jest. I can assure you, it is a most effective way. Besides, talking seriously, you have not considered the effect of the Order in Council.” “Which Order in Council do you mean? ” ventured a precocious full-fledged. “What else can I mean but the last, which defined the limits of the colony, and vested the jurisdiction in our sovereign Lord the King,” almost shrieked out the host. </p>
+<p>The host growled and told him plainly, but politely, without much ado, that he knew next to nothing about the matter. Turning to <span class="personal-name-1">Kwamankra</span>, he pursued, “Now, what do you think— you go up country, and one day one of your puppet kings sends and arrests you and claps you in gaol --how would you feel over the matter, eh?”</p>
+
+<p>“At the best of times, I confess,” said <span class="personal-name-1">Kwamankra</span>, “it is not pleasant to find oneself in durance vile. But if the jurisdiction is there, what is there to do but to submit to it?”</p>
+	
+<p>“That is exactly what you needn’t do. When one of your native authorities comes before me with their confounded jurisdiction notions I treat them as little children, and dismiss the whole thing with a jest. I can assure you, it is a most effective way. Besides, talking seriously, you have not considered the effect of the Order in Council.” </p>
+
+<p>“Which Order in Council do you mean? ” ventured a precocious full-fledged. “What else can I mean but the last, which defined the limits of the colony, and vested the jurisdiction in our sovereign Lord the King,” almost shrieked out the host. </p>
 
 <p>“My dear sir,” put in <span class="personal-name-1">Kwamankra</span>, “if I may venture to come to the assistance of my young friend, it takes two to make a bargain, as you will find if you examine into the constitutional history of the country.” </p>
 
