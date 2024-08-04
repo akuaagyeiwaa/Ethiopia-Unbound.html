@@ -781,7 +781,8 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
 		    <h4>MAGISTERIAL FUNCTION.</h4>
              
  
-<p> A SPLENDID repast, in the course of which good spirits and good cheer had flowed freely. The talk had varied from Oxford dons to Japanese admirals and Russian generals; and when it came down to liqueur and coffee everyone was merry, but truly the merriest was the genial host, and a right down good sort he was. </p>
+<p> A SPLENDID repast, in the course of which good spirits and good cheer had flowed freely. The talk had varied from <span class="place-name-oxford-dons"><a href="https://en.wikipedia.org/wiki/Oxford_University" target="_blank">Oxford dons</a></span>
+ to Japanese admirals and Russian generals; and when it came down to liqueur and coffee everyone was merry, but truly the merriest was the genial host, and a right down good sort he was. </p>
 
 <p>The Chief Magistrate beat himself this evening, and as he waxed more and more eloquent and glibly passed on from one subject to the other, it was only right that the eternal race question should come in for a fair consideration. </p>
 
