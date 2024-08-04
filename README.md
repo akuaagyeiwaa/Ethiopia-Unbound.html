@@ -645,7 +645,7 @@ The preacher was a white man, preaching to a black congregation; and outside on 
 
 <p>“Oh, it is only a matter of some five hundred a year with an annual rise of twenty-five pounds, until you reach six hundred pounds, besides fees and allowances thrown in here and there, passages in and out free every twelve months, etcetera, etcetera, etcetera, with an assistant chaplain a black man of course, to save you unnecessary drudgery.” </p>
 
-<p>“That is quite good enough for me, minus the etceteras, and I am sure I thank you from the bottom of my heart for giving an inkling of such a billet. By George! how spoilt you Colonials are; and to think I was going to immure myself in East London for the rest of my natural life !"</p>
+<p>“That is quite good enough for me, minus the etceteras, and I am sure I thank you from the bottom of my heart for giving an inkling of such a billet. By George! how spoilt you Colonials are; and to think I was going to immure myself in East London for the rest of my natural life!"</p>
 
 <p>But, remember,” put in Bilcox, “you will be subject to discipline. You must not, for example, join the silly band of ‘progressives,’ or your chances of promotion will be absolutely nil, and you may even run the risk of being shelved altogether. The process of shelving is a simple one. You get down with fever; you are invalided home; you never return again, that is all.”</p>
 
