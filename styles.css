@@ -940,4 +940,15 @@ span.place-name-cape-coast:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* Ablution place name styling */
+span.place-name-ablution {
+    color: mediumslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-ablution:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
 
