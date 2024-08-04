@@ -963,3 +963,14 @@ span.place-name-takoradi:hover {
     text-decoration: underline;
 }
 
+/* the Dutch place name styling */
+span.place-name-dutch {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-dutch:hover {
+    color: coral;
+    text-decoration: underline;
+}
