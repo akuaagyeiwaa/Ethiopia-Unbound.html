@@ -680,7 +680,8 @@ The preacher was a white man, preaching to a black congregation; and outside on 
 <p>“Do you mean to say, you an ambassador of Jesus Christ, that you are going to support any such nonsense as this which knocks the bottom out of all Christian charity? No wonder that the people turn a deaf ear to all my appeals. I will speak plainly to you for once. If you do not yield to reason and the spirit of Christ, whom you and I profess to follow, I will report your conduct to the Bishop, and, if need be, I will appeal to the <span class="place-name-archbishop-of-canterbury"><a href="https://en.wikipedia.org/wiki/Archbishop_of_Canterbury" target="_blank">Archbishop of Canterbury</a></span>
 .”</p>
 
-<p> "You may do what you like, Mr. Baidu, but you seem to forget that this is a British Colony, and that the salaries of you and me are paid by the Colonial Government, and not by the Arch- bishop of Canterbury. Besides, I consider your opposition a piece of impertinence, and you must consider yourself suspended until I have recommended your dismissal to headquarters.”</p>
+<p> "You may do what you like, Mr. Baidu, but you seem to forget that this is a <span class="place-name-british-colony"><a href="https://en.wikipedia.org/wiki/British_colony" target="_blank">British Colony</a></span>
+, and that the salaries of you and me are paid by the Colonial Government, and not by the Arch- bishop of Canterbury. Besides, I consider your opposition a piece of impertinence, and you must consider yourself suspended until I have recommended your dismissal to headquarters.”</p>
 
  <p>In due course the Rev. Kwaw Baidu was compulsorily retired from the Colonial service, and a path, thirty-six feet wide, was marked between the European and native cemeteries, and the former beautifully fenced in with money mostly contributed by the black folk. But the matter got noised abroad, and there wasn’t a soul in the diocese of Sekondi that did not come to know of it.</p>
  
