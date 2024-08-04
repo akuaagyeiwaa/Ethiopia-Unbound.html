@@ -651,7 +651,7 @@ The preacher was a white man, preaching to a black congregation; and outside on 
 
 <p> “You needn’t fear about that. I have no proclivities that way, but tell me all about the progressives ’ on the Gold Coast.” </p>
 
-<p>Why, they are a mere handful of white fools who are blind enough not to see where their bread is buttered, and who advocate equal rights for the native, and all that sort of tommy rot. Now, between ourselves,” breaking out into a low mischievous laugh, “the Lieutenant-Governor him-self had progressive leanings when he first came out among us, and would not take the advice of us, old coasters. He seemed then as if he could dine off niggers, pardon a bit of Coast slang, until he was bitten, and bitten pretty sharply too, I can tell you. Now he sings the ' progressive ' tune no longer,” laying particular emphasis on the last sentiment.</p>
+<p>Why, they are a mere handful of white fools who are blind enough not to see where their bread is buttered, and who advocate equal rights for the native, and all that sort of tommy rot. Now, between ourselves,” breaking out into a low mischievous laugh, “the Lieutenant-Governor him-self had progressive leanings when he first came out among us, and would not take the advice of us, old coasters. He seemed then as if he could dine off niggers, pardon a bit of Coast slang, until he was bitten, and bitten pretty sharply too, I can tell you. Now he sings the 'progressive' tune no longer,” laying particular emphasis on the last sentiment.</p>
 
 <p>‘' But how was he bitten, and by whom? ” </p>
 
