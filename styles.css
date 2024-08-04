@@ -1073,3 +1073,14 @@ span.place-name-tarkwa:hover {
     color: orange;
     text-decoration: underline;
 }
+/* Akrokeri place name styling */
+span.place-name-akrokeri {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-akrokeri:hover {
+    color: slategray;
+    text-decoration: underline;
+}
