@@ -1161,3 +1161,14 @@ span.place-name-russian-generals:hover {
     color: olive;
     text-decoration: underline;
 }
+/* Coloured term styling */
+span.term-coloured {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-coloured:hover {
+    color: orangered;
+    text-decoration: underline;
+}
