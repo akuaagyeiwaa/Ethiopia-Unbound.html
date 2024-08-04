@@ -584,7 +584,8 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 
 <p>But we were taking a passing view of Sekondi, and our companion was none other than <span class="personal-name-1">Kwamankra</span>. We have retraced our steps over the railway bridge, and are now in Dutch Sekondi. </p>
 
-<p>On the left wing of the street are a number of substantial business houses looking defiantly down upon a small building of four bare walls which represents the Wesleyan tabernacle at Sekondi. </p>
+<p>On the left wing of the street are a number of substantial business houses looking defiantly down upon a small building of four bare walls which represents <span class="place-name-wesleyan"><a href="https://en.wikipedia.org/wiki/Wesleyan" target="_blank">the Wesleyan</a></span>
+ tabernacle at Sekondi. </p>
 
 <p>The spot upon which this simple building stands is historic. I Here, half a century ago, was waged the civil war between the English and the Dutch, in which -the good African missionary, Kwamina Affua, who had been baptised by the good missionaries as James Hayford, sometime British Resident-at Kumasi, an ancestor of <span class="personal-name-1">Kwamankra</span>, and a brother of Kweku Atta, the then Omanhin of Cape Coast, lost his life. As peacemaker, he had gone to help separate the combatants. In the struggle he was brutally, though perhaps, unintentionally, struck down. Peace be to his ashes 1 It is a sacred spot, and no wonder that the stars in their courses would seem to fight against the powers of mammon in their efforts to dislodge the worshippers. </p>
 
