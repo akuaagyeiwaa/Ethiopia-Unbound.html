@@ -655,7 +655,7 @@ The preacher was a white man, preaching to a black congregation; and outside on 
 
 <p>"But how was he bitten, and by whom?” </p>
 
-<p>“By the Fantis, of course. Didn’t you read in the papers at the time how he was hooted by the Banti women in the central province? I was for bombarding their stronghold and sending the niggers flying all over the country, but the old bounder, the Permanent Secretary at the Colonial Office, who, by the way, is the one who really rules the roost, wouldn’t let-us. The thing is too bad, to think of niggers hooting a Lieutenant- Governor.” </p>
+<p>“By the Fantis, of course. Didn’t you read in the papers at the time how he was hooted by the Fanti women in the central province? I was for bombarding their stronghold and sending the niggers flying all over the country, but the old bounder, the Permanent Secretary at the Colonial Office, who, by the way, is the one who really rules the roost, wouldn’t let-us. The thing is too bad, to think of niggers hooting a Lieutenant- Governor.” </p>
 
 <p>“I confess, Bilcox, I cannot see the magnitude of the offence. I suppose there must have been something to hoot the good Governor for.”</p>
 
