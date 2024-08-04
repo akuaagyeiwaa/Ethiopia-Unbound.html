@@ -821,11 +821,14 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
 
 <p>“Pray, don’t go away, Mr. Bilcox,” said <span class="personal-name-1">Kwamankra</span>. “I am sure we are not offended in the slightest. My friends here, like myself, are used to this kind of thing. But what are the odds ? I, for one, am strong on <i>reciprocity.”</i> </p>
 
-<p>“And what has reciprocity to do with this matter? ” angrily demanded the Political Officer. “Only this, sir,” began <span class="personal-name-1">Kwamankra</span> calmly, “that if you took mankind in the aggregate, 
+<p>“And what has reciprocity to do with this matter? ” angrily demanded the Political Officer. </p>
+
+<p>“Only this, sir,” began <span class="personal-name-1">Kwamankra</span> calmly, “that if you took mankind in the aggregate, 
 irrespective of race, and shook them up together, as you would the slips of paper in a jury panel box, you would find after the exercise that the cultured would shake themselves free and come together, and so would the uncouth, the vulgar, and the ignorant; but, of course, you would ignore this law of nature, and, with a wave of the hand, confine the races in separate air-tight compartments. Wherefore I preach <i>reciprocity.”</i> </p>
 
-<p>“I say, you fellows, we must be going; it is getting late ”—this said the senior member of the legal fraternity as he rose, turban in hand, to take leave of the genial host, who was fuming at Bil- cox’s rudeness. “Good-night, sir, we thank you so much for kind entertainment,” he continued, addressing the Chief Magistrate. 
-“Good-night, gentlemen.”</p>
+<p>“I say, you fellows, we must be going; it is getting late ”—this said the senior member of the legal fraternity as he rose, turban in hand, to take leave of the genial host, who was fuming at Bilcox’s rudeness. “Good-night, sir, we thank you so much for kind entertainment,” he continued, addressing the Chief Magistrate. </p>
+
+<p>“Good-night, gentlemen.”</p>
 
  </section>
  <section id="chapterIX">
