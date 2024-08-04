@@ -1095,3 +1095,14 @@ span.place-name-archbishop-of-canterbury:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* British Colony place name styling */
+span.place-name-british-colony {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-british-colony:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
