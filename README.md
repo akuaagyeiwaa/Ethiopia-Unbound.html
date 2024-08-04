@@ -804,7 +804,7 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
 
 <p>“My dear sir,” put in <span class="personal-name-1">Kwamankra</span>, “if I may venture to come to the assistance of my young friend, it takes two to make a bargain, as you will find if you examine into the constitutional history of the country.” </p>
 
-<p>For the moment the host was nonplussed. lie was somewhat hazy as to the historical part of the subject. But as a parting shell, he exclaimed: ” Well, be that as it may, it was one of your own men who drew a report upon this very matter upon which the Government have acted. I have seen it f with my own eyes, I assure you, and I make you a present of the fact.”</p>
+<p>For the moment the host was nonplussed. He was somewhat hazy as to the historical part of the subject. But as a parting shell, he exclaimed: ” Well, be that as it may, it was one of your own men who drew a report upon this very matter upon which the Government have acted. I have seen it f with my own eyes, I assure you, and I make you a present of the fact.”</p>
 
 <p> I say, Whitely,” continued the Chief Magistrate, “how did you get on with that cemetery  controversy of yours ? I hear you have given your assistant the sack. I say, it is really too bad of you. I am strong on so-called native jurisdiction, and that kind of thing, but when it conies to segregation of the dead, I tell you the thing beats me. Think of old Lawson, the pioneer of the gold industry, not receiving decent interment on the ground of colour. The thing is preposterous, and I am not in sympathy with it.” Whitely coloured up and appeared confused. The criticism was sharp and unexpected. </p>
 
