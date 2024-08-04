@@ -985,3 +985,14 @@ span.place-name-english:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* the Aborigines place name styling */
+span.place-name-aborigines {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-aborigines:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
