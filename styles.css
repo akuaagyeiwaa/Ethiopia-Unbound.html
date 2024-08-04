@@ -1029,3 +1029,14 @@ span.place-name-tribe:hover {
     color: olivedrab;
     text-decoration: underline;
 }
+/* the Wesleyan place name styling */
+span.place-name-wesleyan {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-wesleyan:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
