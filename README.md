@@ -153,7 +153,8 @@ He who alone is great?'
         </section>
 
  <section id="chapter2">
-            <h3>Chapter II: Sowing the Wind.</h3>
+            <h3>Chapter II: </h3>
+	 <h4>Sowing the Wind.</h4>
             
 
 <p> SILENCE prevailed in the room, except for the stitch, stitch, stitch, of a woman past the early bloom of womanhood who, at first stitching merely to pass away the time, now thrust, the needle j' viciously into the embroidery, as if bent upon ' drawing some secret from the heart of the silken cords of life.</p>
