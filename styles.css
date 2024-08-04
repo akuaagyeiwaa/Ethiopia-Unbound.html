@@ -996,3 +996,14 @@ span.place-name-aborigines:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* gin place name styling */
+span.place-name-gin {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-gin:hover {
+    color: slategray;
+    text-decoration: underline;
+}
