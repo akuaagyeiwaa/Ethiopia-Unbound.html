@@ -929,4 +929,15 @@ span.place-name-sekondi:hover {
     color: darkcyan;
     text-decoration: underline;
 }
+/* Cape Coast place name styling */
+span.place-name-cape-coast {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-cape-coast:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
 
