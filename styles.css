@@ -265,6 +265,17 @@ span.personal-name-tennyson:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Mr. Guy Eden personal name styling */
+span.personal-name-guy-eden {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-guy-eden:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
 
 /* Styling for place names */
 .place-name {
