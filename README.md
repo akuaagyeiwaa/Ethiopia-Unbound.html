@@ -729,7 +729,8 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
         </section>
 	
  <section id="chapter VII">
-            <h3>Chapter VII: SIGNS OF EMPIRE: LOYAL HEARTS.</h3>
+            <h3>Chapter VII</h3> 
+	 <h4>SIGNS OF EMPIRE: LOYAL HEARTS.</h4>
             
             
  <p>It was Empire Day—the 24th of May—the day on which was commemorated throughout the Empire the birth of the great white Queen who, in her life, surrounded the British throne with a halo of womanly virtues, the kind of thing before which, in all ages and in all climes, the heart of universal man bows low in reverential homage and respect. </p>
