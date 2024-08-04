@@ -716,7 +716,7 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
 <p>“Akarbah gave no answer, but suddenly left the precincts of his abode, as if struck by a sudden thought. The hours passed, but they did not bring Akarbah. At last the truth dawned upon Adaku. ‘Evidently I am not wanted here,’ and, putting on his sandals and snatching his staff, he passed out of the house of his friend, shaking the dust off his feet as he did so, and never forgetting to mention him, not in anger, it is said, when he counted his beads in the house of Allah.”
  “What a funny story, Nancy; whatever do you mean? ” said the Rev. Silas Whitely, as the old woman finished what she had to say.</p>
  
-<p>“Yes, it is funny,” she said; “but you know, chaplain, I have lately had such grave doubts as I to whether what you tell us in those beautiful sermons you read out every Sunday about the love of God, of heaven, and the rest of it can all be true; and oh! whatever shall I do after all these years of weary waiting, if they are not true? Where is my husband, and where my son?” and it was painful to see the distress and the anguish in the Lace of the poor woman. </p>
+<p>“Yes, it is funny,” she said; “but you know, chaplain, I have lately had such grave doubts as I to whether what you tell us in those beautiful sermons you read out every Sunday about the love of God, of heaven, and the rest of it can all be true; and oh! whatever shall I do after all these years of weary waiting, if they are not true? Where is my husband, and where my son?” and it was painful to see the distress and the anguish in the face of the poor woman. </p>
 
 <p>“Don’t go on like that, Nancy. But what is there to make you doubt of heaven and the love of God? ”</p>
 
