@@ -699,7 +699,7 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
  
 <p>A soft wind rustled the luxuriant foliage overhead, and through the branches the bright stars peeped down upon this simple old woman whose only wish was -to-be in harmony with Nature’s God. A sudden inspiration, like the wind blowing where it listeth, came to her. She would tell the chaplain a story, as she had heard he was fond of Fanti stories, and was wont to collect them; and what better time than a moonlight night in Africa for telling stories? </p>
 
-<p>Nancy laid aside her crutches, took a low stool offered her by the Chaplain and cleared her throat of a troublesome cough or two “I have a nice story to tell you, sir, to add to your collection, and, as I was feeling a little stronger this evening than usual, I thought I would come in.” “ </p>
+<p>Nancy laid aside her crutches, took a low stool offered her by the Chaplain and cleared her throat of a troublesome cough or two “I have a nice story to tell you, sir, to add to your collection, and, as I was feeling a little stronger this evening than usual, I thought I would come in.”  </p>
 
 <p>Certainly, quite welcome,” said the Rev. Silas Whitely.  “Fire away, Nancy; I am all eagerness to hear you begin.” </p>
 
