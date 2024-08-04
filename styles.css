@@ -1051,3 +1051,14 @@ span.place-name-wesleyan:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* East London place name styling */
+span.place-name-east-london {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-east-london:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
