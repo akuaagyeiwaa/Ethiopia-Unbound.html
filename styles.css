@@ -1084,3 +1084,14 @@ span.place-name-akrokeri:hover {
     color: slategray;
     text-decoration: underline;
 }
+/* Archbishop of Canterbury place name styling */
+span.place-name-archbishop-of-canterbury {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-archbishop-of-canterbury:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
