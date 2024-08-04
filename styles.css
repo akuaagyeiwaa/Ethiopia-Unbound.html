@@ -276,6 +276,17 @@ span.personal-name-guy-eden:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* Ira D. Sankey personal name styling */
+span.personal-name-ira-sankey {
+    color: darkviolet;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name-ira-sankey:hover {
+    color: mediumslateblue;
+    text-decoration: underline;
+}
 
 /* Styling for place names */
 .place-name {
