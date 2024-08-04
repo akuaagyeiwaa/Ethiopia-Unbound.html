@@ -1139,3 +1139,14 @@ span.place-name-kintampor:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Oxford dons place name styling */
+span.place-name-oxford-dons {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-oxford-dons:hover {
+    color: mediumblue;
+    text-decoration: underline;
+}
