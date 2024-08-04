@@ -777,7 +777,8 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
 
  </section>
  <section id="chapter VIII">
-            <h3>Chapter VIII: MAGISTERIAL FUNCTION.</h3>
+            <h3>Chapter VIII</h3> 
+		    <h4>MAGISTERIAL FUNCTION.</h4>
              
  
 <p> A SPLENDID repast, in the course of which good spirits and good 'cheer had flowed freely. The talk had varied from Oxford dons to Japanese admirals and Russian generals; and when it came down to liqueur and coffee everyone was merry, but truly the merriest was the genial host, and a right down good sort he was. </p>
