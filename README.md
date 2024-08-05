@@ -877,7 +877,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 <p>“But how? I don’t quite understand, dad. Does he go and speak kindly to the people and tell them not to mind and that they will have the value of their contributions, if they are patient? ” <span class="personal-name-1">Kwamankra</span> burst out hilariously, and for some minutes could not control himself. The lad began to feel sheepish, and thought he must have said something very odd. But, presently <span class="personal-name-1">Kwamankra</span> came to, and a look of sadness seemed to play upon his countenance as slowly he murmured to himself the words :</p>
 <p> 'And its heart as pure as now.’ </p>
 
-<p>Quick as thought, memory had flashed back that unique chapter in his life’s experience when she and he had watched over this very child in infant slumbers, bone of their bone, flesh of their flesh, and in the fulness of their hearts the prayer had gone up :</p>
+<p>Quick as thought, memory had flashed back that unique chapter in his life’s experience when she and he had watched over this very child in infant slumbers, bone of their bone, flesh of their flesh, and in the fulness of their hearts the prayer had gone up:</p>
 
  <p>"That when time’s mystic fingers wrote manhood </p>
 <p>on its brow,</p>
