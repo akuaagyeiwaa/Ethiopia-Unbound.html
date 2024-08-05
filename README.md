@@ -1136,7 +1136,9 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 
 <p>The photographer is out; I am told,” explained the miner.</p>
 
-<p> “Very good, Sir—good night,” said <span class="personal-name-1">Kwamankra</span>, hardly looking up from his writing. “ As a last favour, would you mind showing me where I can find a bed for the night? I am told there is a hotel about here.” </p>
+<p> “Very good, Sir—good night,” said <span class="personal-name-1">Kwamankra</span>, hardly looking up from his writing." </p>
+
+<p>As a last favour, would you mind showing me where I can find a bed for the night? I am told there is a hotel about here.” </p>
 
 <p>“I am surely don’t know of one, and I would advise you to get back to your camp,” said <span class="personal-name-1">Kwamankra</span>, fixing a penetrating glance upon the miner, which said plainly, ‘ I wonder if you are an honest man.’ With this the miner vanished into' the outer darkness, but (the story us silent the while whether the same operation was not repeated elsewhere that night—</p>
 
