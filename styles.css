@@ -1350,3 +1350,14 @@ span.term-sierra-leone:hover {
     color: crimson;
     text-decoration: underline;
 }
+/* Dilettante term styling */
+span.term-dilettante {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-dilettante:hover {
+    color: slategray;
+    text-decoration: underline;
+}
