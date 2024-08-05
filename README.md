@@ -1024,7 +1024,8 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
             <h3>Chapter XIII</h3>
 	 <h4>REAPING THE WHIRLWIND.</h4> 
 
- <p>Tandor-Kuma lay sick with malaria. The fast boat that should have borne him to the bosom of his family had come and gone. In his dreams he had been talking wildly, and asking when the boat would be in. </p>
+ <p>Tandor-Kuma lay sick with <span class="term-malaria"><a href="https://en.wikipedia.org/wiki/Malaria" target="_blank">malaria</a></span>
+. The fast boat that should have borne him to the bosom of his family had come and gone. In his dreams he had been talking wildly, and asking when the boat would be in. </p>
  
 <p>It was not without reason that his uppermost thoughts seemed to hover about the movements of the steamers. There was in this house where he lay stricken, as a nurse, the mother of his first child—the kind of child the world sneers at and elects to ignore, who, nevertheless thrives and prospers to the amazement of those who talk glibly of the inscrutable ways of Providence. </p>
 
