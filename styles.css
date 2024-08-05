@@ -1431,3 +1431,14 @@ span.term-belial:hover {
     color: crimson;
     text-decoration: underline;
 }
+/* Albion term styling */
+span.term-albion {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-albion:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
