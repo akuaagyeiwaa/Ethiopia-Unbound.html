@@ -1111,7 +1111,7 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 
 <p>“Certainly; if you will step over here I will show you,” said <span class="personal-name-1">Kwamankra</span>, rising up from his simple evening repast. “You know the market place; if you will walk straight down and take the first turning to your left, I believe you will find him in the first house but one.”</p>
 
-<p>span class="personal-name-1">Kwamankra</span> settled down to his meal, thankful to have got rid of what threatened to be a serious interruption to his thoughts.</p>
+<p><span class="personal-name-1">Kwamankra</span> settled down to his meal, thankful to have got rid of what threatened to be a serious interruption to his thoughts.</p>
 
 <p>In ten minutes the miner came back'. “May I come in ? ” he asked.</p>
 <p>“ Yes, do,” replied <span class="personal-name-1">Kwamankra</span>. 
