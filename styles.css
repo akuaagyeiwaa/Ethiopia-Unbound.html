@@ -1282,3 +1282,14 @@ span.term-orient:hover {
     color: mediumorchid;
     text-decoration: underline;
 }
+/* Japanese House of Peers term styling */
+span.term-japanese-house-of-peers {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-japanese-house-of-peers:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
