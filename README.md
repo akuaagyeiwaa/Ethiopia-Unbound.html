@@ -1087,7 +1087,8 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 
  
   <section id="chapterXIV">
-            <h3>Chapter XIV: THE BLACK MAN’S BURDEN. </h3>
+            <h3>Chapter XIV</h3>
+	  <h4>THE BLACK MAN’S BURDEN. </h4>
         
  
 <p>A BAMBOO shanty, doing service as a Methodist place of worship at the end of a “ High Street,” with a mud house roofed with corrugated iron, doing service for Belial, with gin shops and sheds studded all along the line at short intervals at in the other end—such is a typical scene in a well- Known growing African community in the neighbourhood of the thriving mines on the Gold Coast railway. It is a terrible scourge, a veritable canker, eating its way slowly, yet surely, into the very vitals of the life of the black people among whom this plague of modern civilisation is planted. </p>
