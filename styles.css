@@ -1097,6 +1097,18 @@ span.place-name-tarkwa:hover {
     color: orange;
     text-decoration: underline;
 }
+/* Mecca term styling */
+span.term-mecca {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-mecca:hover {
+    color: crimson;
+    text-decoration: underline;
+}
+
 /* Akrokeri place name styling */
 span.place-name-akrokeri {
     color: darkslategray;
