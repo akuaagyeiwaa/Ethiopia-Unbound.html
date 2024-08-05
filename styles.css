@@ -874,6 +874,18 @@ span.place-name-black-forest:hover {
     color: olivedrab;
     text-decoration: underline;
 }
+/* Freetown term styling */
+span.term-freetown {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-freetown:hover {
+    color: mediumblue;
+    text-decoration: underline;
+}
+
 /* Libation place name styling */
 span.place-name-libation {
     color: darkgoldenrod;
