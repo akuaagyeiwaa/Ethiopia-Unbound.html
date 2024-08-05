@@ -842,7 +842,7 @@ irrespective of race, and shook them up together, as you would the slips of pape
 
  <p><span class="personal-name-1">Kwamankra</span> raised his eyes from the printed matter, and beckoned the young hopeful forward. Eyeing the lad curiously, he said, “If you must know, I suppose I must give you the lesson, and, perhaps, the earlier the better. Now, if you should be going to school tomorrow, and at the street corner Kweku Mensah knocked off your cap and punched your nose, what would you do?</p>
  
-<p>“I would, of course, punch his head back,” answered the lad triumphantly. “Good 1 Now let us go a step further. Suppose your school fellows were going on a picnic, and Kobina Tsintsin’s boys met you on the public road and barred your progress, would not you brave lads fight your way through? "</p>
+<p>“I would, of course, punch his head back,” answered the lad triumphantly. “Good! Now let us go a step further. Suppose your school fellows were going on a picnic, and Kobina Tsintsin’s boys met you on the public road and barred your progress, would not you brave lads fight your way through? "</p>
 
 <p> “Of course, dad, what else could we do in honour of our school?”</p>
 
