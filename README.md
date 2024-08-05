@@ -949,7 +949,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 
 <p>The emphasis seemed to upset the equilibrium of the collector. He sneaked away, may be, to reflect upon the advantage of an emphasis, and sure enough, he was soon heard letting off steam in the second-class compartment at the expense of an inoffensive Fanti. </p>
 
-<p>By this time the train had passed Mansu. Shortly after leaving that station there was some trouble with one of the vans getting off the rails: and it was a matter of half-an hour it was .set right. Half-way between Mansu and Ashieme, some timber was taken, and as they steamed away in the twilight, the train with its composite appendages was a full furlong long! Soon they were in thick darkness. </p>
+<p>By this time the train had passed Mansu. Shortly after leaving that station there was some trouble with one of the vans getting off the rails: and it was a matter of half-an hour it was set right. Half-way between Mansu and Ashieme, some timber was taken, and as they steamed away in the twilight, the train with its composite appendages was a full furlong long! Soon they were in thick darkness. </p>
 
 <p>“Light, collector, light!”—this from <span class="personal-name-1">Kwamankra</span>, for in the detached carriage could be heard yells and shrieks of women and children. </p>
 
