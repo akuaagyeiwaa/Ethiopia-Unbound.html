@@ -1021,9 +1021,10 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 <p>In the fullness of time, Tom Palmer got married. None of his wives sought to be a leader of society, and he was well content. He himself did not seem likely, now that he had come to his heritage, that he would fulfil the promise of his early ambition. In due course the little ones came —so gladsome their little black faces wherever they appeared, the fulfilment of the radiant love which gave them birth. And as the years rolled by, it was sure that his girls were growing up to be useful members of the community, for Tom Palmer had made up his mind that he would have no Parisian skirts or Regent Street high-heeled nonsense, as he bluntly put it, nor would he ever condescend to explain himself. </p>
  </section>
  <section id="chapterXIII">
-            <h3>Chapter XIII: REAPING THE WHIRLWIND.</h3> 
+            <h3>Chapter XIII</h3>
+	 <h4>REAPING THE WHIRLWIND.</h4> 
 
- <p>Reaping the Whirlwind. Tandor-Kuma lay sick with malaria. The fast boat that should have borne him to the bosom of his family had come and gone. In his dreams he had been talking wildly, and asking when the boat would be in. </p>
+ <p>Tandor-Kuma lay sick with malaria. The fast boat that should have borne him to the bosom of his family had come and gone. In his dreams he had been talking wildly, and asking when the boat would be in. </p>
  
 <p>It was not without reason that his uppermost thoughts seemed to hover about the movements of the steamers. There was in this house where he lay stricken, as a nurse, the mother of his first child—the kind of child the world sneers at and elects to ignore, who, nevertheless thrives and prospers to the amazement of those who talk glibly of the inscrutable ways of Providence. </p>
 
