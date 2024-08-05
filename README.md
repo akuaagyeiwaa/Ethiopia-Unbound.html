@@ -961,7 +961,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 
 <p>“I no get mach. Sar! Railway no buy me mach, Sar! </p>
 
-<p>The Inspector made as if he would knock the collector down, but thought better of the matter, and, snatching a borrowed match box, quickly tried to light the lamp. Puff ! went out the light. " </p>
+<p>The Inspector made as if he would knock the collector down, but thought better of the matter, and, snatching a borrowed match box, quickly tried to light the lamp. Puff! went out the light. </p>
 
 <p>Try again, Sir,” suggested <span class="personal-name-1">Kwamankra</span> dryly. “There may be a drop of water in the oil.” Puff! went out the light the second time. “Try again! try again!” came from all sides. “Shall I get out and buy you some paraffin, Mr. Inspector? You know this is perfectly disgraceful. Thirteen shillings for thirty-nine miles and no oil,” said Tandor-Kuma.</p>
 
