@@ -941,7 +941,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 <p>Just as he was about retreating to the second class compartment, <span class="personal-name-1">Kwamankra</span> shouted after him, “ I say, collector, won’t you have a drink? " holding out to him some whisky and soda—“ the others do it, you know,” and this with a knowing wink. </p>
 
 <p>The collector was human. He hesitated, then made up his mind, took the drink, and went away. Presently he returned and became communicative. </p>
-<p>“I don't know, Sar, if any of you, Lar, be lawyer man, Sar? ” </p>
+<p>“I don't know, Sar, if any of you, be lawyer man, Sar? ” </p>
 <p>Tandor-Kuma chuckled. “What next,” demanded the “Professor ” sternly. <span class="personal-name-1">Kwamankra</span> held his peace, appearing not to listen. </p>
 <p>“I don’t know, Sar, but I bin tink say I da go show you di rules which say di collector mus examin ebery gentman him teekeet.”</p>
 <p> <span class="personal-name-1">Kwamankra</span> began to fumble in his pockets.</p>
