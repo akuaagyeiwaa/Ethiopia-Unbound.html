@@ -1209,6 +1209,18 @@ span.place-name-russian-generals:hover {
     color: olive;
     text-decoration: underline;
 }
+/* West Africa term styling */
+span.term-west-africa {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-west-africa:hover {
+    color: orangered;
+    text-decoration: underline;
+}
+
 /* Accra term styling */
 span.term-accra {
     color: darkgreen;
