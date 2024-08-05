@@ -1238,3 +1238,14 @@ span.term-india:hover {
     color: coral;
     text-decoration: underline;
 }
+/* Korea term styling */
+span.term-korea {
+    color: darkcyan;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-korea:hover {
+    color: teal;
+    text-decoration: underline;
+}
