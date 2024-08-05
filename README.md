@@ -971,7 +971,8 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 
  </section>
  <section id="chapterXII">
-            <h3>Chapter XII: A LEADER OF SOCIETY. </h3>
+            <h3>Chapter XII</h3>
+	 <h4>A LEADER OF SOCIETY. </h4>
             
 
 <p>TOM PALMER, the son of Jonathan Palmer, of Horse Road, Ussher Town, Accra, was a goodly youth of many fine qualities. The Palmers originally hailed from Sierra Leone, settling on the Gold Coast early in the fifties of the last century. By dint of great energy, combined with uncommon business tact, the first Palmer had gradually won for himself a competence which the second Palmer, with equal tact, had gone on improving, so that when it came to the turn of Jonathan Palmer, he was looked up to as a man of wealth, position, and influence in the community of Accra.</p>
