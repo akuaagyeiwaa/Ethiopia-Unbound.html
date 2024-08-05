@@ -953,7 +953,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 
 <p>“Light, collector, light!”—this from <span class="personal-name-1">Kwamankra</span>, for in the detached carriage could be heard yells and shrieks of women and children. </p>
 
-<p>“I say, collector, light! Do you hear? Light! ” and this with an expletive or two from the “ Professor.” The expletive did its work. The collector made his way to the composite carriage amid a scene of much confusion. </p>
+<p>“I say, collector, light! Do you hear? Light! ” and this with an expletive or two from the “Professor.” The expletive did its work. The collector made his way to the composite carriage amid a scene of much confusion. </p>
 
 <p>“You had better go and fetch the Inspector to see about this mess, or I will report the whole lot of you fellows, white and black alike. It is perfectly disgraceful, this kind of thing,” said Tandor-Kuma. </p>
 
