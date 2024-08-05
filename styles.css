@@ -1172,3 +1172,14 @@ span.term-coloured:hover {
     color: orangered;
     text-decoration: underline;
 }
+/* Paterfamilias term styling */
+span.term-paterfamilias {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-paterfamilias:hover {
+    color: lightslategray;
+    text-decoration: underline;
+}
