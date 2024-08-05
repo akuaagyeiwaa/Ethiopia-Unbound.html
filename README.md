@@ -921,7 +921,8 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 
  
  <section id="chapter XI">
-            <h3>Chapter XI: ON “THE GREAT NORTH WESTERN” </h3>
+            <h3>Chapter XI</h3>
+	 <h4>ON “THE GREAT NORTH WESTERN” </h4>
             
 
   
