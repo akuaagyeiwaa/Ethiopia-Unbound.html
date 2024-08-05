@@ -832,7 +832,8 @@ irrespective of race, and shook them up together, as you would the slips of pape
 
  </section>
  <section id="chapterIX">
-            <h3>Chapter IX: THE YELLOW PERIL.</h3>
+            <h3>Chapter IX:</h3>
+	 <h4>THE YELLOW PERIL.</h4>
  	
  <p>THE political wisdom of Ekra Kwow, the son of <span class="personal-name-1">Kwamankra</span>, was learnt at the feet of his father while yet he was in his teens. Being a lad of inquiring mind and- quick perception, many a curious question did he put to his father on odd occasions, when <span class="personal-name-1">Kwamankra</span> would return answers full of pith and marrow.</p>
  
