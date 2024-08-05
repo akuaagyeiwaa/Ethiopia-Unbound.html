@@ -838,7 +838,7 @@ irrespective of race, and shook them up together, as you would the slips of pape
  <p>THE political wisdom of Ekra Kwow, the son of <span class="personal-name-1">Kwamankra</span>, was learnt at the feet of his father while yet he was in his teens. Being a lad of inquiring mind and quick perception, many a curious question did he put to his father on odd occasions, when <span class="personal-name-1">Kwamankra</span> would return answers full of pith and marrow.</p>
  
 <p> “What is the meaning of the “yellow peril’?” interrogated the precocious youth, as he maned his neck behind the chair of the <span class="term-paterfamilias"><a href="https://en.wikipedia.org/wiki/Pater_familias" target="_blank">paterfamilias</a></span>
-, who was leisurely gleaning from the pages of Public Opinion.</p>
+, who was leisurely gleaning from the pages of <i>Public Opinion</i>.</p>
 
  <p><span class="personal-name-1">Kwamankra</span> raised his eyes from the printed matter, and beckoned the young hopeful forward. Eyeing the lad curiously, he said, “If you must know, I suppose I must give you the lesson, and, perhaps, the earlier the better. Now, if you should be going to school tomorrow, and at the street corner Kweku Mensah knocked off your cap and punched your nose, what would you do?</p>
  
