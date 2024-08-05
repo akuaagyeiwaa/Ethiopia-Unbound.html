@@ -1327,3 +1327,14 @@ span.term-governor:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* Sierra Leone term styling */
+span.term-sierra-leone {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-sierra-leone:hover {
+    color: crimson;
+    text-decoration: underline;
+}
