@@ -1019,6 +1019,18 @@ span.place-name-english:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* Fourah Bay College term styling */
+span.term-fourah-bay-college {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-fourah-bay-college:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
+
 /* the Aborigines place name styling */
 span.place-name-aborigines {
     color: darkred;
