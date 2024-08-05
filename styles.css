@@ -1161,6 +1161,18 @@ span.place-name-russian-generals:hover {
     color: olive;
     text-decoration: underline;
 }
+/* Accra term styling */
+span.term-accra {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-accra:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
+
 /* Coloured term styling */
 span.term-coloured {
     color: darkorange;
