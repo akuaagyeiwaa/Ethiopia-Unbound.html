@@ -1249,3 +1249,14 @@ span.term-korea:hover {
     color: teal;
     text-decoration: underline;
 }
+/* the Asiatics term styling */
+span.term-asiatics {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-asiatics:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
