@@ -1464,3 +1464,14 @@ span.term-muezzin:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* Periphrasis term styling */
+span.term-periphrasis {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-periphrasis:hover {
+    color: orangered;
+    text-decoration: underline;
+}
