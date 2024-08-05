@@ -1420,3 +1420,14 @@ span.term-malaria:hover {
     color: slategray;
     text-decoration: underline;
 }
+/* Belial term styling */
+span.term-belial {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-belial:hover {
+    color: crimson;
+    text-decoration: underline;
+}
