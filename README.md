@@ -1123,7 +1123,8 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 
  <p>“No, thank you, I have some writing work to do, and I must be getting on before bedtime. Kofi, please show this gentleman round to the photographers across the way” addressing his servant on the verandah. </p>
  
-<p>“Oh, may I have a drink of water? ” “I have some Tuborg beer, excellent stuff; perhaps you will find that pleasanter—Kofi, fetch some beer.” The miner subsided into the comfortable canvas chair round the corner. </p>
+<p>“Oh, may I have a drink of water?</p>
+<p> “I have some Tuborg beer, excellent stuff; perhaps you will find that pleasanter—Kofi, fetch some beer.” The miner subsided into the comfortable canvas chair round the corner. </p>
 
 <p> Well, Boss,” he pursued, “I know of a little job I can put in your way. There is a man in my camp who has worked for one year and fourteen days, and just because he had a little fun to-day, he has been turned adrift, and he is to pay his passage back home. Now, do you think that’s fair? If you will take up the matter, I will send him round in the morning. What name shall I  Say?”. The same quizzical look and a smile by way of encouragement to get on and be finished with the business was all the response <span class="personal-name-1">Kwamankra</span> gave. </p>
 
