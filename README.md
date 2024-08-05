@@ -1113,7 +1113,7 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 
 <p><span class="personal-name-1">Kwamankra</span> settled down to his meal, thankful to have got rid of what threatened to be a serious interruption to his thoughts.</p>
 
-<p>In ten minutes the miner came back'. “May I come in ? ” he asked.</p>
+<p>In ten minutes the miner came back'. “May I come in?” he asked.</p>
 <p>“ Yes, do,” replied <span class="personal-name-1">Kwamankra</span>. 
 <p>“I did not find him; they say he has gone down to the Coast. What is your name? ” essayed the miner; “ you speak English so well. Are you a lawyer?” He spoke a little thickly. <span class="personal-name-1">Kwamankra</span> did not answer, but put on a whimsical look which said as nearly as possible, “what if I am? " at the same time beckoning the miner to take a seat.</p>
 <p>“ You know I have seen you somewhere before. Your face is familiar. It must have been on the train,” persisted the miner.</p>
