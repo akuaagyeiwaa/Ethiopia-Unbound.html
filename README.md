@@ -902,7 +902,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
             <h3>Chapter X</h3>
 	 <h4>THE BLACK Peril. </h4>
             
-<p>HERE, on the. Gold Coast, the people have shown that they do not mean to go under, but in a different way— ” this, as the precocious you! produced a sheet-of paper with the words neatly written down “ I meant not to forfeit the rest of the story you see, dad, and now for your promise please," drawing a low seat close to the paternal chair.</p>
+<p>HERE, on the Gold Coast, the people have shown that they do not mean to go under, but in a different way— ” this, as the precocious you! produced a sheet-of paper with the words neatly written down “ I meant not to forfeit the rest of the story you see, dad, and now for your promise please," drawing a low seat close to the paternal chair.</p>
 
 <p> “I see you have forgotten the illustration but not the text, and as other illustrations are easy to find," said <span class="personal-name-1">Kwamankra</span>, “I shall redeem my promise. They are scattered over the pages of history. In your historical lessons you have undoubtedly heard of what is called the ‘ Eastern Question?’"	</p>
 
