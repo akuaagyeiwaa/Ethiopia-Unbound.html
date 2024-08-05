@@ -1216,3 +1216,14 @@ span.term-zulus:hover {
     color: mediumblue;
     text-decoration: underline;
 }
+/* China term styling */
+span.term-china {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-china:hover {
+    color: crimson;
+    text-decoration: underline;
+}
