@@ -1055,7 +1055,7 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
  
 <p>“You know," said Ekuba, taking advantage of a momentary pause on the part of Tandor-Kuma, " the last time you were here, and you had to go away so suddenly, when I came and found you were gone, I was so sorry," looking at Tandor- Kuma defiantly. </p>
 
-<p>“Were you?- I am not surprised. You see we all make mistakes in life, and we are expected to pull ourselves together and go straight after. If not, often the last stage is worse than the first. You don’t wish to see me down, do you? " </p>
+<p>“Were you? I am not surprised. You see we all make mistakes in life, and we are expected to pull ourselves together and go straight after. If not, often the last stage is worse than the first. You don’t wish to see me down, do you? " </p>
 
 <p>“It depends upon what you mean by seeing you down. Kobina had to come, and nothing could prevent it; and I have waited all these years," repeating the last words with a slow emphasis and a weariness of tone which struck Tandor-Kuma. awkwardly.</p>
 
