@@ -865,7 +865,8 @@ irrespective of race, and shook them up together, as you would the slips of pape
 , and <span class="term-korea"><a href="https://en.wikipedia.org/wiki/Korea" target="_blank">Korea</a></span>
 , to all <span class="term-asiatics"><a href="https://en.wikipedia.org/wiki/Asian_people" target="_blank">the Asiatics</a></span>
  who have confidence in us, and who are capable of civilisation. As their more powerful friend, we desire them all to be free from the yoke which Europe has placed upon them, and that they may hereby prove to the world that <span class="term-orient"><a href="https://en.wikipedia.org/wiki/Orient" target="_blank">the Orient</a></span>
-is capable of measuring swords with the Occident on any field of battle.” These words were spoken in the Japanese House of Peers, and they embody the principle I have been trying to inculcate upon you in a nutshell. You will do well to remember them all your life; and since I find you an apt pupil likely to pass the lessons on to others after I am gone, I will tell you of my experiences with the Political Officer.”</p>
+is capable of measuring swords with the Occident on any field of battle.” These words were spoken in the <span class="term-japanese-house-of-peers"><a href="https://en.wikipedia.org/wiki/House_of_Peers_(Japan)" target="_blank">Japanese House of Peers</a></span>
+, and they embody the principle I have been trying to inculcate upon you in a nutshell. You will do well to remember them all your life; and since I find you an apt pupil likely to pass the lessons on to others after I am gone, I will tell you of my experiences with the Political Officer.”</p>
 
  <p>“But what is a Political Officer? ” queried the stripling.</p>
  
