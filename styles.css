@@ -1409,3 +1409,14 @@ span.term-dilettante:hover {
     color: slategray;
     text-decoration: underline;
 }
+/* Malaria term styling */
+span.term-malaria {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-malaria:hover {
+    color: slategray;
+    text-decoration: underline;
+}
