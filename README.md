@@ -892,7 +892,8 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 
 <p> “Good, my boy, that’s well said. But, unfortunately, it is an every day occurrence in this world, and, what is worse, we can’t always bring to play our pop guns when we may morally be justified in doing so.”</p>
 
- <p>“But it is high time you were in bed. Another time, if you are good, I will tell you all about the Political Officer, and my experiences with him, if you remind me how far we have come to-day.” “Good-night, dad!” </p>
+ <p>“But it is high time you were in bed. Another time, if you are good, I will tell you all about the Political Officer, and my experiences with him, if you remind me how far we have come to-day.”</p>
+<p>“Good-night, dad!” </p>
  
 <p>“Good-night, my boy,” and, in a minute, he bad disappeared behind the curtains, leaving <span class="personal-name-1">Kwamankra</span> to his thoughts and to his pipe. </p>
  </section>
