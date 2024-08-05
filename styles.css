@@ -1453,3 +1453,14 @@ span.term-manchester-calico-print:hover {
     color: mediumvioletred;
     text-decoration: underline;
 }
+/* Muezzin term styling */
+span.term-muezzin {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-muezzin:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
