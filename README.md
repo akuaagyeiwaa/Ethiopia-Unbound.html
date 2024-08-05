@@ -945,7 +945,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 <p>Tandor-Kuma chuckled. “What next,” demanded the “Professor ” sternly. <span class="personal-name-1">Kwamankra</span> held his peace, appearing not to listen. </p>
 <p>“I don’t know, Sar, but I bin tink say I da go show you di rules which say di collector mus examin ebery gentman him teekeet.”</p>
 <p> <span class="personal-name-1">Kwamankra</span> began to fumble in his pockets.</p>
-<p> “My good man,” said the “Professor” to the collector, “ I have made it a rule never to give up my ticket on this line till I have landed safely at my destination, do you understand? ” </p>
+<p> “My good man,” said the “Professor” to the collector, “ I have made it a rule never to give up my ticket on <i></i>this</p> line till I have landed safely at my destination, do you understand? ” </p>
 
 <p>The emphasis seemed to upset the equilibrium of the collector. lie sneaked away, may be, to reflect upon the advantage of an emphasis, and sure enough, he was soon heard letting off steam in the second-class compartment at the expense of an inoffensive Fanti. </p>
 
