@@ -1304,3 +1304,14 @@ span.term-crown-colony-system:hover {
     color: slategray;
     text-decoration: underline;
 }
+/* Governor term styling */
+span.term-governor {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-governor:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
