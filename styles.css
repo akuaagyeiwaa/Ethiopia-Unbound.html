@@ -1293,3 +1293,14 @@ span.term-japanese-house-of-peers:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* Crown Colony system term styling */
+span.term-crown-colony-system {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-crown-colony-system:hover {
+    color: slategray;
+    text-decoration: underline;
+}
