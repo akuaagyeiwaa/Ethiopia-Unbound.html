@@ -1183,3 +1183,14 @@ span.term-paterfamilias:hover {
     color: lightslategray;
     text-decoration: underline;
 }
+/* the Fantis term styling */
+span.term-fantis {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-fantis:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
