@@ -1051,7 +1051,7 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 
 <p>“Don’t talk like that, Ekuba. You know I must be careful. I am a married man, and I must think of my wife and children.”</p>
 
- <p>“If it comes to that,” she said, " I am your first wife, and the second is an interloper.” So saying, she burst out into a wild laugh. The situation was becoming perilous and yet comical, and Tandor-Kuma could not restrain a laugh too. Here he was with the woman, who first raised sympathy in him, confronting him with a naivete that was. quite unusual. Should he repulse her 1 He quickly decided that the wisest course was to humour her and talk the matter out in a half- bantering, half-serious way with her. </p>
+ <p>“If it comes to that,” she said, " I am your first wife, and the second is an interloper.” So saying, she burst out into a wild laugh. The situation was becoming perilous and yet comical, and Tandor-Kuma could not restrain a laugh too. Here he was with the woman, who first raised sympathy in him, confronting him with a naivete that was. quite unusual. Should he repulse her?. He quickly decided that the wisest course was to humour her and talk the matter out in a half- bantering, half-serious way with her. </p>
  
 <p>“You know," said Ekuba, taking advantage of a momentary pause on the part of Tandor-Kuma, " the last time you were here, and you had to go away so suddenly, when I came and found you were gone, I was so sorry," looking at Tandor- Kuma defiantly. </p>
 
