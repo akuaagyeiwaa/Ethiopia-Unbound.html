@@ -1043,7 +1043,7 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 
 <p>“What a jolly thing your steamer delaying like this. Supposing she did not come for another week or so, I wonder whatever will happen? " Tandor-Kuma raised up a finger deprecatingly.</p>
 
- <p>"I know,” continued Ekuba, not heeding the warning one little bit, “ that you are dying to get back to the bosom of your dear family—that is what they call it, isn’t it? But what must be, must be.” </p>
+ <p>"I know,” continued Ekuba, not heeding the warning one little bit, “that you are dying to get back to the bosom of your dear family—that is what they call it, isn’t it? But what must be, must be.” </p>
  
 <p>“What do you mean, Ekuba, you talk rather strangely to-night.”</p>
 
