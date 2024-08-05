@@ -1205,3 +1205,14 @@ span.term-ashantis:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* the Zulus term styling */
+span.term-zulus {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-zulus:hover {
+    color: mediumblue;
+    text-decoration: underline;
+}
