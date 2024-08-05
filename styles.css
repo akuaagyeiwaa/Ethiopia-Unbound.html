@@ -1163,6 +1163,18 @@ span.place-name-kintampor:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Durham University term styling */
+span.term-durham-university {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-durham-university:hover {
+    color: mediumblue;
+    text-decoration: underline;
+}
+
 /* Oxford dons place name styling */
 span.place-name-oxford-dons {
     color: darkblue;
