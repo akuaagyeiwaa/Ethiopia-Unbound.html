@@ -1260,3 +1260,14 @@ span.term-asiatics:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Europe term styling */
+span.term-europe {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-europe:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
