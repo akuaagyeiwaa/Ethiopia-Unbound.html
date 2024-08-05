@@ -1194,3 +1194,14 @@ span.term-fantis:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* the Ashantis term styling */
+span.term-ashantis {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-ashantis:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
