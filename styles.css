@@ -1227,3 +1227,14 @@ span.term-china:hover {
     color: crimson;
     text-decoration: underline;
 }
+/* India term styling */
+span.term-india {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-india:hover {
+    color: coral;
+    text-decoration: underline;
+}
