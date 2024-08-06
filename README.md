@@ -1169,7 +1169,8 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 , even at the point which is nearest the ancient <span class="term-city-of-constantine"><a href="https://en.wikipedia.org/wiki/Constantine,_Algeria" target="_blank">city of Constantine</a></span>
 , and there were no people that were not represented, save the Ethiopians, whose kingdoms stretch from the shores of <span class="term-mediterranean"><a href="https://en.wikipedia.org/wiki/Mediterranean_Sea" target="_blank">the Mediterranean</a></span>
 , where it washes <span class="term-lybian-coast"><a href="https://en.wikipedia.org/wiki/Libya" target="_blank">the Lybian coast</a></span>
-, across the great desert, taking in the arms of the mighty waste from ocean to ocean, thence sweeping down to the remotest parts of the provinces inhabited by the Kaffirs, a race of mighty men.</p>
+, across the great desert, taking in the arms of the mighty waste from ocean to ocean, thence sweeping down to the remotest parts of the provinces inhabited by <span class="term-kaffirs"><a href="https://en.wikipedia.org/wiki/Kaffir_(ethnic_slur)" target="_blank">the Kaffirs</a></span>
+, a race of mighty men.</p>
  
  <p>It was like the meeting of the gods, the gathering of the Nations, for they had mastered all knowledge and gotten themselves such power as to make men forget the Power beyond, before whom the Nations of the Earth are as grasshoppers. </p>
  
