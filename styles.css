@@ -1695,3 +1695,14 @@ span.term-denmark:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* National language term styling */
+span.term-national-language {
+    color: darkcyan;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-national-language:hover {
+    color: deepskyblue;
+    text-decoration: underline;
+}
