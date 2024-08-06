@@ -1373,7 +1373,8 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
 
 </section>
  <section id="chapterXIX">
-            <h3>Chapter XIX: A SIMILITUDE: THE GREEK AND THE FANTI. </h3>
+            <h3>Chapter XIX</h3>
+	 <h4>A SIMILITUDE: THE GREEK AND THE FANTI. </h4>
             
 
 <p>By this time the precocious youth was well on in his teens, and was already grappling with the intricacies of Greek roots and Latin suffixes. But often would his father warn him to be mindful more of the things which matter, as he quaintly put it. Now and again he would induce the youth to draw comparisons between the mode of thought and the practice of the ancients; and he would insist that there was no better intellectual, moral, and national training for a young Fanti than such exercise involved. By way of encouragement, when the youth had done particularly well,, he would take him upon new ground and delight him with stories from Homer’s great masterpiece, which; in a curious way, reflected the every-day life of their own people.</p>
