@@ -1728,3 +1728,14 @@ span.term-the-negro:hover {
     color: indigo;
     text-decoration: underline;
 }
+/* The Sphinx term styling */
+span.term-the-sphinx {
+    color: darkgoldenrod;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-the-sphinx:hover {
+    color: gold;
+    text-decoration: underline;
+}
