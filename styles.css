@@ -1607,3 +1607,14 @@ span.term-we-burghardt-du-bois:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Sir Arthur Lawley term styling */
+span.term-sir-arthur-lawley {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-sir-arthur-lawley:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
