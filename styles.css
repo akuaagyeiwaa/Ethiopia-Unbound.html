@@ -1629,3 +1629,14 @@ span.term-transvaal:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* African in America term styling */
+span.term-african-in-america {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-african-in-america:hover {
+    color: orangered;
+    text-decoration: underline;
+}
