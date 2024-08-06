@@ -1739,3 +1739,14 @@ span.term-the-sphinx:hover {
     color: gold;
     text-decoration: underline;
 }
+/* King Chephron term styling */
+span.term-king-chephron {
+    color: darkolivegreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-king-chephron:hover {
+    color: olive;
+    text-decoration: underline;
+}
