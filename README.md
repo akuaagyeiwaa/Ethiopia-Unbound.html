@@ -1187,7 +1187,9 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 
 <p>By this time the unthinking crowd were beside themselves in emulation of the white man’s ways, and when they bowed the knee in the House of Mammon, they thought they worshipped the true God, and seemed to forget that once they were Ethiopians. </p>
 
-<p>The gods met in the ethereal heights of Mount Atlas to undo the work of mortals. Said they, “The Nations are as a dream before us, and they know not what they do. Are not the Ethiopians a peculiar people, destined for a peculiar part in the world’s work ? An end to the machinations of men! 	 In the self-same era a god descended upon earth to teach the Ethiopians anew the way of life. He came not in thunder, or with great sound, V but in the garb of a humble teacher, a John the ' , Baptist among his brethren, preaching racial and national salvation. From land to land and from shore to shore, his message was the self-same one, which, interpreted in the language of the Christ, was : What shall it profit a race if it shall gain the whole world and lose its own soul?</p>
+<p>The gods met in the ethereal heights of Mount Atlas to undo the work of mortals. Said they, “The Nations are as a dream before us, and they know not what they do. Are not the Ethiopians a peculiar people, destined for a peculiar part in the world’s work ? An end to the machinations of men!</p>
+
+<p>In the self-same era a god descended upon earth to teach the Ethiopians <i>anew the way of life</i>. He came not in thunder, or with great sound, but in the garb of a humble teacher, a John the', Baptist among his brethren, preaching racial and national salvation. From land to land and from shore to shore, his message was the self-same one, which, interpreted in the language of the Christ, was: <i>What shall it profit a race if it shall gain the whole world and lose its own soul?</i></p>
 </section>
  <section id="chapterXVI">
             <h3>Chapter XVI: RACE EMANCIPATION—EDWARD WILMOT BLYDEN.  
