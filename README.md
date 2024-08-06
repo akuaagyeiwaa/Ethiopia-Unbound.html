@@ -1192,8 +1192,9 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 <p>In the self-same era a god descended upon earth to teach the Ethiopians <i>anew the way of life</i>. He came not in thunder, or with great sound, but in the garb of a humble teacher, a John the', Baptist among his brethren, preaching racial and national salvation. From land to land and from shore to shore, his message was the self-same one, which, interpreted in the language of the Christ, was: <i>What shall it profit a race if it shall gain the whole world and lose its own soul?</i></p>
 </section>
  <section id="chapterXVI">
-            <h3>Chapter XVI: RACE EMANCIPATION—EDWARD WILMOT BLYDEN.  
-GENERAL CONSIDERATIONS: </h3>
+            <h3>Chapter XVI</h3>
+	 <h4>RACE EMANCIPATION—EDWARD WILMOT BLYDEN.  
+GENERAL CONSIDERATIONS: </h4>
             
 
 
