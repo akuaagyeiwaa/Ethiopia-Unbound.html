@@ -1684,3 +1684,14 @@ span.term-ireland:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* Denmark term styling */
+span.term-denmark {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-denmark:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
