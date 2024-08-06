@@ -1805,3 +1805,14 @@ span.term-homer:hover {
     color: orange;
     text-decoration: underline;
 }
+/* The Odyssey term styling */
+span.term-odyssey {
+    color: darkgoldenrod;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-odyssey:hover {
+    color: goldenrod;
+    text-decoration: underline;
+}
