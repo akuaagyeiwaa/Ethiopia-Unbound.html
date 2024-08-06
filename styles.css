@@ -1552,3 +1552,14 @@ span.term-gulf-of-guinea:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* Samuel Chapman Armstrong term styling */
+span.term-samuel-chapman-armstrong {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-samuel-chapman-armstrong:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
