@@ -1541,3 +1541,14 @@ span.term-kaffirs:hover {
     color: crimson;
     text-decoration: underline;
 }
+/* The Gulf of Guinea term styling */
+span.term-gulf-of-guinea {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-gulf-of-guinea:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
