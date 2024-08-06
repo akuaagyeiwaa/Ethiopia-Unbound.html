@@ -1161,10 +1161,11 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 </section>
 
  <section id="chapterXIX">
-            <h3>Chapter XIX: AS IN A GLASS DARKLY.  </h3>
+            <h3>Chapter XIX</h3>
+	 <h4>AS IN A GLASS DARKLY.  </h4>
         
 
- <p>Not so very long ago in the age of the world, - the Nations were gathered in council upon Mount Atlas, even at the point which is nearest the ancient city of Constantine, and there were no people that were not represented, save the Ethiopians, whose kingdoms stretch from the shores of the 'Mediterranean, where it washes the Lybian coast, across the great desert, taking in the arms of the mighty waste from ocean to ocean, thence sweeping down to the remotest parts of the provinces inhabited by the Kaffirs, a race of mighty men.</p>
+ <p>Not so very long ago in the age of the world, the Nations were gathered in council upon Mount Atlas, even at the point which is nearest the ancient city of Constantine, and there were no people that were not represented, save the Ethiopians, whose kingdoms stretch from the shores of the 'Mediterranean, where it washes the Lybian coast, across the great desert, taking in the arms of the mighty waste from ocean to ocean, thence sweeping down to the remotest parts of the provinces inhabited by the Kaffirs, a race of mighty men.</p>
  
  <p>It was like the meeting of the gods, the gathering of the Nations, for they had mastered all knowledge and gotten themselves such power as to make men forget the Power beyond, before whom the Nations of the Earth are as grasshoppers. </p>
  
