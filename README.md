@@ -1272,7 +1272,8 @@ is in a worse plight than the <span class="term-hebrew-in-egypt"><a href="https:
 
 </section>
  <section id="chapterXVIII">
-            <h3>Chapter XVIII: RACE EMANCIPATION: THE CRUX OF THE MATTER. </h3>
+            <h3>Chapter XVIII</h3>
+	 <h4>RACE EMANCIPATION: THE CRUX OF THE MATTER. </h4>
             
 <p>One of the most pathetic passages in the history of human thought is the remarkable work of an Ethiopian, “The Souls of Black Folk,” written by the well-known thinker, W. P. B. Du Bois, of Atlanta, Ga., in the United States of America. It deals with a matter which has attracted the attention of all thinking men of modern times. European writers have dealt with the question, and so have African and American writers. But the particular standpoint of Mr. Du Bois is peculiar unto itself. It recalls the story of the Hebrew people; but neither at the stage of actual enslavement, nor yet at the hour of emancipation. As yet, the people are roaming aimlessly in the wilderness, and the leaders, though having the promise, have but a glimmer of light to see distantly a day of deliverance possible. It is true twenty, thirty, years of the forty are past, and the full light may break some day all of a sudden; but even now the mighty arms of Moses must be upraised and supported lest the chosen people perish by the way. </p>
 
