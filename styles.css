@@ -1508,3 +1508,14 @@ span.term-mediterranean:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* The Lybian coast term styling */
+span.term-lybian-coast {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-lybian-coast:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
