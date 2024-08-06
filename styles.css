@@ -1574,3 +1574,14 @@ span.term-abraham-lincoln:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* Edward Wilmot Blyden term styling */
+span.term-edward-wilmot-blyden {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-edward-wilmot-blyden:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
