@@ -1563,3 +1563,14 @@ span.term-samuel-chapman-armstrong:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Abraham Lincoln term styling */
+span.term-abraham-lincoln {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-abraham-lincoln:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
