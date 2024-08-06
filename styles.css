@@ -1717,3 +1717,14 @@ span.term-mongolian:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* The Negro term styling */
+span.term-the-negro {
+    color: darkviolet;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-the-negro:hover {
+    color: indigo;
+    text-decoration: underline;
+}
