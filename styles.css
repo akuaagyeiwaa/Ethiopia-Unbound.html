@@ -1761,3 +1761,14 @@ span.term-gold-coast-aborigines-rights-protection-society:hover {
     color: red;
     text-decoration: underline;
 }
+/* Japhet term styling */
+span.term-japhet {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-japhet:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
