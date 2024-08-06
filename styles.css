@@ -1750,3 +1750,14 @@ span.term-king-chephron:hover {
     color: olive;
     text-decoration: underline;
 }
+/* Gold Coast Aborigines Rights Protection Society term styling */
+span.term-gold-coast-aborigines-rights-protection-society {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-gold-coast-aborigines-rights-protection-society:hover {
+    color: red;
+    text-decoration: underline;
+}
