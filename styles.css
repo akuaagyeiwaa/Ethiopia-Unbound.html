@@ -1673,3 +1673,14 @@ span.term-hausa:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* Ireland term styling */
+span.term-ireland {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-ireland:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
