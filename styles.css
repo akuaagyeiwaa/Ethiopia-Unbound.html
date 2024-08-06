@@ -1651,3 +1651,14 @@ span.term-hebrew-in-egypt:hover {
     color: royalblue;
     text-decoration: underline;
 }
+/* Yoruba term styling */
+span.term-yoruba {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-yoruba:hover {
+    color: orangered;
+    text-decoration: underline;
+}
