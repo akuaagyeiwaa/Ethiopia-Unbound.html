@@ -1618,3 +1618,14 @@ span.term-sir-arthur-lawley:hover {
     color: firebrick;
     text-decoration: underline;
 }
+/* The Transvaal term styling */
+span.term-transvaal {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-transvaal:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
