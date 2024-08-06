@@ -1382,7 +1382,7 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
 
  <p>On this particular occasion, you may well imagine the excitement of Ekra Kwow, as he drew a low stool beside the paterfamilias, all eagerness for the latter to begin. </p>
  
-<p>The youth looked dis- appointed, as, instead of beginning a story, his father continued smoking, and simply thrust into his hand an old, well-thumbed popular edition of the story of the Odyssey, done into beautiful English by the Rev. Alfred J. Church. </p>
+<p>The youth looked disappointed, as, instead of beginning a story, his father continued smoking, and simply thrust into his hand an old, well-thumbed popular edition of the story of the Odyssey, done into beautiful English by the Rev. Alfred J. Church. </p>
 
 <p>“What is the matter, father; are you not well to-night ?'' “That’s not it, my boy. I am as well as ever, thank you. But to-night I want you to read to me instead. I want to see how you handle Mr. Church’s beautiful setting of the great thoughts of the master. You know to some this feast of the gods is like throwing pearls before swine. But go on. Begin with the visit of Athens to Nausicaa, the daughter of King Alcinous.”</p>
 
