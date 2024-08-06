@@ -1772,3 +1772,14 @@ span.term-japhet:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Mr. James O’Hannay term styling */
+span.term-james-ohannay {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-james-ohannay:hover {
+    color: slategray;
+    text-decoration: underline;
+}
