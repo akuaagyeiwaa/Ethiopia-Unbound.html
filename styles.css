@@ -1794,3 +1794,14 @@ span.term-ag-fraser:hover {
     color: lightseagreen;
     text-decoration: underline;
 }
+/* Homer term styling */
+span.term-homer {
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-homer:hover {
+    color: orange;
+    text-decoration: underline;
+}
