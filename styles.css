@@ -1706,3 +1706,14 @@ span.term-national-language:hover {
     color: deepskyblue;
     text-decoration: underline;
 }
+/* Mongolian term styling */
+span.term-mongolian {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-mongolian:hover {
+    color: firebrick;
+    text-decoration: underline;
+}
