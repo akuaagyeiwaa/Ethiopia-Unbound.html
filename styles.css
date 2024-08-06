@@ -1783,3 +1783,14 @@ span.term-james-ohannay:hover {
     color: slategray;
     text-decoration: underline;
 }
+/* Mr. A. G. Fraser term styling */
+span.term-ag-fraser {
+    color: darkcyan;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-ag-fraser:hover {
+    color: lightseagreen;
+    text-decoration: underline;
+}
