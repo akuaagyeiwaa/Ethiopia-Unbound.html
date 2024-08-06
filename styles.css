@@ -1497,3 +1497,14 @@ span.term-city-of-constantine:hover {
     color: crimson;
     text-decoration: underline;
 }
+/* The Mediterranean term styling */
+span.term-mediterranean {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-mediterranean:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
