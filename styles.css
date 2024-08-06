@@ -1640,3 +1640,14 @@ span.term-african-in-america:hover {
     color: orangered;
     text-decoration: underline;
 }
+/* Hebrew in Egypt term styling */
+span.term-hebrew-in-egypt {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-hebrew-in-egypt:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
