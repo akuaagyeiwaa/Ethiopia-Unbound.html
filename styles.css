@@ -1232,6 +1232,17 @@ span.term-accra:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+/* The Gulf of Guinea term styling */
+span.term-gulf-of-guinea {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-gulf-of-guinea:hover {
+    color: royalblue;
+    text-decoration: underline;
+}
 
 /* Coloured term styling */
 span.term-coloured {
