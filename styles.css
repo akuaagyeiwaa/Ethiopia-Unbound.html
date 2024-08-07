@@ -1816,3 +1816,14 @@ span.term-odyssey:hover {
     color: goldenrod;
     text-decoration: underline;
 }
+/* Rev. Alfred J. Church term styling */
+span.term-alfred-church {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-alfred-church:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
