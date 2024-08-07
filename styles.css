@@ -1871,3 +1871,14 @@ span.term-denkiras:hover {
     color: slateblue;
     text-decoration: underline;
 }
+/* Mankessim term styling */
+span.term-mankessim {
+    color: darkgoldenrod;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-mankessim:hover {
+    color: goldenrod;
+    text-decoration: underline;
+}
