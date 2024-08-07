@@ -1899,3 +1899,14 @@ span.term-lake-chad:hover {
     color: slategray;
     text-decoration: underline;
 }
+/* Socrates term styling */
+span.term-socrates {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-socrates:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
