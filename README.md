@@ -1447,7 +1447,7 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
 <p> Still stands thine ancient sacrifice, </p>
 <p>A humble and. a contrite heart.</p>
  <p>Lord God of Hosts, be with us yet, </p>
-<p>Lest we forget—lest we forget!—Kipling.</i> </p>
+<p>Lest we forget—lest we forget!—Kipling.</i></p>
  </section>
  
  
