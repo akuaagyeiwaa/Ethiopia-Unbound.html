@@ -1882,3 +1882,14 @@ span.term-mankessim:hover {
     color: goldenrod;
     text-decoration: underline;
 }
+/* Lake Chad term styling */
+span.term-lake-chad {
+    color: darkslategray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-lake-chad:hover {
+    color: slategray;
+    text-decoration: underline;
+}
