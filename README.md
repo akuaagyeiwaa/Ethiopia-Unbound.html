@@ -101,7 +101,7 @@
 
 <p>You have no idea how interesting it is. Would you like to see what -I am-doing ? ”</p>
 
-<p> “How good of you! I should be delighted.” “I shall soon be finishing now,” said <span class="personal-name-1">Kwamankra</span> excitedly. “You see I am at the letter ‘ Y.’ And that reminds me: you remember a while ago my taking you to task over the feebleness of the idear-of ‘ God’ in “the Anglo-Saxon language. -1 have just got the corresponding word here in Fanti. It is a big word, so big that you can hardly manage it :— </p>
+<p> “How good of you! I should be delighted.” “I shall soon be finishing now,” said <span class="personal-name-1">Kwamankra</span> excitedly. “You see I am at the letter ‘ Y.’ And that reminds me: you remember a while ago my taking you to task over the feebleness of the idear-of ‘ God’ in “the Anglo-Saxon language. -I have just got the corresponding word here in Fanti. It is a big word, so big that you can hardly manage it :— </p>
 
 <p>Nyiakropon.</p>
 
