@@ -1163,7 +1163,7 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 <p>As the Professor and <span class="personal-name-1">Kwamankra</span> shook hands at the station, the former said to his friend: “Those were brave words. But you may be sure this kind of thing will get you into trouble one of these days. But here’s ray hand on it, whenever you need help I am your man.”</p>
 
 <p><span class="personal-name-1">Kwamankra</span> spoke low: ‘‘I have counted the cost, and, it may be, I shall need thy help when the hour comes.” </p>
-</section>
+
 
  <section id="chapterXIX">
             <h3>Chapter XIX</h3>
