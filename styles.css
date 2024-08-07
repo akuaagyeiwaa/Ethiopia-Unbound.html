@@ -11,7 +11,13 @@ body {
     background-color: #f4f4f4;
 }
 
-.container {
+.container
+.pageNumber {
+    font-size: 12px;
+    color: #333; /* Adjust color as needed */
+}
+
+{
     width: 80%;
     margin: auto;
     overflow: hidden;
