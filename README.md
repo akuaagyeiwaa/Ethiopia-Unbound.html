@@ -976,7 +976,6 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 
 <p>Pu! pu! pu ! piyu ! ! Pu ! pu ! piyu'!! came the heartbreaking snort from the nostrils of the iron horse. It reminded one of an overworked omnibus horse at midnight in Oxford Street. First back- wards, then downwards, up the incline, and down the gradient, toyed the iron horse, and as Tandor-Kuma thought of his wife and children waiting dinner in the cosy little room across the bridge, he could not help inwardly bestowing a blessing upon the devil and all his works. It was not until 9.30 p.m. that the terminus was made, the party having left on their 39 miles run at 2.30 p.m. As the trio walked the lonely streets, where black men are scarcely seen after sunset, the Professor, as a parting reminder, said to <span class="personal-name-1">Kwamankra</span>, “ On principle I never pay for a ticket on this line until I have made the terminus, and if you are a wise man, you will take my tip.”</p>
 
- </section>
  <section id="chapterXII">
             <h3>Chapter XII</h3>
 	 <h4>A LEADER OF SOCIETY. </h4>
