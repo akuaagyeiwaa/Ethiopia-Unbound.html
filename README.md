@@ -1420,15 +1420,15 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
 <p><i>Look not every man on his own things, but every man</i></p>
  <p><i>also on the things of others</i>.</p>
  <p><i>Let this mind be in you, which was also in Christ</i></p>
- <p><i>Jesus </p>
-<p>Who, being in the form of God, thought it not robbery</p>
- <p>to be equal with God:</p>
- <p>But made himself of no reputation, </p>
-<p>And took upon him the form of a servant, </p>
-<p>And urns made in the likeness of men. </p>
-<p>And being found in fashion as a man, he humbled him-</p>
- <p>self, and became obedient unto death, even the death</p>
- <p>of the Cross.</p> </p>
+ <p><i>Jesus </i></p>
+<p><i>Who, being in the form of God, thought it not robbery</i></p>
+ <p><i>to be equal with God:</i></p>
+ <p><i>But made himself of no reputation, </i></p>
+<p><i>And took upon him the form of a servant,</i> </p>
+<p><i>And urns made in the likeness of men.</i> </p>
+<p></i>And being found in fashion as a man, he humbled him</i></p>
+ <p><i>self, and became obedient unto death, even the death</i></p>
+ <p><i>of the Cross.</i> </p>
 
 <p>WHEREFORE </p>
 
