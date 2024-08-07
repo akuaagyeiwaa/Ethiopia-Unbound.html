@@ -911,7 +911,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
             
 <p>HERE, on the Gold Coast, the people have shown that they do not mean to go under, but in a different way— ” this, as the precocious youth produced a sheet-of paper with the words neatly written down “ I meant not to forfeit the rest of the story you see, dad, and now for your promise please," drawing a low seat close to the paternal chair.</p>
 
-<p> “I see you have forgotten the illustration but not the text, and as other illustrations are easy to find," said <span class="personal-name-1">Kwamankra</span>, “I shall redeem my promise. They are scattered over the pages of history. In your historical lessons you have undoubtedly heard of what is called the ‘ Eastern Question?’"	</p>
+<p> “I see you have forgotten the illustration but not the text, and as other illustrations are easy to find," said <span class="personal-name-1">Kwamankra</span>, “I shall redeem my promise. They are scattered over the pages of history. In your historical lessons you have undoubtedly heard of what is called the ‘Eastern Question?’"	</p>
 
 <p> “Yes, I have, though I forget what it was exactly, and, besides, I learn these things better when you tell them to me your way, dad," said the lad excitedly. “Now, if you will compose yourself, and absolution in the other to snatch away the patrimony of others : </p>
 
