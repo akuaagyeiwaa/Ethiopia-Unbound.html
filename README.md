@@ -1426,7 +1426,7 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
  <p><i>But made himself of no reputation, </i></p>
 <p><i>And took upon him the form of a servant,</i> </p>
 <p><i>And urns made in the likeness of men.</i> </p>
-<p></i>And being found in fashion as a man, he humbled him</i></p>
+<p><i>And being found in fashion as a man, he humbled him</i></p>
  <p><i>self, and became obedient unto death, even the death</i></p>
  <p><i>of the Cross.</i> </p>
 
