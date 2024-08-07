@@ -1849,3 +1849,14 @@ span.term-alcinous:hover {
     color: crimson;
     text-decoration: underline;
 }
+/* Lafcadio Hearn term styling */
+span.term-lafcadio-hearn {
+    color: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-lafcadio-hearn:hover {
+    color: navy;
+    text-decoration: underline;
+}
