@@ -522,8 +522,7 @@ The different walks seemed designed with an eye to quiet contemplation. Now and 
 <p>When <span class="personal-name-1">Kwamankra</span> awoke, the work-a-day world was going on in its accustomed way, and the old earth still revolved upon its axis in the same duration of time. And the sunlight chased the shadows, and the shadows chased the sunlight, and there seemed to be strife in the elements, but not the strife of mortals. It was effort co-ordinating with effort, and Nyiakrapon ruled over all.</p>
 <p>The new-born child opened her eyes upon a mysterious world. In her face was a puzzled look—a look of half doubt and half knowledge. After a few playful years she flitted away. Men talked of a ripe soul. There was one who understood, but said nothing, and that was the father of the child. </p>
 
- 
-        	</section>
+
 	
 	<section id="chapter V">
             <h3>Chapter V:</h3>
