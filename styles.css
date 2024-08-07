@@ -1838,3 +1838,14 @@ span.term-nausicaa:hover {
     color: darkcyan;
     text-decoration: underline;
 }
+/* King Alcinous term styling */
+span.term-alcinous {
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-alcinous:hover {
+    color: crimson;
+    text-decoration: underline;
+}
