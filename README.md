@@ -1413,14 +1413,14 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
 <p>"Well,” continued <span class="personal-name-1">Kwamankra</span>,  “in no phase of Grecian thought is this more striking than in the conception of the Deity. The great <i>Niakrapon</i>, or <i>Nyami</i>, of the Fanti corresponds with the Zeus of the Greek, as <i>Abusum</i> correspond with the lesser gods! and when the Greek speaks of the oracle of the god in the midst of an oak tree,’ he conveys the same idea as the Fanti does when he speaks of the busum in an <i>odoom</i> tree, popularly described as fetish. Again, similarly, when the Fanti makes an invocation, it is upon Nyiakrapon he calls, ‘<i>Mika Nyiakrapon</i>,’ as distinguished from any of the <i>Abusum</i>, or lesser gods, just in the same way as the Greek would say, ‘Would to God,’ as distinguished from any of the lesser gods. Moreover, the spiritual sense of the Greek was as keen as that of the Fanti. The gods of the Fanti mix to-day as freely with mortals as did Proteus. Poseidon, or Athene, the daughter of Zeus; and their" offices are the same, for, if men paid heed, they would still gather inspiration for action as in the days when Athens came down from Olympus, and said unto doubting Ulysses, ‘Verily, thou art weak in faith. Some put their trust in men, yet men are weaker than the "gods; why trustest not thou in me? Verily, I am with thee, and will keep thee to the end. But now sleep, for to watch all the night is vexation of spirit.’ ” </p>
 
 <p>“Why,” quoth the youth, “that reads like a passage in the Bible.” </p>
-<p>“Yes,” the thinker went on musingly; “God hath not spoken to man only in the Hebrew Scriptures. But was-going to say, and so one might go on almost <i>ad infinitum</i>, gathering pearls of thought at every turn. Take, for instance, the incident—when Penelope says to Eumaenus, ‘ Call now this stranger; didst thou not mark how my son sneezed a blessing when I spake ? ' I do not know whether the idea of sneezing a blessing occurs in any other language; but a Fanti says: '<i>Akam yey</i>’ when you sneeze in his presence, exactly expressing the same idea: Again, the customs of offering sacrifice to the gods, and making libation to gods and deceased ancestors, are /common alike to the two peoples. And when you recall the familiar way in which the poet speaks I of Eurybates, the herald of Ulysses, ‘Older than me, dark-skinned, round in the shoulders, with pirly hair, L-it. dawns upon the Ethiopian that he gains vastly., more in self-respect by intimate acquaintance with the ancient Greek than with the modern Saxon. </p>
-<p>Let nothing be done through strife or vain-glory; but</p>
-<p> in lowliness of mind let each esteem others better</p>
-<p> than themselves. </p>
-<p>Look not every man on his own things, but every man</p>
- <p>also on the things of others.</p>
- <p>Let this mind be in you, which was also in Christ</p>
- <p>Jesus </p>
+<p>“Yes,” the thinker went on musingly; “God hath not spoken to man only in the Hebrew Scriptures. But was-going to say, and so one might go on almost <i>ad infinitum</i>, gathering pearls of thought at every turn. Take, for instance, the incident—when Penelope says to Eumaenus, ‘ Call now this stranger; didst thou not mark how my son sneezed a blessing when I spake? 'I do not know whether the idea of sneezing a blessing occurs in any other language; but a Fanti says: '<i>Akam yey</i>’ when you sneeze in his presence, exactly expressing the same idea: Again, the customs of offering sacrifice to the gods, and making libation to gods and deceased ancestors, are common alike to the two peoples. And when you recall the familiar way in which the poet speaks I of Eurybates, the herald of Ulysses, ‘Older than me, dark-skinned, round in the shoulders, with pirly hair, L-it. dawns upon the Ethiopian that he gains vastly., more in self-respect by intimate acquaintance with the ancient Greek than with the modern Saxon. </p>
+<p><i>Let nothing be done through strife or vain-glory; but</i></p>
+<p> <i>in lowliness of mind let each esteem others better</i></p>
+<p> <i>than themselves.</i> </p>
+<p><i>Look not every man on his own things, but every man</i></p>
+ <p><i>also on the things of others</i>.</p>
+ <p><i>Let this mind be in you, which was also in Christ</i></p>
+ <p><i>Jesus </p>
 <p>Who, being in the form of God, thought it not robbery</p>
  <p>to be equal with God:</p>
  <p>But made himself of no reputation, </p>
@@ -1428,11 +1428,11 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
 <p>And urns made in the likeness of men. </p>
 <p>And being found in fashion as a man, he humbled him-</p>
  <p>self, and became obedient unto death, even the death</p>
- <p>of the Cross. </p>
+ <p>of the Cross.</p> </p>
 
 <p>WHEREFORE </p>
 
-<p>God also hath highly exalted him,</p>
+<p><i>God also hath highly exalted him,</p>
  <p>And given him a name </p>
 <p>Which is above every name, </p>
 <p>That at the name of Jesus</p>
@@ -1442,13 +1442,12 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
 <p> And things under the earth; </p>
 <p>And that every tongue should confess that Jesus Christ</p>
 <p> is Lord, to the glory of God the Father.—Paul. </p>
-***************
 <p>The tumult and the shouting dies;</p>
 <p> The Captains and the Kings depart:</p>
 <p> Still stands thine ancient sacrifice, </p>
 <p>A humble and. a contrite heart.</p>
  <p>Lord God of Hosts, be with us yet, </p>
-<p>Lest we forget—lest we forget!—Kipling. </p>
+<p>Lest we forget—lest we forget!—Kipling.</p> </p>
  </section>
  
  
