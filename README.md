@@ -1499,7 +1499,7 @@ in the Gold Coast, occupying the country this-side of the Off in River, whose ca
 
     </div>
     <footer>
-        <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+        <p>&copy; 2024 [Akua Agyiewaa Denkyi-Manieson]. All rights reserved.</p>
     </footer>
 </body>
 </html>
