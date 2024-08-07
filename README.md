@@ -1387,7 +1387,8 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
 . </p>
 
 <p>“What is the matter, father; are you not well to-night ?'' “That’s not it, my boy. I am as well as ever, thank you. But to-night I want you to read to me instead. I want to see how you handle Mr. Church’s beautiful setting of the great thoughts of the master. You know to some this feast of the gods is like throwing pearls before swine. But go on. Begin with the visit of Athens to <span class="term-nausicaa"><a href="https://en.wikipedia.org/wiki/Nausicaa" target="_blank">Nausicaa</a></span>
-, the daughter of King Alcinous.”</p>
+, the daughter of <span class="term-alcinous"><a href="https://en.wikipedia.org/wiki/Alcinous" target="_blank">King Alcinous</a></span>
+.”</p>
 
 <p> Thus the youth began: “Athens spake, saying, why hath thy mother so careless a child, Nausicaa? Lo! thy raiment lieth unwashed, and yet the day of thy marriage is at hand, when thou must have fine clothing for thyself, and to give to them that shall lead thee to thy bridegroom’s house; for thus doth a bride win good repute. Do thou, therefore, arise with the day, and go to wash the raiment, and I will go with thee . . .</p>
 
