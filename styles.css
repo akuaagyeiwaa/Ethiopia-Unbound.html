@@ -1860,3 +1860,14 @@ span.term-lafcadio-hearn:hover {
     color: navy;
     text-decoration: underline;
 }
+/* The Denkiras term styling */
+span.term-denkiras {
+    color: darkslateblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-denkiras:hover {
+    color: slateblue;
+    text-decoration: underline;
+}
