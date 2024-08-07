@@ -325,7 +325,7 @@ Mansa felt a little confused; and just then the curtain rose. </p>
 4. 
 <p>For the next few weeks, Mansa and <span class="personal-name-1">Kwamankra</span> saw a good deal of one another. From the first, there was a congeniality between the two which went to make all intercourse natural, pleasant, and spontaneous. It was as if they had known one another all their lives; and it seemed the most natural thing that henceforth their joint lives should run in the same tenor. One day, as the twain sat chatting over an afternoon cup of tea, Mansa fetched a letter from a writing-table and, carelessly spreading it out, said: </p>
 
-<p>“I forgot to tell you, when last you were here, that I have been offered the post of head-mistress of the junior classes of our home university. I am sure you will be delighted with the idea, for I am going to accept it, and my father agrees with me.” “How can you think of such a thing? ” burst out <span class="personal-name-1">Kwamankra</span> almost indignantly. </p>
+<p>“I forgot to tell you, when last you were here, that I have been offered the post of head-mistress of the junior classes of our home university. I am sure you will be delighted with the idea, for I am going to accept it, and my father agrees with me.” “How can you think of such a thing?” burst out <span class="personal-name-1">Kwamankra</span> almost indignantly. </p>
 
 <p>His manner was so sudden that Mansa could not possibly control herself. </p>
 
