@@ -34,11 +34,7 @@
             margin: 10px 0;
         }
         footer
-	<div id="footer">
-    <h1>Footer</h1>
-    Page: <span class="pageNumber"></span>
-</div>
- 	{
+ 		{
             text-align: center;
             padding: 10px;
             background: #333;
