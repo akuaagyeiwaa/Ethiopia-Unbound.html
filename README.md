@@ -78,7 +78,8 @@
 —‘ He that findeth his life, shall lose it,’ or words to that effect? Now, what I wish to know is what had <span class="personal-name-jesus-christ"><a href="https://en.wikipedia.org/wiki/Jesus" target="_blank">Jesus Christ</a></span>
  in common with Marcus Aurelius?” </p>
 
-<p>"Candidly, <span class="personal-name">Kwamankra</span>,” said Whitely, “I have never given the matter a thought; but since you put the question, and viewing it from a merely debatable standpoint, I am inclined to say that the first question to consider is whether Jesus Christ was man or God.”</p>
+<p>"Candidly, <span class="personal-name-kwamankra">Kwamankra</span>
+,” said Whitely, “I have never given the matter a thought; but since you put the question, and viewing it from a merely debatable standpoint, I am inclined to say that the first question to consider is whether Jesus Christ was man or God.”</p>
 
 <p><span class="personal-name">Kwamankra</span> raised his eyes in astonishment. “You do surprise me, Whitely; how can you, of all others, have any doubt upon the matter? I thought you were going up for Orders.”</p>
 
