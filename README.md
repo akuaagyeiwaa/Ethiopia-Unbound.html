@@ -6,6 +6,11 @@
     <title>Ethiopia Unbound by Joseph Casely Hayford</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="path/to/your/styles.css">
+	 <style>
+         <title>Justified Paragraphs</title>
+       p {
+            text align: justify;
+        }
     <div id="footer">
     <h1>Footer</h1>
     Page: <span class="pageNumber"></span>
