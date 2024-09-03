@@ -38,6 +38,14 @@ p {
     font-weight: bold;
     cursor: pointer;
 }
+.personal-name {
+    color: blue; /* Change the color to indicate it's interactive */
+    cursor: pointer; /* Change the cursor to a pointer */
+}
+
+.personal-name:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
 
 footer {
     text-align: center;
