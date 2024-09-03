@@ -183,17 +183,17 @@ He who alone is great?'
 <p>The curtains were down, and, save a glowing lire which a young student kept poking for no reason at all, the atmosphere of the room, as far ns these two souls were concerned, was in strange keeping with the fog outside. They were man and wife, these two, at least before God. Of his own free will he had made love to her in far away Africa, and she had responded. But that was years ago. She, then, a buxom, lively lass, he an intelligent youth of the National University. She, now in <span class="place-name-england"><a href="https://en.wikipedia.org/wiki/England" target="_blank">England</a></span>
 , only a nurse-maid; he a successful student, equipped and ready to carry all the world before him. Yes, they were man and wife, these two; yet were they both ill at ease, and the young man would have willingly trusted himself to the tender mercies of—the London fog. Yet he could not go. It was the law of compensation. He was fairly caught in his own meshes, and fate called upon him to face the music.</p>
 
-<p>To do Tandor-Kuma justice, for that was the youth’s name, he had always intended to remain steadfast in his promise to Ekuba. But now the circumstances were changed, and he was doing his best to grapple with a most difficult situation. How could he, a professional man, used to all the luxuries of English life and habit, take back with him to start a career in Africa a nurse-maid ? And what would he do, if asked to Government house? Thoughts such as these passed through his mind and-made him obdurate to the pleading of the woman a his feet.</p>
+<p>To do Tandor-Kuma justice, for that was the youth’s name, he had always intended to remain steadfast in his promise to <span class="personal-name">Ekuba</span> <script src="scripts.js"></script>. But now the circumstances were changed, and he was doing his best to grapple with a most difficult situation. How could he, a professional man, used to all the luxuries of English life and habit, take back with him to start a career in Africa a nurse-maid ? And what would he do, if asked to Government house? Thoughts such as these passed through his mind and-made him obdurate to the pleading of the woman a his feet.</p>
 
- <p>“If you cry again, Ekuba, I shall leave you.  You know it is-too bad when I am doing all my best to amuse you in this horribly depressing weather.” “Oh, you needn’t trouble about that, Tandor- Kuma. I know you will leave me in any event. You don’t think I have lived all these years without knowing what you men are. You press weak women into your service, and when you have won their sympathy, for a dream you toss them away like this,” viciously kicking at the rug before the fire. 
-“Now, Ekuba, try and be reasonable. You mustn’t think I am going to desert you. Bad as we men are, we have our ideals, and we never rest until we realise them.”
+ <p>“If you cry again, <span class="personal-name">Ekuba</span> <script src="scripts.js"></script>, I shall leave you.  You know it is-too bad when I am doing all my best to amuse you in this horribly depressing weather.” “Oh, you needn’t trouble about that, Tandor- Kuma. I know you will leave me in any event. You don’t think I have lived all these years without knowing what you men are. You press weak women into your service, and when you have won their sympathy, for a dream you toss them away like this,” viciously kicking at the rug before the fire. 
+“Now, <span class="personal-name">Ekuba</span> <script src="scripts.js"></script>, try and be reasonable. You mustn’t think I am going to desert you. Bad as we men are, we have our ideals, and we never rest until we realise them.”
  “ Good! That beats all the cant I have ever heard! What is the next, pray? And women have no ideals, of course! Uncultured women do not feel, do not think! They are just like clay in the hands of you men to mould—to make or mar.”</p>
  
  <p>" Now you are getting angry. Let us discuss this matter dispassionately.”</p>
  
-<p> Instead of that, Ekuba burst into a paroxysm of grief which Tandor-Kuma found it hard to control. By degrees, she grew calmer, and, sticking a pin or two in her head-gear, she snatched up her wraps and stood ready to depart. " </p>
+<p> Instead of that, <span class="personal-name">Ekuba</span> <script src="scripts.js"></script> burst into a paroxysm of grief which Tandor-Kuma found it hard to control. By degrees, she grew calmer, and, sticking a pin or two in her head-gear, she snatched up her wraps and stood ready to depart. " </p>
 
-<p>Tandor-Kuma,” she said, " you have your ideals, and I have mine. Let us part like friends.  I shall not give you the opportunity of dismissing me like a cur. Good-bye, of the present! It may be we shall meet again.” And before the young student could frame a suitable answer, Ekuba was gone. </p>
+<p>Tandor-Kuma,” she said, " you have your ideals, and I have mine. Let us part like friends.  I shall not give you the opportunity of dismissing me like a cur. Good-bye, of the present! It may be we shall meet again.” And before the young student could frame a suitable answer, <span class="personal-name">Ekuba</span> <script src="scripts.js"></script> was gone. </p>
 
   </section>
 
@@ -1055,21 +1055,21 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
  
  <p>Careful nursing had brought Tandor-Kuma back to health; but, as it sometimes happens in West Africa, the boat that was to take the convalescent home had not turned up according to the time-table, and time was hanging most painfully on his hands; and every day the Titan of sheer sympathy was tightening its grasp stronger and stronger” round his heart, leaving his senses reeling. </p>
  
-<p>One evening Ekuba came to clear away the supper and found Tandor-Kuma sitting at a corner of the room reading, the others having gone to a Fanti concert. She boldly drew a chair, and eat down near him. </p>
+<p>One evening <span class="personal-name">Ekuba</span> <script src="scripts.js"></script> came to clear away the supper and found Tandor-Kuma sitting at a corner of the room reading, the others having gone to a Fanti concert. She boldly drew a chair, and eat down near him. </p>
 
 <p>“What a jolly thing your steamer delaying like this. Supposing she did not come for another week or so, I wonder whatever will happen? " Tandor-Kuma raised up a finger deprecatingly.</p>
 
- <p>"I know,” continued Ekuba, not heeding the warning one little bit, “that you are dying to get back to the bosom of your dear family—that is what they call it, isn’t it? But what must be, must be.” </p>
+ <p>"I know,” continued <span class="personal-name">Ekuba</span> <script src="scripts.js"></script>, not heeding the warning one little bit, “that you are dying to get back to the bosom of your dear family—that is what they call it, isn’t it? But what must be, must be.” </p>
  
-<p>“What do you mean, Ekuba, you talk rather strangely to-night.”</p>
+<p>“What do you mean, <span class="personal-name">Ekuba</span> <script src="scripts.js"></script>, you talk rather strangely to-night.”</p>
 
 <p> “I simply mean this, that I have missed you badly all these years, and now that the spirits of my fathers have thrown you in my way once more, surely you will not begrudge me a little of your society. I took a job here with your kinsman, the doctor, feeling sure you would one day turn up.” </p>
 
-<p>“Don’t talk like that, Ekuba. You know I must be careful. I am a married man, and I must think of my wife and children.”</p>
+<p>“Don’t talk like that, <span class="personal-name">Ekuba</span> <script src="scripts.js"></script>. You know I must be careful. I am a married man, and I must think of my wife and children.”</p>
 
  <p>“If it comes to that,” she said, " I am your first wife, and the second is an interloper.” So saying, she burst out into a wild laugh. The situation was becoming perilous and yet comical, and Tandor-Kuma could not restrain a laugh too. Here he was with the woman, who first raised sympathy in him, confronting him with a naivete that was. quite unusual. Should he repulse her?. He quickly decided that the wisest course was to humour her and talk the matter out in a half- bantering, half-serious way with her. </p>
  
-<p>“You know," said Ekuba, taking advantage of a momentary pause on the part of Tandor-Kuma, " the last time you were here, and you had to go away so suddenly, when I came and found you were gone, I was so sorry," looking at Tandor- Kuma defiantly. </p>
+<p>“You know," said <span class="personal-name">Ekuba</span> <script src="scripts.js"></script>, taking advantage of a momentary pause on the part of Tandor-Kuma, " the last time you were here, and you had to go away so suddenly, when I came and found you were gone, I was so sorry," looking at Tandor- Kuma defiantly. </p>
 
 <p>“Were you? I am not surprised. You see we all make mistakes in life, and we are expected to pull ourselves together and go straight after. If not, often the last stage is worse than the first. You don’t wish to see me down, do you? " </p>
 
@@ -1083,22 +1083,22 @@ of <span class="term-west-africa"><a href="https://en.wikipedia.org/wiki/West_Af
 
 <p>“Well, simply this that what must be must be, and what must not be must not be—that is the rule of the gods’'—pointing her little chin up triumphantly. “And after all,” she went on. "was it such a grave error? You know the murderer was not saved, but the thief was.”</p>
 
- <p>“But what if the thief went on stealing,” retorted Tandor-Kuma. “It is like going against the light.” “Light, then darkness,” Ekuba put in with a far away look in her eyes.</p>
+ <p>“But what if the thief went on stealing,” retorted Tandor-Kuma. “It is like going against the light.” “Light, then darkness,” <span class="personal-name">Ekuba</span> <script src="scripts.js"></script> put in with a far away look in her eyes.</p>
  
 <p> “Yes, but when the light comes, then darkness goes away,” suggested Tandor-Kuma.</p>
 
-<p> It was all very fine, this toying with fine phrases and sentiments when passion answered to passion in the breasts of two human beings. Ekuba lapsed into silence, and it was evident that both man and woman were struggling with the same inward emotion. </p>
+<p> It was all very fine, this toying with fine phrases and sentiments when passion answered to passion in the breasts of two human beings. <span class="personal-name">Ekuba</span> <script src="scripts.js"></script> lapsed into silence, and it was evident that both man and woman were struggling with the same inward emotion. </p>
 
 <p> “But tell me,” Tandor-Kuma incautiously broke out, “what made you run away from me the last time I was here before I got married.” </p>
 <p>“How simple you men are? I ran away from you? It was not so. I simply went to avoid compromising you in any way.” </p>
 
-<p>Tandor-Kuma would have liked a little time to reflect. But suddenly Ekuba swept away the supper things, and, in a moment, she was gone.</p>
+<p>Tandor-Kuma would have liked a little time to reflect. But suddenly <span class="personal-name">Ekuba</span> <script src="scripts.js"></script> swept away the supper things, and, in a moment, she was gone.</p>
 
-<p>The next morning, a gentle tap was heard at the door of Tandor-Kuma, and a voice from within said, “come in.” Ekuba boldly entered, and placing down some clean linen, flung herself at Tandor-Kuma’s feet, who was already dressed and reclining in a low chair by the open window. Tandor-Kuma got up and faced her. </p>
+<p>The next morning, a gentle tap was heard at the door of Tandor-Kuma, and a voice from within said, “come in.” <span class="personal-name">Ekuba</span> <script src="scripts.js"></script> boldly entered, and placing down some clean linen, flung herself at Tandor-Kuma’s feet, who was already dressed and reclining in a low chair by the open window. Tandor-Kuma got up and faced her. </p>
 
-<p>“What is this you have done,” he said under his breath, -perceiving the awkwardness of the situation. For answer Ekuba got up and deliberately locked the door upon the outside world. Then facing the man, she said, “Tandor- Kuma, these many years my heart has hungered for your sympathy, and now that the gods have brought you back to me, surely, you will not deny me one kind word. Just say you care for me a little. That is all I want.”</p>
+<p>“What is this you have done,” he said under his breath, -perceiving the awkwardness of the situation. For answer <span class="personal-name">Ekuba</span> <script src="scripts.js"></script> got up and deliberately locked the door upon the outside world. Then facing the man, she said, “Tandor- Kuma, these many years my heart has hungered for your sympathy, and now that the gods have brought you back to me, surely, you will not deny me one kind word. Just say you care for me a little. That is all I want.”</p>
 
-<p> Tandor-Kuma made a move as if he would unbolt the door. In that instant Ekuba held him spell-bound with a look so pitiful, so imploring, so passionate that he quailed before her gaze. He The next moment he Erring love had con- hesitated, then wavered, completely broke down, quered, that was all. </p>
+<p> Tandor-Kuma made a move as if he would unbolt the door. In that instant <span class="personal-name">Ekuba</span> <script src="scripts.js"></script> held him spell-bound with a look so pitiful, so imploring, so passionate that he quailed before her gaze. He The next moment he Erring love had con- hesitated, then wavered, completely broke down, quered, that was all. </p>
  </section>
 
  
