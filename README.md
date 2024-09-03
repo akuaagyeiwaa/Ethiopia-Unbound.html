@@ -6,6 +6,9 @@
     <title>Ethiopia Unbound by Joseph Casely Hayford</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="path/to/your/styles.css">
+	
+     <script src="scripts.js"></script>
+
 	 <style>
          <title>Justified Paragraphs</title>
        p {
