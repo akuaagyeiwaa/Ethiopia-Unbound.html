@@ -88,7 +88,7 @@
  in common with Marcus Aurelius?” </p>
 
 <p>"Candidly, <span class="personal-name-kwamankra">Kwamankra</span> <script src="scripts.js"></script>
-,” said Whitely, “I have never given the matter a thought; but since you put the question, and viewing it from a merely debatable standpoint, I am inclined to say that the first question to consider is whether Jesus Christ was man or God.”</p>
+,” said <span class="personal-name-Whitely">Whitely</span> <script src="scripts.js"></script>, “I have never given the matter a thought; but since you put the question, and viewing it from a merely debatable standpoint, I am inclined to say that the first question to consider is whether Jesus Christ was man or God.”</p>
 
 <p><span class="personal-name">Kwamankra</span> raised his eyes in astonishment. “You do surprise me, Whitely; how can you, of all others, have any doubt upon the matter? I thought you were going up for Orders.”</p>
 
