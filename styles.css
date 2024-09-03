@@ -33,6 +33,11 @@ h1, h2, h3 {
 p {
     margin: 10px 0;
 }
+.personal-name {
+    color: blue;
+    font-weight: bold;
+    cursor: pointer;
+}
 
 footer {
     text-align: center;
