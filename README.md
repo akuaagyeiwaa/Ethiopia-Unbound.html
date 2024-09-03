@@ -306,7 +306,7 @@ in the part of Hamlet. As the curtain did not rise till 8.30, and the evening wa
 , and who were soon joined by a couple of young men. <span class="personal-name">Kwamankra</span> <script src="scripts.js"></script> followed the direction indicated by <span class="personal-name">Whitely</span> <script src="scripts.js"></script>, and nearly jumped out of his seat with excitement.
  "What is it, <span class="personal-name">Kwamankra</span> <script src="scripts.js"></script>?” asked <span class="personal-name">Whitely</span> <script src="scripts.js"></script>. " You generally are so cool.”</p>
  
- <p>“Pardon me, but the fact is, I must introduce you at once. Those are my friends the Abans and I am very much mistaken if the young lady at the corner is not Miss <span class="personal-name">Mansa</span> <script src="scripts.js"></script>. Come along!” And he literally dragged <span class="personal-name">Whitely</span> <script src="scripts.js"></script> after him. </p>
+ <p>“Pardon me, but the fact is, I must introduce you at once. Those are my friends the <span class="personal-name">Abans</span> <script src="scripts.js"></script> and I am very much mistaken if the young lady at the corner is not Miss <span class="personal-name">Mansa</span> <script src="scripts.js"></script>. Come along!” And he literally dragged <span class="personal-name">Whitely</span> <script src="scripts.js"></script> after him. </p>
  
 <p>The old gentleman saw the twain coming in their direction, and beamed all over with delight. He was a good-hearted soul, and loved to see the sons of Ethiopia acquit themselves honourably in a strange land, and he had heard nothing but what was good of <span class="personal-name">Kwamankra</span> <script src="scripts.js"></script>. The enthusiasm with which <span class="personal-name">Kwamankra</span> <script src="scripts.js"></script> was greeted by his friends struck <span class="personal-name">Whitely</span> <script src="scripts.js"></script> forcibly, and he did not at all notice the few seconds that passed before he was introduced. </p>
 
@@ -318,8 +318,8 @@ in the part of Hamlet. As the curtain did not rise till 8.30, and the evening wa
 <p> "You must have found <span class="place-name-stuttgart"><a href="https://en.wikipedia.org/wiki/Stuttgart" target="_blank">Stuttgart</a></span>
  congenial, to judge from the length of time you have been away. Your father has been telling me a little about it, and I hoped to hear more from you.”</p>
 
- <p>“Oh! that must be another time. See, the curtain is about to rise, and here come trooping in the Abans. You know we arrived only this afternoon by the <span class="place-name-dover"><a href="https://en.wikipedia.org/wiki/Dover" target="_blank">Dover</a></span>
- train, and met the Abans at the hotel; and as they were coming to see Hamlet, my father thought it would be nice for us to come with them.” </p>
+ <p>“Oh! that must be another time. See, the curtain is about to rise, and here come trooping in the <span class="personal-name">Abans</span> <script src="scripts.js"></script>. You know we arrived only this afternoon by the <span class="place-name-dover"><a href="https://en.wikipedia.org/wiki/Dover" target="_blank">Dover</a></span>
+ train, and met the <span class="personal-name">Abans</span> <script src="scripts.js"></script> at the hotel; and as they were coming to see Hamlet, my father thought it would be nice for us to come with them.” </p>
  
 <p>“Now, that reminds me, by a stroke of ill-luck, I arrived at your hotel the day you left for the Continent half an hour too late, to find the bird had flown.” 
 <span class="personal-name">Mansa</span> <script src="scripts.js"></script> felt a little confused; and just then the curtain rose. </p>
