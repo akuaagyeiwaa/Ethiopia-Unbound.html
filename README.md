@@ -856,7 +856,7 @@ irrespective of race, and shook them up together, as you would the slips of pape
             <h3>Chapter IX:</h3>
 	 <h4>THE YELLOW PERIL.</h4>
  	
- <p>THE political wisdom of Ekra Kwow, the son of <span class="personal-name">Kwamankra</span> <script src="scripts.js"></script>, was learnt at the feet of his father while yet he was in his teens. Being a lad of inquiring mind and quick perception, many a curious question did he put to his father on odd occasions, when <span class="personal-name">Kwamankra</span> <script src="scripts.js"></script> would return answers full of pith and marrow.</p>
+ <p>THE political wisdom of <span class="personal-name">Kwamankra</span> <script src="scripts.js"></script> the son of <span class="personal-name">Ekra Kwow</span> <script src="scripts.js"></script>, was learnt at the feet of his father while yet he was in his teens. Being a lad of inquiring mind and quick perception, many a curious question did he put to his father on odd occasions, when <span class="personal-name">Kwamankra</span> <script src="scripts.js"></script> would return answers full of pith and marrow.</p>
  
 <p> “What is the meaning of the “yellow peril’?” interrogated the precocious youth, as he maned his neck behind the chair of the <span class="term-paterfamilias"><a href="https://en.wikipedia.org/wiki/Pater_familias" target="_blank">paterfamilias</a></span>
 , who was leisurely gleaning from the pages of <i>Public Opinion</i>.</p>
@@ -907,7 +907,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 
 <p> “No, the Political Officer does not exactly do what one should think, my boy. Here on the "Gold Coast the people have also shown that they do not mean to go under, but in a different way. You know the story of the wolf and the lamb. I see you are all eagerness. Well, it will bear repetition. The wolf meets the lamb on a thirsty day by a stream. The wolf stands higher up the stream and drinks, while the lamb quenches its thirst in the lower part. Presently Mr. Wolf says to Master Lamb, ‘what do you mean by making the stream muddy? ’ ‘ How can that be ? ' says Master Lamb, ‘since you are higher up the stream than I am.’ ‘I hear you spoke disrespectfully of me three months ago,’ puts in Mr. Wolf. Master Lamb meekly: ‘I have been in the world only two months gone.’ ‘Well, if it wasn’t you,’ replies the wolf, ‘it must have been your father who did.’”</p>
 
-<p> “Coward!” “cried Ekra Kwow, excitedly. “Don’t I wish I were close by with my little pop gun? I should have put a hole through Mr. Wolf right enough.”</p>
+<p> “Coward!” “cried <span class="personal-name">Ekra Kwow</span> <script src="scripts.js"></script>, excitedly. “Don’t I wish I were close by with my little pop gun? I should have put a hole through Mr. Wolf right enough.”</p>
 
 <p> “Good, my boy, that’s well said. But, unfortunately, it is an every day occurrence in this world, and, what is worse, we can’t always bring to play our pop guns when we may morally be justified in doing so.”</p>
 
@@ -929,7 +929,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 
 <p>'Why should they live—Fate has writ large its doom for them.</p>
   <p>Laud for the whites! Let the black fellows die ! ’ the European nations seem to shout, and reck not offence to God or man in the cry.” </p>
-<p>“But how does all this apply to our country? ” asked Ekra Kwow.</p>
+<p>“But how does all this apply to our country? ” asked <span class="personal-name">Ekra Kwow</span> <script src="scripts.js"></script>.</p>
 
 <p> “How does it ?—good ! I like to think you are following so closely what the learned books call the argument, that is, the immediate subject under discussion. Well, I will tell you in one word. The Political Officer represents the self-assertive-ness of the English in extending power and authority at every nook and corner wherever the thin end of the wedge can be introduced. The sagacious black man offers a point of resistance when he pleads his peculiar customs and institutions, and presto! the cry of the ‘educated native peril’ is raised, as if forsooth, the ‘native’ ceases to be a ‘ native ’ the moment he is educated. The genuine cry might be ‘the black peril,’ but that won’t do at present. The wolf and the lamb story again, you see.” </p>
 
@@ -1397,7 +1397,7 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
 <p>By this time the precocious youth was well on in his teens, and was already grappling with the intricacies of Greek roots and Latin suffixes. But often would his father warn him to be mindful more of the things which matter, as he quaintly put it. Now and again he would induce the youth to draw comparisons between the mode of thought and the practice of the ancients; and he would insist that there was no better intellectual, moral, and national training for a young Fanti than such exercise involved. By way of encouragement, when the youth had done particularly well, he would take him upon new ground and delight him with stories from <span class="term-homer"><a href="https://en.wikipedia.org/wiki/Homer" target="_blank">Homer</a></span>
 ’s great masterpiece, which; in a curious way, reflected the every-day life of their own people.</p>
 
- <p>On this particular occasion, you may well imagine the excitement of Ekra Kwow, as he drew a low stool beside the paterfamilias, all eagerness for the latter to begin. </p>
+ <p>On this particular occasion, you may well imagine the excitement of <span class="personal-name">Ekra Kwow</span> <script src="scripts.js"></script>, as he drew a low stool beside the paterfamilias, all eagerness for the latter to begin. </p>
  
 <p>The youth looked disappointed, as, instead of beginning a story, his father continued smoking, and simply thrust into his hand an old, well-thumbed popular edition of the story of <span class="term-odyssey"><a href="https://en.wikipedia.org/wiki/Odyssey" target="_blank">the Odyssey</a></span>
 , done into beautiful English by the <span class="term-alfred-church"><a href="https://en.wikipedia.org/wiki/Alfred_John_Church" target="_blank">Rev. Alfred J. Church</a></span>
