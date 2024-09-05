@@ -996,7 +996,7 @@ is capable of measuring swords with the Occident on any field of battle.” Thes
 <p>TOM PALMER, the son of Jonathan Palmer, of Horse Road, Ussher Town, Accra, was a goodly youth of many fine qualities. The Palmers originally hailed from <span class="term-sierra-leone"><a href="https://en.wikipedia.org/wiki/Sierra_Leone" target="_blank">Sierra Leone</a></span>
 , settling on the Gold Coast early in the fifties of the last century. By dint of great energy, combined with uncommon business tact, the first Palmer had gradually won for himself a competence which the second Palmer, with equal tact, had gone on improving, so that when it came to the turn of Jonathan Palmer, he was looked up to as a man of wealth, position, and influence in the community of Accra.</p>
 
- <p>Jonathan Palmer had contented himself with money making, but his son and heir, the goodly Tom Palmer, had combined book-learning with his other accomplishments, and gone to the extent of taking the L.Th. degree at the College in <span class="term-freetown"><a href="https://en.wikipedia.org/wiki/Freetown" target="_blank">Freetown</a></span>
+ <p><span class="personal-name">Jonathan Palmer</span> <script src="scripts.js"></script> had contented himself with money making, but his son and heir, the goodly Tom Palmer, had combined book-learning with his other accomplishments, and gone to the extent of taking the L.Th. degree at the College in <span class="term-freetown"><a href="https://en.wikipedia.org/wiki/Freetown" target="_blank">Freetown</a></span>
 , though he never had the intention of entering the Church. He was fond of controversy, and as the L.Th. course combined a certain amount of historical information, he had followed it so as to be able to hold his own against all comers, as he pugilistically put it. For a calling he had chosen agriculture, and was an expert in the secrets of soils, manures, and seasons. Not that he practised agriculture, as men practise medicine for example. Oh, dear no! He was a <span class="term-dilettante"><a href="https://en.wikipedia.org/wiki/Dilettante" target="_blank">dilettante</a></span>
  and no more. It was enough for him to be able to say with truth, I am a scientific agriculturist, and I can give you a point or two. Besides, in a community like Accra, where every respectable citizen has a calling, it would not have done to appear a loafer. </p>
  
@@ -1250,9 +1250,6 @@ GENERAL CONSIDERATIONS: </h4>
 	 <h4>RACE EMANCIPATION—PARTICULAR CONSIDERATIONS: AFRICAN NATIONALITY.</h4>
             
        
-
-
-
  <p>In the name of African nationality the thinker would, through the medium of <i>Ethiopia Unbound</i>, greet members of the race everywhere throughout the world. Whether in the east, south, or west of the African Continent, or yet among the teeming millions of Ethiopia’s sons in America, the cry of the African, in its last analysis, is for scope and freedom in the struggle for existence, and it would seem as if the care of the leaders of the race has been to discover those avenues of right and natural endeavour which would, in the end, ensure for the race due recognition of its individuality. </p>
  
 <p>The race problem is probably most intense in the United States of America, but there are indications that on the African Continent itself it is fast assuming concrete form. <span class="term-sir-arthur-lawley"><a href="https://en.wikipedia.org/wiki/Arthur_Lawley,_1st_Baron_Lawley" target="_blank">Sir Arthur Lawley</a></span>
