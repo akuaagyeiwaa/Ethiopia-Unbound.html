@@ -837,7 +837,7 @@ Colonial Chaplain had dined well, and was enjoying a Havana under the spreading 
 
  <p>“The question has nothing to do with epidemics. The man in the street knows that,” sourly retorted  <span class="personal-name">Bilcox</span> <script src="scripts.js"></script>. “Besides, it is common knowledge that whites never catch small-pox from blacks,” he added irrelevantly.</p>
  
-<p> “Ha! ha! ha! ha!”" burst out Dr. Castor. “That’s good, go one further. In all my experience I declare!” “You don’t mean to insult me, doctor, I hope. Besides, all this discussion before these gentlemen,” waving his hand in the direction of the <span class="term-coloured"><a href="https://en.wikipedia.org/wiki/Coloureds" target="_blank">coloured</a></span>
+<p> “Ha! ha! ha! ha!”" burst out Dr.<span class="personal-name">Castor</span> <script src="scripts.js"></script>. “That’s good, go one further. In all my experience I declare!” “You don’t mean to insult me, doctor, I hope. Besides, all this discussion before these gentlemen,” waving his hand in the direction of the <span class="term-coloured"><a href="https://en.wikipedia.org/wiki/Coloureds" target="_blank">coloured</a></span>
  fraternity, “is most unseemly, and I for one must beg leave to retire.” </p>
 
 <p>“Pray, don’t go away, Mr.  <span class="personal-name">Bilcox</span> <script src="scripts.js"></script>,” said <span class="personal-name">Kwamankra</span> <script src="scripts.js"></script>. “I am sure we are not offended in the slightest. My friends here, like myself, are used to this kind of thing. But what are the odds ? I, for one, am strong on <i>reciprocity.”</i> </p>
