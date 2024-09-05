@@ -660,7 +660,8 @@ The preacher was a white man, preaching to a black congregation; and outside on 
 <p>For the Rev. <span class="personal-name"> Silas Whitely</span> <script src="scripts.js"></script> the die was cast. Passing from college to ordination without any fixed ideas as to his own relation to God in his son Jesus Christ, or otherwise, and yielding to the advice of an old college chum,<span class="personal-name"> Kennedy Bilcox</span> <script src="scripts.js"></script>  by name, who at this time was holding the post of Political Officer on the Gold Coast, he had made up his mind to put in an application for the Colonial Chaplaincy at Sekondi rather than continue to face a life of penury as a curate in <span class="place-name-east-london"><a href="https://en.wikipedia.org/wiki/East_London,_South_Africa" target="_blank">East London</a></span>
 , particularly as he knew a friend or two who would work the back door influence beautifully with the officials at the Colonial Office on his behalf. </p>
 
-<p>“And what is the screw like,” eagerly asked <span class="personal-name">Whitely</span> <script src="scripts.js"></script>, when Bilcox first made the suggestion to him. </p>
+<p>“And what is the screw like,” eagerly asked  when<span class="personal-name"> Bilcox</span> <script src="scripts.js"></script> Bilcox first made the suggestion to him. </p>
+
 
 <p>“Oh, it is only a matter of some five hundred a year with an annual rise of twenty-five pounds, until you reach six hundred pounds, besides fees and allowances thrown in here and there, passages in and out free every twelve months, etcetera, etcetera, etcetera, with an assistant chaplain a black man of course, to save you unnecessary drudgery.” </p>
 
