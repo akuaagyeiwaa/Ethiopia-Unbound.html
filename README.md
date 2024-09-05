@@ -861,7 +861,7 @@ irrespective of race, and shook them up together, as you would the slips of pape
 <p> “What is the meaning of the “yellow peril’?” interrogated the precocious youth, as he maned his neck behind the chair of the <span class="term-paterfamilias"><a href="https://en.wikipedia.org/wiki/Pater_familias" target="_blank">paterfamilias</a></span>
 , who was leisurely gleaning from the pages of <i>Public Opinion</i>.</p>
 
- <p><span class="personal-name">Kwamankra</span> <script src="scripts.js"></script> raised his eyes from the printed matter, and beckoned the young hopeful forward. Eyeing the lad curiously, he said, “If you must know, I suppose I must give you the lesson, and, perhaps, the earlier the better. Now, if you should be going to school tomorrow, and at the street corner Kweku Mensah knocked off your cap and punched your nose, what would you do?</p>
+ <p><span class="personal-name">Kwamankra</span> <script src="scripts.js"></script> raised his eyes from the printed matter, and beckoned the young hopeful forward. Eyeing the lad curiously, he said, “If you must know, I suppose I must give you the lesson, and, perhaps, the earlier the better. Now, if you should be going to school tomorrow, and at the street corner <span class="personal-name">Kweku Mensah</span> <script src="scripts.js"></script> knocked off your cap and punched your nose, what would you do?</p>
  
 <p>“I would, of course, punch his head back,” answered the lad triumphantly. “Good! Now let us go a step further. Suppose your school fellows were going on a picnic, and Kobina Tsintsin’s boys met you on the public road and barred your progress, would not you brave lads fight your way through? "</p>
 
@@ -869,7 +869,7 @@ irrespective of race, and shook them up together, as you would the slips of pape
 
 <p>“Now, for the application. In geography books you have learnt that different nations dwell on the face of the earth—white, yellow, red, brown and black like ourselves. They each occupy a portion of the earth’s surface. Those who occupy those tiny islands somewhere in the English Channel are, as you know, called the English. So you have the Japanese, those brave fellows, the Indians, the Africans, or to come down to particulars, among the Africans, say, <span class="term-zulus"><a href="https://en.wikipedia.org/wiki/Zulu_people" target="_blank">the Zulus</a></span>
 , <span class="term-ashantis"><a href="https://en.wikipedia.org/wiki/Ashanti_people" target="_blank">the Ashantis</a></span>
-, and the Fantis. To give the principle which made you punch Kweku Mensah back, and your school fellows bravely break through the ranks of Kobina Tsintsin’s boys, a name, let us call it the law of self-preservation. Now, if you relax the practice of this principle in the course of life, you go under, and men then talk of the survivors as the fittest, because they have resisted best. You remember those lines in Shakespeare you were reciting to me the other day: </p>
+, and the Fantis. To give the principle which made you punch <span class="personal-name">Kweku Mensah</span> <script src="scripts.js"></script> back, and your school fellows bravely break through the ranks of Kobina Tsintsin’s boys, a name, let us call it the law of self-preservation. Now, if you relax the practice of this principle in the course of life, you go under, and men then talk of the survivors as the fittest, because they have resisted best. You remember those lines in Shakespeare you were reciting to me the other day: </p>
 
 	<p>Beware </p> 
 <p>Of entrance to a quarrel; but being in, </p>
