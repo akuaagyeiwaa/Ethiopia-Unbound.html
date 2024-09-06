@@ -68,9 +68,7 @@
 
  <p>At the dawn of the twentieth century, men of light, and leading-both in <span class="term-europe"><a href="https://en.wikipedia.org/wiki/Europe" target="_blank">Europe</a></span>
  and in <span class="place-name-america"><a href="https://en.wikipedia.org/wiki/America" target="_blank">America</a></span>
- had not yet made up their minds as to what place to assign to the spiritual aspirations of the black man; and the Nations were casting about for an answer to the wail which went up from the heart the oppressed’ race for opportunity. And yet it was at best but an impotent cry. For there has never lived a people worth writing about who have not shaped out a destiny for themselves, or carved out their own opportunity. <span class="term-europe" data-lat="48.8566" data-lng="2.3522">
-    <a href="https://en.wikipedia.org/wiki/Europe" target="_blank">Europe</a>
-</span>
+ had not yet made up their minds as to what place to assign to the spiritual aspirations of the black man; and the Nations were casting about for an answer to the wail which went up from the heart the oppressed’ race for opportunity. And yet it was at best but an impotent cry. For there has never lived a people worth writing about who have not shaped out a destiny for themselves, or carved out their own opportunity. 
 
  </p>
  
