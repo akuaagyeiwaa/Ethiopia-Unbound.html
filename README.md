@@ -1463,7 +1463,7 @@ It is apparent that Mr. Du Bois writes from an American standpoint, surrounded b
  
  
  <section id="chapterXX">
-            <h3>Chapter XX: </h3>
+            <h3>Chapter XX:</h3>
 	    <p>AND A LITLE CHILD SHALL LEAD THEM</p>
 
 <p>By the year 1925 a mighty change had come over the thought of the nations, and it was due to some extent to the work of the Gold Coast Nation and Ethiopian Review, promoted by <span class="personal-name">Kwamankra</span> <script src="scripts.js"></script> just before the close of the first ten years of the century in the interests of Gold Coast national conservancy; but as time went on it had broadened out in sympathy to embrace the needs of the entire race. During the preceding fifteen years the Nation had freely circulated throughout the Ethiopian world, and the promoter and the Editors were in constant communication with the leading thinkers of the race throughout the world.</p>
